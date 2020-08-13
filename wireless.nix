@@ -4,8 +4,8 @@
 
 {
   environment.systemPackages = with pkgs; [
+    aircrack-ng
     kismet
     wavemon
-    zmap
   ];
 }
