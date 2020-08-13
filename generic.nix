@@ -5,9 +5,9 @@
 {
   environment.systemPackages = with pkgs; [
     curl
-    wget
     httpie
-    pwgen
     macchanger
+    pwgen
+    wget
   ];
 }
