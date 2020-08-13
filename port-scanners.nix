@@ -4,8 +4,8 @@
 
 {
   environment.systemPackages = with pkgs; [
-    nmap
     masscan
+    nmap
     zmap
   ];
 }
