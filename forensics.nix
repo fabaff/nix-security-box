@@ -4,6 +4,8 @@
 
 {
   environment.systemPackages = with pkgs; [
-    wfuzz
+    foremost
+    nwipe
+    testdisk
   ];
 }
