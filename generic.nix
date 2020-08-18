@@ -9,6 +9,8 @@
     macchanger
     nano
     pwgen
+    screen
+    tmux
     wget
   ];
 }
