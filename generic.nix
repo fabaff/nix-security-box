@@ -7,6 +7,7 @@
     curl
     httpie
     macchanger
+    nano
     pwgen
     wget
   ];
