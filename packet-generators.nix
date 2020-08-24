@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    fping
     hping
     #sing
     #scapy
