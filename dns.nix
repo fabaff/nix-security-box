@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     amass
+    bind
     dnsenum
     dnsrecon
     dnstracer
