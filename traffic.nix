@@ -1,10 +1,15 @@
-# Tunneling tools
+# Tools to capture network traffic
 
 { pkgs, ... }:
 
 {
   environment.systemPackages = with pkgs; [
-    stunnel
-    udptunnel
+    dhcpdump
+    netsniff-ng
+    tcpdump
+    termshark
+    tshark
+    wireshark
+    wireshark-cli
   ];
 }
