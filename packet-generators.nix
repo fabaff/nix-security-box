@@ -7,6 +7,6 @@
     fping
     hping
     #sing
-    #scapy
+    scapy
   ];
 }
