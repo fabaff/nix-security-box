@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     dhcpdump
     netsniff-ng
+    ngrep
     tcpdump
     termshark
     tshark
