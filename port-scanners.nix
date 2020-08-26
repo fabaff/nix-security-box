@@ -7,6 +7,7 @@
     arp-scan
     masscan
     nmap
+    rustscan
     zmap
   ];
 }
