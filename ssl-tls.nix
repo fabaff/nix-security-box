@@ -4,9 +4,10 @@
 
 {
   environment.systemPackages = with pkgs; [
-    sslsplit
-    sslyze
     cipherscan
     ssldump
+    sslsplit
+    sslyze
+    testssl
   ];
 }
