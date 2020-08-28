@@ -9,12 +9,14 @@
     macchanger
     nano
     pwgen
-    screen
-    tmux
     wget
 
+    # Terminal multiplexer
+    creen
+    tmux   
 
     # Archive tools
     unrar
+    unzip
   ];
 }
