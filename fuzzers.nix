@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    ssdeep
     wfuzz
   ];
 }
