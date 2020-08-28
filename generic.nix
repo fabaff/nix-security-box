@@ -12,5 +12,9 @@
     screen
     tmux
     wget
+
+
+    # Archive tools
+    unrar
   ];
 }
