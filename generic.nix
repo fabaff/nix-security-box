@@ -11,6 +11,10 @@
     pwgen
     wget
 
+    # Network helpers
+    netmask
+    
+
     # Terminal multiplexer
     creen
     tmux   
