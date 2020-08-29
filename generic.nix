@@ -10,7 +10,8 @@
     nano
     pwgen
     wget
-
+    htop
+    inxi
     # Network design helpers
     ipcalc
     netmask
