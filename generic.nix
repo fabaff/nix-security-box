@@ -16,6 +16,7 @@
     tmux   
 
     # Archive tools
+    p7zip
     unrar
     unzip
   ];
