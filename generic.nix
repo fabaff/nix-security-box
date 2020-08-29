@@ -11,9 +11,9 @@
     pwgen
     wget
 
-    # Network helpers
+    # Network design helpers
+    ipcalc
     netmask
-    
 
     # Terminal multiplexer
     creen
