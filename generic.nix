@@ -13,6 +13,17 @@
     htop
     inxi
 
+    # Common client for various protocols
+    cifs-utils
+    net-snmp
+    nfs-utils
+    openssh
+    openvpn
+    samba
+    wireguard
+    wireguard-go
+    wireguard-tools
+
     # Network design helpers
     ipcalc
     netmask
