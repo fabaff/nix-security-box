@@ -8,6 +8,7 @@
     hashcat-utils
     john
     medusa
+    nasty
     thc-hydra
   ];
 }
