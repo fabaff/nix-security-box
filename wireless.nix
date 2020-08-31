@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     aircrack-ng
+    cowpatty
     horst
     kismet
     pixiewps
