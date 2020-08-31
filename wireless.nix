@@ -9,6 +9,7 @@
     horst
     kismet
     pixiewps
+    reaverwps
     wavemon
     wifite2
   ];
