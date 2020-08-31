@@ -13,5 +13,6 @@
     nuttcp
     putty
     telnet
+    whois
   ];
 }
