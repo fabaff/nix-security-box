@@ -10,5 +10,6 @@
     kismet
     pixiewps
     wavemon
+    wifite2
   ];
 }
