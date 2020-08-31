@@ -7,6 +7,7 @@
     aircrack-ng
     horst
     kismet
+    pixiewps
     wavemon
   ];
 }
