@@ -12,6 +12,7 @@
     junkie
     netsniff-ng
     ngrep
+    sniffglue
     tcpdump
     tcpflow
     tcpreplay
