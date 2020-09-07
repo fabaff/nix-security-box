@@ -7,6 +7,8 @@
     afflib
     dcfldd
     ddrescue
+    ext4magic
+    extundelete
     foremost
     gzrt
     nwipe
