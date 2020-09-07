@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    afflib
     dcfldd
     ddrescue
     foremost
