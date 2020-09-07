@@ -8,6 +8,7 @@
     dcfldd
     ddrescue
     foremost
+    gzrt
     nwipe
     recoverjpeg
     sleuthkit
