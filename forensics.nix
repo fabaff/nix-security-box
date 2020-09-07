@@ -9,6 +9,7 @@
     ddrescue
     foremost
     nwipe
+    sleuthkit
     testdisk
   ];
 }
