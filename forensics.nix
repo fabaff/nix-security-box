@@ -7,6 +7,7 @@
     afflib
     dcfldd
     ddrescue
+    exiv2
     ext4magic
     extundelete
     foremost
