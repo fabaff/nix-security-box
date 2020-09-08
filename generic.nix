@@ -5,13 +5,14 @@
 {
   environment.systemPackages = with pkgs; [
     curl
+    htop
     httpie
+    inxi
+    iw
     macchanger
     nano
     pwgen
     wget
-    htop
-    inxi
 
     # Common client for various protocols
     cifs-utils
