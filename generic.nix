@@ -12,6 +12,7 @@
     macchanger
     nano
     pwgen
+    utillinux
     wget
 
     # Common client for various protocols
