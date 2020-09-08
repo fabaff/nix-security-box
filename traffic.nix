@@ -14,5 +14,6 @@
     tshark
     wireshark
     wireshark-cli
+    zeek
   ];
 }
