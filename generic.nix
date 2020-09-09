@@ -8,6 +8,8 @@
     htop
     httpie
     inxi
+    iproute
+    iproute2
     iw
     macchanger
     nano
