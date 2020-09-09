@@ -8,6 +8,7 @@
     dnstop
     driftnet
     dsniff
+    goreplay
     netsniff-ng
     ngrep
     tcpdump
