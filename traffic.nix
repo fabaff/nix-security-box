@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     dhcpdump
+    dnstop
     driftnet
     dsniff
     netsniff-ng
