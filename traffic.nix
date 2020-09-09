@@ -11,6 +11,7 @@
     ngrep
     tcpdump
     tcpflow
+    tcpreplay
     termshark
     tshark
     wireshark
