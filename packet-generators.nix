@@ -4,9 +4,11 @@
 
 {
   environment.systemPackages = with pkgs; [
+    #sing
     fping
     hping
-    #sing
+    ostinato
+    pktgen
     scapy
   ];
 }
