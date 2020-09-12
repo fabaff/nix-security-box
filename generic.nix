@@ -7,6 +7,7 @@
     curl
     htop
     httpie
+    inetutils
     inxi
     iproute
     iproute2
