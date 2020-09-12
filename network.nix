@@ -9,6 +9,7 @@
     mtr
     lftp
     ncat
+    ncftp
     netcat-gnu
     nload
     nuttcp
