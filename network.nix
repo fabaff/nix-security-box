@@ -7,6 +7,7 @@
     atftp
     iperf2
     mtr
+    lftp
     ncat
     netcat-gnu
     nload
