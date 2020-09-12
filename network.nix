@@ -14,6 +14,7 @@
     nload
     nuttcp
     putty
+    sslh
     telnet
     whois
   ];
