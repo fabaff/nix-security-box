@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    checksec
     chkrootkit
     lynis
     vulnix
