@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     bruteforce-luks
+    crunch
     hashcat
     hashcat-utils
     john
