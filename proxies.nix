@@ -8,6 +8,7 @@
     burpsuite
     ettercap
     mitmproxy
+    proxychains
     redsocks
     zap
   ];
