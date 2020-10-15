@@ -14,6 +14,7 @@
     gzrt
     nwipe
     recoverjpeg
+    safecopy
     sleuthkit
     testdisk
   ];
