@@ -6,14 +6,15 @@
   environment.systemPackages = with pkgs; [
     atftp
     iperf2
-    mtr
     lftp
+    mtr
     ncat
     ncftp
     netcat-gnu
     nload
     nuttcp
     putty
+    pwnat
     sslh
     telnet
     whois
