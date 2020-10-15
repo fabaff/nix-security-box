@@ -9,6 +9,7 @@
     driftnet
     dsniff
     goreplay
+    junkie
     netsniff-ng
     ngrep
     tcpdump
