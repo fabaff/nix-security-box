@@ -1,4 +1,4 @@
-# Forensics tools
+# Bluetooth tools
 
 { pkgs, ... }:
 
@@ -19,5 +19,6 @@
     sleuthkit
     srm
     testdisk
+    wipe
   ];
 }
