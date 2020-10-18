@@ -12,6 +12,7 @@
     extundelete
     foremost
     gzrt
+    hivex
     nwipe
     recoverjpeg
     safecopy
