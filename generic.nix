@@ -12,6 +12,7 @@
     iproute
     iproute2
     iw
+    lynx
     macchanger
     nano
     pwgen
