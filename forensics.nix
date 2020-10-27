@@ -7,6 +7,7 @@
     afflib
     dcfldd
     ddrescue
+    dislocker
     exiv2
     ext4magic
     extundelete
