@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    chrony
     curl
     htop
     httpie
