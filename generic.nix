@@ -23,6 +23,7 @@
     cifs-utils
     net-snmp
     nfs-utils
+    ntp
     openssh
     openvpn
     samba
