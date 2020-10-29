@@ -16,6 +16,7 @@
     lynx
     macchanger
     nano
+    parted
     pwgen
     utillinux
     wget
