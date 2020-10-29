@@ -14,6 +14,8 @@
     foremost
     gzrt
     hivex
+    ntfs3g
+    ntfsprogs
     nwipe
     recoverjpeg
     safecopy
