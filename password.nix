@@ -12,6 +12,7 @@
     john
     medusa
     nasty
+    ncrack
     thc-hydra
   ];
 }
