@@ -10,5 +10,6 @@
     dnsrecon
     dnstracer
     fierce
+    findomain
   ];
 }
