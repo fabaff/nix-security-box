@@ -19,6 +19,7 @@
     tshark
     wireshark
     wireshark-cli
+    yara
     zeek
   ];
 }
