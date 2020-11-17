@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     chrony
+    clamav
     curl
     htop
     httpie
