@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    afl
     aflplusplus
     honggfuzz
     radamsa
