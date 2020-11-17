@@ -10,5 +10,6 @@
     radamsa
     ssdeep
     wfuzz
+    zzuf
   ];
 }
