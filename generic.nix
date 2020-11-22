@@ -24,15 +24,18 @@
 
     # Common client for various protocols
     cifs-utils
+    freerdp
     net-snmp
     nfs-utils
     ntp
     openssh
     openvpn
     samba
+    tightvnc
     wireguard
     wireguard-go
     wireguard-tools
+    xrdp
 
     # Network design helpers
     ipcalc
