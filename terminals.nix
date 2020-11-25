@@ -8,5 +8,6 @@
     minicom
     picocom
     socat
+    x3270
   ];
 }
