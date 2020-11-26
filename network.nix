@@ -18,6 +18,7 @@
     sshping
     sslh
     telnet
+    wbox
     whois
   ];
 }
