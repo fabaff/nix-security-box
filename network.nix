@@ -15,6 +15,7 @@
     nuttcp
     putty
     pwnat
+    sshping
     sslh
     telnet
     whois
