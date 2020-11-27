@@ -7,6 +7,7 @@
     chrony
     clamav
     curl
+    flashrom
     htop
     httpie
     inetutils
