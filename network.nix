@@ -13,6 +13,7 @@
     netcat-gnu
     nload
     nuttcp
+    p0f
     putty
     pwnat
     sshping
