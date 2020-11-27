@@ -42,7 +42,7 @@
     netmask
 
     # Terminal multiplexer
-    creen
+    screen
     tmux   
 
     # Archive tools
