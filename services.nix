@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     enum4linux
+    metasploit
     onesixtyone
     siege
     swaks
