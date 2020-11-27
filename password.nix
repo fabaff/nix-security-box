@@ -8,6 +8,7 @@
     crunch
     hashcat
     hashcat-utils
+    hashdeep
     john
     medusa
     nasty
