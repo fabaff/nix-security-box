@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     atftp
+    evillimiter
     iperf2
     lftp
     mtr
