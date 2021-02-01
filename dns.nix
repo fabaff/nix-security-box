@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    aiodnsbrute
     amass
     bind
     dnsenum
@@ -11,7 +12,6 @@
     dnstracer
     dnsx
     fierce
-    findomain
     findomain
     subfinder
   ];
