@@ -41,6 +41,9 @@
     gospider
     wpscan
 
+    # SNMP
+    onesixtyone
+
     # SSH
     sshchecker
     ssh-audit
