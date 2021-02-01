@@ -4,7 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
-    #sing
+    gping
     fping
     hping
     ostinato
