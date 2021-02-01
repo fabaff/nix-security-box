@@ -21,6 +21,7 @@
     safecopy
     sleuthkit
     srm
+    stegseek
     testdisk
     wipe
   ];
