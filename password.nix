@@ -14,6 +14,8 @@
     medusa
     nasty
     ncrack
+    phrasendrescher
+    python3Packages.patator
     thc-hydra
   ];
 }
