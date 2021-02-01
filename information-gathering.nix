@@ -7,5 +7,7 @@
     sn0int
     p0f
     theharvester
+    urlhunter
+    cloudbrute
   ];
 }
