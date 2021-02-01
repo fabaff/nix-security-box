@@ -7,6 +7,7 @@
     arp-scan
     ipscan
     masscan
+    naabu
     nmap
     rustscan
     zmap
