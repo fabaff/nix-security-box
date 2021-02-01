@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    androguard
     abootimg
     apktool
     dex2jar
