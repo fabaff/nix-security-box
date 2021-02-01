@@ -9,7 +9,10 @@
     dnsenum
     dnsrecon
     dnstracer
+    dnsx
     fierce
     findomain
+    findomain
+    subfinder
   ];
 }
