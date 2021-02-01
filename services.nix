@@ -1,4 +1,4 @@
-# Tools for testing services
+# Tools for testing services and application
 
 { pkgs, ... }:
 
@@ -15,5 +15,49 @@
     siege
     swaks
     wpscan
+    nuclei
+
+    # Git
+    gitjacker
+    truffleHog
+    gitleaks
+
+    # *SQL
+    sqlmap
+
+    # Web, HTTP
+    monsoon
+    gau
+    corsmisc
+    bypass403
+    subjs
+    photon
+    wad
+    httpx
+    snallygaster
+    hakrawler
+    wuzz
+    sigurlx
+    gospider
+    wpscan
+
+    # SSH
+    sshchecker
+    ssh-audit
+
+    # IDS
+    teler
+
+    # Container, images
+    grype
+    trivy
+    fwanalyzer
+
+    # Terraform
+    terrascan
+    tfsec
+
+    # Windows
+    pypykatz
   ];
 }
