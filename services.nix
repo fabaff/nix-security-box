@@ -52,8 +52,11 @@
     teler
 
     # Container, images
+    clair
+    dockle
     grype
     trivy
+
     fwanalyzer
 
     # Terraform
