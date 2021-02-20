@@ -9,6 +9,7 @@
     masscan
     naabu
     nmap
+    # nmap-unfree
     rustscan
     zmap
   ];
