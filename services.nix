@@ -21,6 +21,8 @@
     gitjacker
     truffleHog
     gitleaks
+    shhgit
+    secretscanner
 
     # *SQL
     sqlmap
