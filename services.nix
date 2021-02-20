@@ -11,11 +11,12 @@
     ldeep
     metasploit
     nikto
+    nuclei
     onesixtyone
     siege
     swaks
+    wafw00f
     wpscan
-    nuclei
 
     # Git
     gitjacker
