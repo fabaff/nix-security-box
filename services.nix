@@ -41,6 +41,7 @@
     snallygaster
     hakrawler
     wuzz
+    uddup
     sigurlx
     gospider
     wpscan
