@@ -30,6 +30,7 @@
 
     # Web, HTTP
     monsoon
+    galer
     gau
     corsmisc
     bypass403
