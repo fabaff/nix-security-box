@@ -50,6 +50,7 @@
     # SSH
     sshchecker
     ssh-audit
+    ssb
 
     # IDS
     teler
