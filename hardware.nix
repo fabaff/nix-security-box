@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     cantoolz
+    chipsec
     esptool
     python3Packages.can
     python3Packages.pyi2cflash
