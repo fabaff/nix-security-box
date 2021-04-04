@@ -26,6 +26,7 @@
     # Common client for various protocols
     cifs-utils
     freerdp
+    mosh
     net-snmp
     nfs-utils
     ntp
