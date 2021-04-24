@@ -10,6 +10,7 @@
     httptunnel
     iodine
     proxytunnel
+    sish
     stunnel
     udptunnel
     wstunnel
