@@ -45,6 +45,7 @@
     uddup
     sigurlx
     gospider
+    wprecon
     wpscan
 
     # SNMP
