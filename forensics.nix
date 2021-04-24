@@ -24,5 +24,6 @@
     stegseek
     testdisk
     wipe
+    xorex
   ];
 }
