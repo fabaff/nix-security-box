@@ -6,5 +6,6 @@
   environment.systemPackages = with pkgs; [
     sipp
     sipsak
+    sipvicious
   ];
 }
