@@ -10,6 +10,7 @@
     dnsenum
     dnsrecon
     dnstracer
+    dnstwist
     dnsx
     fierce
     findomain
