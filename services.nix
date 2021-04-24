@@ -15,6 +15,7 @@
     onesixtyone
     siege
     swaks
+    traitor
     wafw00f
 
     # Git
