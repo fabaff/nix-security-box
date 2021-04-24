@@ -13,6 +13,7 @@
     dnsx
     fierce
     findomain
+    knockpy
     subfinder
   ];
 }
