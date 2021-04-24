@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    anevicon
     dhcpdump
     dnstop
     driftnet
