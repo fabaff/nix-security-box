@@ -36,6 +36,7 @@
     bypass403
     subjs
     photon
+    ntlmrecon
     wad
     httpx
     snallygaster
