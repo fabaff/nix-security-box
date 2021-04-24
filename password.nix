@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    badtouch
     bruteforce-luks
     brutespray
     crunch
