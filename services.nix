@@ -16,7 +16,6 @@
     siege
     swaks
     wafw00f
-    wpscan
 
     # Git
     gitjacker
