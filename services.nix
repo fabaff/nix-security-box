@@ -71,6 +71,9 @@
     terrascan
     tfsec
 
+    # Kubernetes
+    checkov
+
     # Windows
     pypykatz
   ];
