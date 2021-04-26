@@ -73,6 +73,7 @@
 
     # Kubernetes
     checkov
+    kube-score
 
     # Windows
     pypykatz
