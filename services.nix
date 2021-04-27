@@ -77,5 +77,6 @@
 
     # Windows
     pypykatz
+    nbtscanner
   ];
 }
