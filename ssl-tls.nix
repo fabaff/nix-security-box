@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     cipherscan
     ssl-cert-check
+    sslscan
     ssldump
     sslsplit
     sslyze
