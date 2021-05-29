@@ -23,10 +23,13 @@
     utillinux
     wget
 
+    # Terminal helpers
+    eternal-terminal
+    mosh
+
     # Common client for various protocols
     cifs-utils
     freerdp
-    mosh
     net-snmp
     nfs-utils
     ntp
