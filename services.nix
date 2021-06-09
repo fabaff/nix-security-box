@@ -32,6 +32,7 @@
     monsoon
     galer
     gau
+    corsair-scan
     corsmisc
     bypass403
     subjs
