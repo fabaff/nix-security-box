@@ -37,6 +37,7 @@
     subjs
     photon
     ntlmrecon
+    kiterunner
     wad
     httpx
     snallygaster
