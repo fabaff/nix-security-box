@@ -9,6 +9,7 @@
     masscan
     naabu
     nmap
+    # This is the latest nmap release
     # nmap-unfree
     rustscan
     zmap
