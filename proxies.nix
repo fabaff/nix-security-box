@@ -8,6 +8,7 @@
     burpsuite
     ettercap
     mitmproxy
+    mubeng
     proxify
     proxychains
     redsocks
