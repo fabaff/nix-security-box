@@ -4,7 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
-    badtouch
+    authoscope
     bruteforce-luks
     brutespray
     crunch
