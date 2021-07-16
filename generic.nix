@@ -36,6 +36,7 @@
     openssh
     openvpn
     samba
+    step-cli
     tightvnc
     wireguard
     wireguard-go
