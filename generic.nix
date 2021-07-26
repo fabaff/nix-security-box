@@ -10,6 +10,7 @@
     flashrom
     htop
     httpie
+    hurl
     inetutils
     inxi
     iproute
