@@ -11,6 +11,7 @@
     dnsrecon
     dnstracer
     dnstwist
+    dnspeep
     dnsx
     fierce
     findomain
