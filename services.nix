@@ -52,6 +52,7 @@
 
     # SNMP
     onesixtyone
+    snmpcheck
 
     # SSH
     sshchecker
