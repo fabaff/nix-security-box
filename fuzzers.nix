@@ -9,6 +9,7 @@
     ffuf
     honggfuzz
     radamsa
+    regexploit
     ssdeep
     wfuzz
     zzuf
