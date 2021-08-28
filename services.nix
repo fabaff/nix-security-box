@@ -64,6 +64,7 @@
 
     # Container, images
     clair
+    cloudlist
     dockle
     grype
     trivy
