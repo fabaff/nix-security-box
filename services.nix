@@ -23,7 +23,7 @@
     truffleHog
     gitleaks
     shhgit
-    secretscanner
+    git-secret
 
     # *SQL
     sqlmap
