@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     enum4linux
     enum4linux-ng
+    gotestwaf
     ike-scan
     ldapdomaindump
     ldeep
