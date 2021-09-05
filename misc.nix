@@ -9,6 +9,7 @@
     deepsea
     doona
     honeytrap
+    nmap-formatter
     pwntools
   ];
 }
