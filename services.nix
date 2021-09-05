@@ -35,6 +35,7 @@
     gau
     corsair-scan
     corsmisc
+    dalfox
     bypass403
     subjs
     photon
