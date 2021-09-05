@@ -1,4 +1,4 @@
-# Host security tools
+# Various tools
 
 { pkgs, ... }:
 
