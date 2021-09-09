@@ -11,7 +11,7 @@ The focus is on combining well-known tools with brand-new one.
 
 ## Alternative usage
 
-Cherry-pich the tools you want and create a new [shell](https://nixos.wiki/wiki/Development_environment_with_nix-shell). E.g., `portscan.nix`:
+Cherry-pick the tools you want and create a new [shell](https://nixos.wiki/wiki/Development_environment_with_nix-shell). E.g., `portscan.nix`:
 
 ```nix
 { pkgs ? import <nixpkgs> {} }:
