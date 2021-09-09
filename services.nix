@@ -33,6 +33,7 @@
     monsoon
     galer
     gau
+    hey
     corsair-scan
     corsmisc
     dalfox
