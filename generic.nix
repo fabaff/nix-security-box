@@ -7,6 +7,7 @@
     chrony
     clamav
     curl
+    dorkscout
     flashrom
     htop
     httpie
