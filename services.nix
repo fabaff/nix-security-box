@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    checkip
     enum4linux
     enum4linux-ng
     gotestwaf
