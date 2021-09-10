@@ -74,6 +74,9 @@
 
     fwanalyzer
 
+    # CI
+    oshka
+
     # Terraform
     terrascan
     tfsec
