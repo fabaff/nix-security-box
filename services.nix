@@ -84,6 +84,7 @@
     # Kubernetes
     checkov
     kube-score
+    kubescape
 
     # Windows
     pypykatz
