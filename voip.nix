@@ -7,5 +7,6 @@
     sipp
     sipsak
     sipvicious
+    sngrep
   ];
 }
