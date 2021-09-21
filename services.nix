@@ -88,6 +88,7 @@
     kubescape
 
     # Windows
+    kerbrute
     pypykatz
     nbtscanner
   ];
