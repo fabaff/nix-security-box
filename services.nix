@@ -22,7 +22,7 @@
 
     # Git
     gitjacker
-    truffleHog
+    trufflehog
     gitleaks
     shhgit
     git-secret
