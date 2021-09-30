@@ -89,7 +89,7 @@
 
     # Windows
     kerbrute
-    pypykatz
+    python3Packages.pypykatz
     nbtscanner
   ];
 }
