@@ -9,6 +9,6 @@
     hping
     ostinato
     pktgen
-    scapy
+    python3Packages.scapy
   ];
 }
