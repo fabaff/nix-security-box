@@ -35,6 +35,7 @@
     galer
     gau
     hey
+    cariddi
     corsair-scan
     corsmisc
     dalfox
