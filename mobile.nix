@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     abootimg
+    apkleaks
     apktool
     dex2jar
     genymotion
