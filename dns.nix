@@ -9,6 +9,7 @@
     bind
     dnsenum
     dnsrecon
+    dnstake
     dnstracer
     dnstwist
     dnspeep
