@@ -31,6 +31,7 @@
     sqlmap
 
     # Web, HTTP
+    dismap
     monsoon
     galer
     gau
