@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    certgraph
     cipherscan
     ssl-cert-check
     sslscan
