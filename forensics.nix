@@ -23,6 +23,7 @@
     srm
     stegseek
     testdisk
+    volatility3
     wipe
     xorex
   ];
