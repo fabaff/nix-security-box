@@ -17,6 +17,7 @@
     p0f
     putty
     pwnat
+    rustcat
     sshping
     sslh
     telnet
