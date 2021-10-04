@@ -28,6 +28,7 @@
     # Terminal helpers
     eternal-terminal
     mosh
+    shellz
 
     # Common client for various protocols
     cifs-utils
