@@ -9,6 +9,7 @@
     apktool
     dex2jar
     genymotion
+    ghost
     python39Packages.androguard
     simg2img
   ];
