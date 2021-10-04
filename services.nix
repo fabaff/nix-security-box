@@ -88,7 +88,8 @@
     kube-score
     kubescape
 
-    # Windows
+    # Microsoft/Windows
+    go365
     kerbrute
     python3Packages.pypykatz
     nbtscanner
