@@ -31,6 +31,7 @@
     sqlmap
 
     # Web, HTTP
+    brakeman
     dismap
     monsoon
     galer
