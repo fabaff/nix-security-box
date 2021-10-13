@@ -33,6 +33,7 @@
 
     # Web, HTTP
     brakeman
+    cameradar
     dismap
     monsoon
     galer
