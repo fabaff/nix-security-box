@@ -72,6 +72,7 @@
     teler
 
     # Container, images
+    cdk-go
     clair
     cloudlist
     dockle
