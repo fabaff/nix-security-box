@@ -23,6 +23,7 @@
     nano
     parted
     pwgen
+    spyre
     utillinux
     wget
 
