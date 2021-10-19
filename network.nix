@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     atftp
+    bandwhich
     evillimiter
     iperf2
     lftp
