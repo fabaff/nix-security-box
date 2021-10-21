@@ -44,6 +44,7 @@
     corsmisc
     dalfox
     bypass403
+    hyperpotamus
     subjs
     photon
     ntlmrecon
