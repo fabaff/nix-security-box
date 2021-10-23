@@ -8,6 +8,7 @@
     chipsec
     esptool
     hachoir
+    nrfutil
     tytools
     python3Packages.angr
     python3Packages.angrop
