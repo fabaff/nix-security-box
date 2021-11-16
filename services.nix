@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    certipy
     checkip
     enum4linux
     enum4linux-ng
