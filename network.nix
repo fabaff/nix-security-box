@@ -13,6 +13,7 @@
     ncat
     ncftp
     netcat-gnu
+    netdiscover
     nload
     nuttcp
     p0f
