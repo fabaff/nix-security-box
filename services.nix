@@ -52,6 +52,7 @@
     kiterunner
     wad
     httpx
+    chopchop
     snallygaster
     hakrawler
     wuzz
