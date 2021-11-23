@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    boofuzz
     gping
     fping
     hping
