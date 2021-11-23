@@ -55,6 +55,7 @@
     chopchop
     snallygaster
     hakrawler
+    slowlorust
     wuzz
     uddup
     sigurlx
