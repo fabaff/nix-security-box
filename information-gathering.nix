@@ -4,11 +4,13 @@
 
 {
   environment.systemPackages = with pkgs; [
+    cloudbrute
+    maigret
     metabigor
-    sn0int
     p0f
+    sn0int
+    socialscan
     theharvester
     urlhunter
-    cloudbrute
   ];
 }
