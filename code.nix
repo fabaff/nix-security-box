@@ -8,5 +8,6 @@
     detect-secrets
     gokart
     secretscanner
+    whispers
   ];
 }
