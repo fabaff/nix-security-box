@@ -18,5 +18,6 @@
     findomain
     knockpy
     subfinder
+    subzerod
   ];
 }
