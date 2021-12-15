@@ -98,6 +98,7 @@
     kubescape
 
     # Microsoft/Windows
+    gomapenum
     go365
     kerbrute
     python3Packages.pypykatz
