@@ -8,5 +8,6 @@
     libfreefare
     mfcuk
     mfoc
+    python3Packages.emv
   ];
 }
