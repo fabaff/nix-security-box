@@ -8,6 +8,8 @@
     checksec
     chkrootkit
     lynis
+    skjold
+    pip-check
     safety-cli
     vulnix
   ];
