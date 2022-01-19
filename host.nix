@@ -8,6 +8,7 @@
     checksec
     chkrootkit
     lynis
+    safety-cli
     vulnix
   ];
 }
