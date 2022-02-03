@@ -7,6 +7,7 @@
     cantoolz
     chipsec
     esptool
+    extrude
     hachoir
     nrfutil
     tytools
