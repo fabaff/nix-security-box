@@ -94,6 +94,7 @@
     tfsec
 
     # Kubernetes
+    cfripper
     checkov
     kube-score
     kubescape
