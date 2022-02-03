@@ -8,6 +8,7 @@
     detect-secrets
     gokart
     secretscanner
+    skjold
     whispers
   ];
 }
