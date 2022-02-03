@@ -62,6 +62,7 @@
     gospider
     wprecon
     wpscan
+    dontgo403
 
     # SNMP
     onesixtyone
