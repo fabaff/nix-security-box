@@ -81,6 +81,7 @@
     cdk-go
     clair
     cloudlist
+    dive
     dockle
     grype
     trivy
