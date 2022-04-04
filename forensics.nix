@@ -12,6 +12,7 @@
     ext4magic
     extundelete
     foremost
+    gef
     gzrt
     hivex
     ntfs3g
