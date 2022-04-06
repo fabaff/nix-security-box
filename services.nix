@@ -64,6 +64,7 @@
     wprecon
     wpscan
     dontgo403
+    whatweb
 
     # SNMP
     onesixtyone
