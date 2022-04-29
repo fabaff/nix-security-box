@@ -43,7 +43,6 @@
     cariddi
     corsair-scan
     dalfox
-    bypass403
     hyperpotamus
     subjs
     photon
