@@ -58,7 +58,6 @@
     slowlorust
     wuzz
     uddup
-    sigurlx
     gospider
     wprecon
     wpscan
