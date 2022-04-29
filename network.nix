@@ -22,7 +22,6 @@
     rustcat
     sshping
     sslh
-    telnet
     wbox
     whois
   ];
