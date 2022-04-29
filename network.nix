@@ -10,7 +10,6 @@
     iperf2
     lftp
     mtr
-    ncat
     ncftp
     netcat-gnu
     netdiscover
