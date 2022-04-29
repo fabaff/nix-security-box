@@ -19,7 +19,6 @@
     tcpflow
     tcpreplay
     termshark
-    tshark
     wireshark
     wireshark-cli
     zeek
