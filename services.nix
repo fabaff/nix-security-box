@@ -42,7 +42,6 @@
     hey
     cariddi
     corsair-scan
-    corsmisc
     dalfox
     bypass403
     hyperpotamus
