@@ -9,6 +9,7 @@
     deepsea
     doona
     honeytrap
+    jwt-cli
     nmap-formatter
     pwntools
   ];
