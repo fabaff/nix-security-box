@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    bore-cli
     corkscrew
     hans
     chisel
