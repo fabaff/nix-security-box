@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     abootimg
+    apkeep
     apkleaks
     apktool
     dex2jar
