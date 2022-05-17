@@ -23,5 +23,6 @@
     sslh
     wbox
     whois
+    yersinia
   ];
 }
