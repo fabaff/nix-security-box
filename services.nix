@@ -78,6 +78,7 @@
     # Container, images
     cdk-go
     clair
+    cliam
     cloudlist
     dive
     dockle
