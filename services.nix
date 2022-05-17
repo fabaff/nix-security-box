@@ -53,6 +53,7 @@
     jaeles
     chopchop
     snallygaster
+    swaggerhole
     hakrawler
     slowlorust
     wuzz
