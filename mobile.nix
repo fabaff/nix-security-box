@@ -13,5 +13,6 @@
     ghost
     python39Packages.androguard
     simg2img
+    trueseeing
   ];
 }
