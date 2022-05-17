@@ -70,6 +70,7 @@
     # SSH
     sshchecker
     ssh-audit
+    ssh-mitm
     ssb
 
     # IDS
