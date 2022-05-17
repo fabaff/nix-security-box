@@ -103,6 +103,7 @@
 
     # Microsoft/Windows
     adreaper
+    erosmb
     gomapenum
     go365
     kerbrute
