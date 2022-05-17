@@ -102,6 +102,7 @@
     kubescape
 
     # Microsoft/Windows
+    adreaper
     gomapenum
     go365
     kerbrute
