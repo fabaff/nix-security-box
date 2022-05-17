@@ -15,6 +15,7 @@
     medusa
     nasty
     ncrack
+    nth
     phrasendrescher
     python3Packages.patator
     thc-hydra
