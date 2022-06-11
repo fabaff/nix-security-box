@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     atftp
     bandwhich
+    crackmapexec
     evillimiter
     iperf2
     lftp
