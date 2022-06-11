@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     aircrack-ng
+    airgeddon
     bully
     cowpatty
     horst
