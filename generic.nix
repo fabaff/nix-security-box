@@ -53,7 +53,6 @@
     netmask
 
     # Terminal multiplexer
-    screen
     tmux   
 
     # Archive tools
