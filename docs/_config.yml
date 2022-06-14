@@ -1,6 +1,3 @@
 title: Nix Security Tool Box
 description: Tool set for Information security professionals and all others
-
-plugins: [ "jekyll-include-cache" ]
-
 theme: jekyll-theme-minimal
