@@ -38,13 +38,14 @@ def create_overview():
     """Create tools overview."""
     data = collect_tools()
 
-    mdFile = MdUtils(file_name='docs/index.md')
+    mdFile = MdUtils(file_name='docs/index.md', title="")
 
     for category, tools in data.items():
         mdFile.new_header(level=1, title=category.replace("-", " ").capitalize())
         for tool in tools:
             if not tool.startswith("# "):
                 mdFile.new_line("- {}".format(mdFile.new_inline_link(link=URL.format(tool=tool), text=tool)))
+        mdFile.new_line()
 
     mdFile.create_md_file()
 
