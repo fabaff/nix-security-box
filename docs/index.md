@@ -1,3 +1,6 @@
+---
+layout: single
+---
 
 Tool overview
 =============
