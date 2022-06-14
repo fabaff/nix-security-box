@@ -45,6 +45,7 @@
     corsair-scan
     dalfox
     hyperpotamus
+    mitmproxy2swagger
     subjs
     photon
     ntlmrecon
