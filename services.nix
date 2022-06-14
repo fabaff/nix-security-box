@@ -110,5 +110,6 @@
     kerbrute
     python3Packages.pypykatz
     nbtscanner
+    smbscan
   ];
 }
