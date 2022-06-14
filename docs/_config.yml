@@ -1,16 +1,6 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
 title: Nix Security Tool Box
 description: Tool set for Information security professionals and all others
 
 plugins: [ "jekyll-include-cache" ]
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
 
 theme: jekyll-theme-minimal
