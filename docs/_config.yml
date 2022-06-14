@@ -6,10 +6,9 @@ description: Tool set for Information security professionals and all others
 plugins: [ "jekyll-include-cache" ]
 
 defaults:
-  # _docs
+  # _posts
   - scope:
       path: ""
-      type: docs
+      type: posts
     values:
-      sidebar:
-        nav: "docs"
+      layout: single
