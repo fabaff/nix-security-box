@@ -21,6 +21,11 @@
     traitor
     wafw00f
 
+    # LDAP
+    ldapmonitor
+    ldapdomaindump
+    ldeep
+
     # Git
     gitjacker
     trufflehog
