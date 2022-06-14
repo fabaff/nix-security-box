@@ -1,7 +1,3 @@
----
-layout: single
----
-
 Tool overview
 =============
 
