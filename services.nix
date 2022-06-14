@@ -108,6 +108,7 @@
     erosmb
     gomapenum
     go365
+    offensive-azure
     kerbrute
     python3Packages.pypykatz
     nbtscanner
