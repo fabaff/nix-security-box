@@ -35,6 +35,7 @@
     # Web, HTTP
     brakeman
     cameradar
+    crlfsuite
     dismap
     monsoon
     galer
