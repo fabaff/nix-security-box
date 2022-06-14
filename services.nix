@@ -27,11 +27,11 @@
     ldeep
 
     # Git
+    git-secret
     gitjacker
-    trufflehog
     gitleaks
     shhgit
-    git-secret
+    trufflehog
 
     # Databases
     mongoaudit
@@ -40,36 +40,36 @@
     # Web, HTTP
     brakeman
     cameradar
+    cariddi
+    chopchop
+    corsair-scan
     crlfsuite
+    dalfox
     dismap
-    monsoon
+    dontgo403
     galer
     gau
-    hey
-    cariddi
-    corsair-scan
-    dalfox
-    hyperpotamus
-    mitmproxy2swagger
-    subjs
-    photon
-    ntlmrecon
-    kiterunner
-    wad
-    httpx
-    jaeles
-    chopchop
-    snallygaster
-    swaggerhole
-    hakrawler
-    slowlorust
-    wuzz
-    uddup
     gospider
+    hakrawler
+    hey
+    httpx
+    hyperpotamus
+    jaeles
+    kiterunner
+    mitmproxy2swagger
+    monsoon
+    ntlmrecon
+    photon
+    slowlorust
+    snallygaster
+    subjs
+    swaggerhole
+    uddup
+    wad
+    whatweb
     wprecon
     wpscan
-    dontgo403
-    whatweb
+    wuzz
 
     # SNMP
     onesixtyone
@@ -112,12 +112,12 @@
     # Microsoft/Windows
     adreaper
     erosmb
-    gomapenum
     go365
-    offensive-azure
+    gomapenum
     kerbrute
-    python3Packages.pypykatz
     nbtscanner
+    offensive-azure
+    python3Packages.pypykatz
     smbscan
   ];
 }
