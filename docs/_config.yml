@@ -4,3 +4,12 @@ title: Nix Security Tool Box
 description: Tool set for Information security professionals and all others
 
 plugins: [ "jekyll-include-cache" ]
+
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
