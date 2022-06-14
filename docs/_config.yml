@@ -12,3 +12,5 @@ defaults:
       type: posts
     values:
       layout: single
+
+theme: jekyll-theme-minimal
