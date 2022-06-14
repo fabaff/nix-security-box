@@ -38,7 +38,7 @@ def create_overview():
     """Create tools overview."""
     data = collect_tools()
 
-    mdFile = MdUtils(file_name='docs/index.md', title="")
+    mdFile = MdUtils(file_name='docs/index.md', title="Tool overview")
 
     for category, tools in data.items():
         mdFile.new_header(level=1, title=category.replace("-", " ").capitalize())
