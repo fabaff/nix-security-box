@@ -66,6 +66,7 @@
     swaggerhole
     uddup
     wad
+    webanalyze
     whatweb
     wprecon
     wpscan
