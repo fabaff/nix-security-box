@@ -1,6 +1,6 @@
-#
+"""Helper script to generate the output for the documentation."""
 
-import re    
+import re
 import glob
 
 from mdutils.mdutils import MdUtils
@@ -13,9 +13,10 @@ output = {}
 for file in glob.glob("*.nix"):
     pkgs_files.append(file)
 
+
 def starts_with_four_n_spaces(eval_string):
     """Test if the string starts with 4 spaces."""
-    return re.search(r'^(?:\s{4})+(?!\s).*$', eval_string) is not None
+    return re.search(r"^(?:\s{4})+(?!\s).*$", eval_string) is not None
 
 
 def collect_tools():
@@ -38,15 +39,20 @@ def create_overview():
     """Create tools overview."""
     data = collect_tools()
 
-    mdFile = MdUtils(file_name='docs/index.md', title="Tool overview")
+    mdFile = MdUtils(file_name="docs/index.md", title="Tool overview")
 
     for category, tools in data.items():
         mdFile.new_header(level=1, title=category.replace("-", " ").capitalize())
         for tool in tools:
             if not tool.startswith("# "):
-                mdFile.new_line("- {}".format(mdFile.new_inline_link(link=URL.format(tool=tool), text=tool)))
+                mdFile.new_line(
+                    "- {}".format(
+                        mdFile.new_inline_link(link=URL.format(tool=tool), text=tool)
+                    )
+                )
         mdFile.new_line()
 
     mdFile.create_md_file()
+
 
 create_overview()
