@@ -50,6 +50,7 @@
     galer
     gau
     gospider
+    gowitness
     hakrawler
     hey
     httpx
