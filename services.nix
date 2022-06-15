@@ -10,8 +10,6 @@
     enum4linux-ng
     gotestwaf
     ike-scan
-    ldapdomaindump
-    ldeep
     metasploit
     nikto
     nuclei
