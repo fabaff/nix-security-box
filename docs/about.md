@@ -20,7 +20,7 @@ Check out the
 
 - [RedNix](https://github.com/redcode-labs/RedNix) provides a NixOS container and various shells
 - [TangeriNixOS](https://github.com/Pamplemousse/tangerinixos) is a virtual machine for pentesting
-- [Kalinix](https://github.com/balsoft/kalinix)is a pentesting/CTF toolbox
+- [Kalinix](https://github.com/balsoft/kalinix) is a pentesting/CTF toolbox
 
 ## License
 
