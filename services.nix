@@ -14,7 +14,6 @@
     metasploit
     nikto
     nuclei
-    onesixtyone
     siege
     swaks
     traitor
