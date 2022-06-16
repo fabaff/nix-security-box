@@ -61,6 +61,7 @@ clamav
 cliam  
 cloudbrute  
 cloudlist  
+commix  
 corkscrew  
 corsair-scan  
 cowpatty  
