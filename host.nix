@@ -12,6 +12,7 @@
     pip-audit
     pip-check
     safety-cli
+    tracee
     vulnix
   ];
 }
