@@ -258,13 +258,13 @@ Tool overview
 # Mobile
   
 - [abootimg](https://search.nixos.org/packages?channel=unstable&show=abootimg&type=packages&query=abootimg)  
+- [androguard](https://search.nixos.org/packages?channel=unstable&show=androguard&type=packages&query=androguard)  
 - [apkeep](https://search.nixos.org/packages?channel=unstable&show=apkeep&type=packages&query=apkeep)  
 - [apkleaks](https://search.nixos.org/packages?channel=unstable&show=apkleaks&type=packages&query=apkleaks)  
 - [apktool](https://search.nixos.org/packages?channel=unstable&show=apktool&type=packages&query=apktool)  
 - [dex2jar](https://search.nixos.org/packages?channel=unstable&show=dex2jar&type=packages&query=dex2jar)  
 - [genymotion](https://search.nixos.org/packages?channel=unstable&show=genymotion&type=packages&query=genymotion)  
 - [ghost](https://search.nixos.org/packages?channel=unstable&show=ghost&type=packages&query=ghost)  
-- [python39Packages.androguard](https://search.nixos.org/packages?channel=unstable&show=python39Packages.androguard&type=packages&query=python39Packages.androguard)  
 - [simg2img](https://search.nixos.org/packages?channel=unstable&show=simg2img&type=packages&query=simg2img)  
 - [trueseeing](https://search.nixos.org/packages?channel=unstable&show=trueseeing&type=packages&query=trueseeing)  
 
@@ -464,6 +464,7 @@ Tool overview
 - [witness](https://search.nixos.org/packages?channel=unstable&show=witness&type=packages&query=witness)  
 - [adreaper](https://search.nixos.org/packages?channel=unstable&show=adreaper&type=packages&query=adreaper)  
 - [erosmb](https://search.nixos.org/packages?channel=unstable&show=erosmb&type=packages&query=erosmb)  
+- [evil-winrm](https://search.nixos.org/packages?channel=unstable&show=evil-winrm&type=packages&query=evil-winrm)  
 - [go365](https://search.nixos.org/packages?channel=unstable&show=go365&type=packages&query=go365)  
 - [gomapenum](https://search.nixos.org/packages?channel=unstable&show=gomapenum&type=packages&query=gomapenum)  
 - [kerbrute](https://search.nixos.org/packages?channel=unstable&show=kerbrute&type=packages&query=kerbrute)  
