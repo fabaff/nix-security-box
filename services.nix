@@ -5,7 +5,6 @@
 {
   environment.systemPackages = with pkgs; [
     certipy
-    chain-bench
     checkip
     enum4linux
     enum4linux-ng
@@ -109,6 +108,10 @@
     checkov
     kube-score
     kubescape
+
+    # Supply chain
+    chain-bench
+    witness
 
     # Microsoft/Windows
     adreaper
