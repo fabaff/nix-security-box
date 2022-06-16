@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     cfripper
     checkov
+    kdigger
     kube-score
     kubeaudit
     kubescape
