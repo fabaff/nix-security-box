@@ -8,6 +8,7 @@
     cameradar
     cariddi
     chopchop
+    commix
     corsair-scan
     crlfsuite
     dalfox
