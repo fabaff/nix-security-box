@@ -21,13 +21,7 @@
     <div class="wrapper">
       <div class="sidebar">
         <header>
-
-
-          {% if site.logo %}
-            <img src="{{site.logo | relative_url}}" alt="Logo" />
-          {% endif %} 
-<!-- 
-          <img class="img-circle" rel="prefetch" src={{ "/assets/img/logo.png?v=" | append: site.github.build_revision | relative_url }}>-->
+          <img class="img-circle" rel="prefetch" src={{ "/assets/img/logo.png?v=" | append: site.github.build_revision | relative_url }}>
           <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
           <p>{{ site.description | default: site.github.project_tagline }}</p>
