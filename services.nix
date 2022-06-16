@@ -117,6 +117,7 @@
     # Microsoft/Windows
     adreaper
     erosmb
+    evil-winrm
     go365
     gomapenum
     kerbrute
