@@ -9,6 +9,7 @@
     enum4linux
     enum4linux-ng
     gotestwaf
+    graphqlmap
     ike-scan
     metasploit
     nikto
