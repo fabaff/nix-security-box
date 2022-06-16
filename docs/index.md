@@ -383,6 +383,7 @@ Tool overview
 - [enum4linux](https://search.nixos.org/packages?channel=unstable&show=enum4linux&type=packages&query=enum4linux)  
 - [enum4linux-ng](https://search.nixos.org/packages?channel=unstable&show=enum4linux-ng&type=packages&query=enum4linux-ng)  
 - [gotestwaf](https://search.nixos.org/packages?channel=unstable&show=gotestwaf&type=packages&query=gotestwaf)  
+- [graphqlmap](https://search.nixos.org/packages?channel=unstable&show=graphqlmap&type=packages&query=graphqlmap)  
 - [ike-scan](https://search.nixos.org/packages?channel=unstable&show=ike-scan&type=packages&query=ike-scan)  
 - [metasploit](https://search.nixos.org/packages?channel=unstable&show=metasploit&type=packages&query=metasploit)  
 - [nikto](https://search.nixos.org/packages?channel=unstable&show=nikto&type=packages&query=nikto)  
