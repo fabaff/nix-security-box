@@ -1,4 +1,4 @@
-# Generic tools
+# Generic tools (terminals, packers, clients, etc.)
 
 { pkgs, ... }:
 
