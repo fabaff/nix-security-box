@@ -8,5 +8,6 @@
     bluewalker
     bleak
     redfang
+    ubertooth
   ];
 }
