@@ -35,6 +35,17 @@ def collect_tools():
     return output
 
 
+def count_tools(data):
+    """Count the available tools."""
+    data = collect_tools()
+    tools_list = []
+
+    for _, tools in data.items():
+        tools_list = tools_list + tools
+
+    print("Available tools:", len([tool for tool in tools_list if not ('#' in tool)]))
+
+
 def create_overview():
     """Create tools overview."""
     data = collect_tools()
@@ -53,6 +64,6 @@ def create_overview():
         mdFile.new_line()
 
     mdFile.create_md_file()
-
+    count_tools(data)
 
 create_overview()
