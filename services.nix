@@ -1,75 +1,21 @@
-# Tools for testing services and application
+# Tools for testing various services (SSH, SNMP, etc.)
 
 { pkgs, ... }:
 
 {
   environment.systemPackages = with pkgs; [
-    certipy
     checkip
-    enum4linux
-    enum4linux-ng
-    gotestwaf
-    graphqlmap
     ike-scan
     metasploit
-    nikto
     nuclei
-    siege
-    swaks
     traitor
-    wafw00f
 
-    # LDAP
-    ldapmonitor
-    ldapdomaindump
-    ldeep
-
-    # Git
-    git-secret
-    gitjacker
-    gitleaks
-    shhgit
-    trufflehog
+    # E-Mail
+    swaks
 
     # Databases
     mongoaudit
     sqlmap
-
-    # Web, HTTP
-    brakeman
-    cameradar
-    cariddi
-    chopchop
-    corsair-scan
-    crlfsuite
-    dalfox
-    dismap
-    dontgo403
-    galer
-    gau
-    gospider
-    gowitness
-    hakrawler
-    hey
-    httpx
-    hyperpotamus
-    jaeles
-    kiterunner
-    mitmproxy2swagger
-    monsoon
-    ntlmrecon
-    photon
-    slowlorust
-    snallygaster
-    subjs
-    swaggerhole
-    uddup
-    wad
-    webanalyze
-    whatweb
-    wprecon
-    wpscan
-    wuzz
 
     # SNMP
     onesixtyone
@@ -81,20 +27,9 @@
     ssh-mitm
     ssb
 
-    # IDS
+    # IDS/IPS/WAF
     teler
-
-    # Container, images
-    cdk-go
-    clair
-    cliam
-    cloudlist
-    dive
-    dockle
-    grype
-    trivy
-
-    fwanalyzer
+    wafw00f
 
     # CI
     oshka
@@ -103,26 +38,8 @@
     terrascan
     tfsec
 
-    # Kubernetes
-    cfripper
-    checkov
-    kube-score
-    kubescape
-
     # Supply chain
     chain-bench
     witness
-
-    # Microsoft/Windows
-    adreaper
-    erosmb
-    evil-winrm
-    go365
-    gomapenum
-    kerbrute
-    nbtscanner
-    offensive-azure
-    python3Packages.pypykatz
-    smbscan
   ];
 }
