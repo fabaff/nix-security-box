@@ -9,6 +9,7 @@
     chkrootkit
     lynis
     skjold
+    pip-audit
     pip-check
     safety-cli
     vulnix
