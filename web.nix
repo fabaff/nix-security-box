@@ -20,6 +20,7 @@
     gotestwaf
     gowitness
     graphqlmap
+    graphw00f
     hakrawler
     hey
     httpx
