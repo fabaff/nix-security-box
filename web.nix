@@ -25,6 +25,7 @@
     httpx
     hyperpotamus
     jaeles
+    jwt-hack
     kiterunner
     mitmproxy2swagger
     monsoon
