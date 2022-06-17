@@ -140,6 +140,7 @@ mkShell {
     gowitness
     gping
     graphqlmap
+    graphw00f
     grype
     gzrt
     hachoir
@@ -176,6 +177,7 @@ mkShell {
     john
     junkie
     jwt-cli
+    jwt-hack
     kdigger
     kerbrute
     kismet

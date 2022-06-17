@@ -140,6 +140,7 @@
     gowitness
     gping
     graphqlmap
+    graphw00f
     grype
     gzrt
     hachoir
@@ -176,6 +177,7 @@
     john
     junkie
     jwt-cli
+    jwt-hack
     kdigger
     kerbrute
     kismet
