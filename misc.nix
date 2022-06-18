@@ -12,5 +12,6 @@
     jwt-cli
     nmap-formatter
     pwntools
+    python3Packages.pytenable
   ];
 }
