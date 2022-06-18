@@ -2,17 +2,6 @@
 Tool overview
 =============
 
-# Information gathering
-  
-- [cloudbrute](https://search.nixos.org/packages?channel=unstable&show=cloudbrute&type=packages&query=cloudbrute)  
-- [maigret](https://search.nixos.org/packages?channel=unstable&show=maigret&type=packages&query=maigret)  
-- [metabigor](https://search.nixos.org/packages?channel=unstable&show=metabigor&type=packages&query=metabigor)  
-- [p0f](https://search.nixos.org/packages?channel=unstable&show=p0f&type=packages&query=p0f)  
-- [sn0int](https://search.nixos.org/packages?channel=unstable&show=sn0int&type=packages&query=sn0int)  
-- [socialscan](https://search.nixos.org/packages?channel=unstable&show=socialscan&type=packages&query=socialscan)  
-- [theharvester](https://search.nixos.org/packages?channel=unstable&show=theharvester&type=packages&query=theharvester)  
-- [urlhunter](https://search.nixos.org/packages?channel=unstable&show=urlhunter&type=packages&query=urlhunter)  
-
 # Packet generators
   
 - [boofuzz](https://search.nixos.org/packages?channel=unstable&show=boofuzz&type=packages&query=boofuzz)  
@@ -22,6 +11,13 @@ Tool overview
 - [ostinato](https://search.nixos.org/packages?channel=unstable&show=ostinato&type=packages&query=ostinato)  
 - [pktgen](https://search.nixos.org/packages?channel=unstable&show=pktgen&type=packages&query=pktgen)  
 - [python3Packages.scapy](https://search.nixos.org/packages?channel=unstable&show=python3Packages.scapy&type=packages&query=python3Packages.scapy)  
+
+# Voip
+  
+- [sipp](https://search.nixos.org/packages?channel=unstable&show=sipp&type=packages&query=sipp)  
+- [sipsak](https://search.nixos.org/packages?channel=unstable&show=sipsak&type=packages&query=sipsak)  
+- [sipvicious](https://search.nixos.org/packages?channel=unstable&show=sipvicious&type=packages&query=sipvicious)  
+- [sngrep](https://search.nixos.org/packages?channel=unstable&show=sngrep&type=packages&query=sngrep)  
 
 # Port scanners
   
@@ -55,20 +51,16 @@ Tool overview
 - [socat](https://search.nixos.org/packages?channel=unstable&show=socat&type=packages&query=socat)  
 - [x3270](https://search.nixos.org/packages?channel=unstable&show=x3270&type=packages&query=x3270)  
 
-# Voip
+# Information gathering
   
-- [sipp](https://search.nixos.org/packages?channel=unstable&show=sipp&type=packages&query=sipp)  
-- [sipsak](https://search.nixos.org/packages?channel=unstable&show=sipsak&type=packages&query=sipsak)  
-- [sipvicious](https://search.nixos.org/packages?channel=unstable&show=sipvicious&type=packages&query=sipvicious)  
-- [sngrep](https://search.nixos.org/packages?channel=unstable&show=sngrep&type=packages&query=sngrep)  
-
-# Bluetooth
-  
-- [bluez](https://search.nixos.org/packages?channel=unstable&show=bluez&type=packages&query=bluez)  
-- [bluewalker](https://search.nixos.org/packages?channel=unstable&show=bluewalker&type=packages&query=bluewalker)  
-- [bleak](https://search.nixos.org/packages?channel=unstable&show=bleak&type=packages&query=bleak)  
-- [redfang](https://search.nixos.org/packages?channel=unstable&show=redfang&type=packages&query=redfang)  
-- [ubertooth](https://search.nixos.org/packages?channel=unstable&show=ubertooth&type=packages&query=ubertooth)  
+- [cloudbrute](https://search.nixos.org/packages?channel=unstable&show=cloudbrute&type=packages&query=cloudbrute)  
+- [maigret](https://search.nixos.org/packages?channel=unstable&show=maigret&type=packages&query=maigret)  
+- [metabigor](https://search.nixos.org/packages?channel=unstable&show=metabigor&type=packages&query=metabigor)  
+- [p0f](https://search.nixos.org/packages?channel=unstable&show=p0f&type=packages&query=p0f)  
+- [sn0int](https://search.nixos.org/packages?channel=unstable&show=sn0int&type=packages&query=sn0int)  
+- [socialscan](https://search.nixos.org/packages?channel=unstable&show=socialscan&type=packages&query=socialscan)  
+- [theharvester](https://search.nixos.org/packages?channel=unstable&show=theharvester&type=packages&query=theharvester)  
+- [urlhunter](https://search.nixos.org/packages?channel=unstable&show=urlhunter&type=packages&query=urlhunter)  
 
 # Dns
   
@@ -127,71 +119,6 @@ Tool overview
 - [wfuzz](https://search.nixos.org/packages?channel=unstable&show=wfuzz&type=packages&query=wfuzz)  
 - [zzuf](https://search.nixos.org/packages?channel=unstable&show=zzuf&type=packages&query=zzuf)  
 
-# Generic
-  
-- [chrony](https://search.nixos.org/packages?channel=unstable&show=chrony&type=packages&query=chrony)  
-- [clamav](https://search.nixos.org/packages?channel=unstable&show=clamav&type=packages&query=clamav)  
-- [curl](https://search.nixos.org/packages?channel=unstable&show=curl&type=packages&query=curl)  
-- [dorkscout](https://search.nixos.org/packages?channel=unstable&show=dorkscout&type=packages&query=dorkscout)  
-- [flashrom](https://search.nixos.org/packages?channel=unstable&show=flashrom&type=packages&query=flashrom)  
-- [htop](https://search.nixos.org/packages?channel=unstable&show=htop&type=packages&query=htop)  
-- [httpie](https://search.nixos.org/packages?channel=unstable&show=httpie&type=packages&query=httpie)  
-- [hurl](https://search.nixos.org/packages?channel=unstable&show=hurl&type=packages&query=hurl)  
-- [inetutils](https://search.nixos.org/packages?channel=unstable&show=inetutils&type=packages&query=inetutils)  
-- [inxi](https://search.nixos.org/packages?channel=unstable&show=inxi&type=packages&query=inxi)  
-- [ioccheck](https://search.nixos.org/packages?channel=unstable&show=ioccheck&type=packages&query=ioccheck)  
-- [iproute](https://search.nixos.org/packages?channel=unstable&show=iproute&type=packages&query=iproute)  
-- [iproute2](https://search.nixos.org/packages?channel=unstable&show=iproute2&type=packages&query=iproute2)  
-- [iw](https://search.nixos.org/packages?channel=unstable&show=iw&type=packages&query=iw)  
-- [lynx](https://search.nixos.org/packages?channel=unstable&show=lynx&type=packages&query=lynx)  
-- [macchanger](https://search.nixos.org/packages?channel=unstable&show=macchanger&type=packages&query=macchanger)  
-- [nano](https://search.nixos.org/packages?channel=unstable&show=nano&type=packages&query=nano)  
-- [parted](https://search.nixos.org/packages?channel=unstable&show=parted&type=packages&query=parted)  
-- [pwgen](https://search.nixos.org/packages?channel=unstable&show=pwgen&type=packages&query=pwgen)  
-- [spyre](https://search.nixos.org/packages?channel=unstable&show=spyre&type=packages&query=spyre)  
-- [utillinux](https://search.nixos.org/packages?channel=unstable&show=utillinux&type=packages&query=utillinux)  
-- [wget](https://search.nixos.org/packages?channel=unstable&show=wget&type=packages&query=wget)  
-- [eternal-terminal](https://search.nixos.org/packages?channel=unstable&show=eternal-terminal&type=packages&query=eternal-terminal)  
-- [mosh](https://search.nixos.org/packages?channel=unstable&show=mosh&type=packages&query=mosh)  
-- [shellz](https://search.nixos.org/packages?channel=unstable&show=shellz&type=packages&query=shellz)  
-- [cifs-utils](https://search.nixos.org/packages?channel=unstable&show=cifs-utils&type=packages&query=cifs-utils)  
-- [freerdp](https://search.nixos.org/packages?channel=unstable&show=freerdp&type=packages&query=freerdp)  
-- [net-snmp](https://search.nixos.org/packages?channel=unstable&show=net-snmp&type=packages&query=net-snmp)  
-- [nfs-utils](https://search.nixos.org/packages?channel=unstable&show=nfs-utils&type=packages&query=nfs-utils)  
-- [ntp](https://search.nixos.org/packages?channel=unstable&show=ntp&type=packages&query=ntp)  
-- [openssh](https://search.nixos.org/packages?channel=unstable&show=openssh&type=packages&query=openssh)  
-- [openvpn](https://search.nixos.org/packages?channel=unstable&show=openvpn&type=packages&query=openvpn)  
-- [samba](https://search.nixos.org/packages?channel=unstable&show=samba&type=packages&query=samba)  
-- [step-cli](https://search.nixos.org/packages?channel=unstable&show=step-cli&type=packages&query=step-cli)  
-- [tightvnc](https://search.nixos.org/packages?channel=unstable&show=tightvnc&type=packages&query=tightvnc)  
-- [wireguard](https://search.nixos.org/packages?channel=unstable&show=wireguard&type=packages&query=wireguard)  
-- [wireguard-go](https://search.nixos.org/packages?channel=unstable&show=wireguard-go&type=packages&query=wireguard-go)  
-- [wireguard-tools](https://search.nixos.org/packages?channel=unstable&show=wireguard-tools&type=packages&query=wireguard-tools)  
-- [xrdp](https://search.nixos.org/packages?channel=unstable&show=xrdp&type=packages&query=xrdp)  
-- [ipcalc](https://search.nixos.org/packages?channel=unstable&show=ipcalc&type=packages&query=ipcalc)  
-- [netmask](https://search.nixos.org/packages?channel=unstable&show=netmask&type=packages&query=netmask)  
-- [tmux](https://search.nixos.org/packages?channel=unstable&show=tmux&type=packages&query=tmux)  
-- [cabextract](https://search.nixos.org/packages?channel=unstable&show=cabextract&type=packages&query=cabextract)  
-- [p7zip](https://search.nixos.org/packages?channel=unstable&show=p7zip&type=packages&query=p7zip)  
-- [unrar](https://search.nixos.org/packages?channel=unstable&show=unrar&type=packages&query=unrar)  
-- [unzip](https://search.nixos.org/packages?channel=unstable&show=unzip&type=packages&query=unzip)  
-
-# Hardware
-  
-- [cantoolz](https://search.nixos.org/packages?channel=unstable&show=cantoolz&type=packages&query=cantoolz)  
-- [chipsec](https://search.nixos.org/packages?channel=unstable&show=chipsec&type=packages&query=chipsec)  
-- [esptool](https://search.nixos.org/packages?channel=unstable&show=esptool&type=packages&query=esptool)  
-- [extrude](https://search.nixos.org/packages?channel=unstable&show=extrude&type=packages&query=extrude)  
-- [hachoir](https://search.nixos.org/packages?channel=unstable&show=hachoir&type=packages&query=hachoir)  
-- [nrfutil](https://search.nixos.org/packages?channel=unstable&show=nrfutil&type=packages&query=nrfutil)  
-- [tytools](https://search.nixos.org/packages?channel=unstable&show=tytools&type=packages&query=tytools)  
-- [python3Packages.angr](https://search.nixos.org/packages?channel=unstable&show=python3Packages.angr&type=packages&query=python3Packages.angr)  
-- [python3Packages.angrop](https://search.nixos.org/packages?channel=unstable&show=python3Packages.angrop&type=packages&query=python3Packages.angrop)  
-- [python3Packages.can](https://search.nixos.org/packages?channel=unstable&show=python3Packages.can&type=packages&query=python3Packages.can)  
-- [python3Packages.pyi2cflash](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pyi2cflash&type=packages&query=python3Packages.pyi2cflash)  
-- [python3Packages.pyspiflash](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pyspiflash&type=packages&query=python3Packages.pyspiflash)  
-- [routersploit](https://search.nixos.org/packages?channel=unstable&show=routersploit&type=packages&query=routersploit)  
-
 # Malware
   
 - [bingrep](https://search.nixos.org/packages?channel=unstable&show=bingrep&type=packages&query=bingrep)  
@@ -217,31 +144,6 @@ Tool overview
 - [yara](https://search.nixos.org/packages?channel=unstable&show=yara&type=packages&query=yara)  
 - [zkar](https://search.nixos.org/packages?channel=unstable&show=zkar&type=packages&query=zkar)  
 - [zydis](https://search.nixos.org/packages?channel=unstable&show=zydis&type=packages&query=zydis)  
-
-# Misc
-  
-- [badchars](https://search.nixos.org/packages?channel=unstable&show=badchars&type=packages&query=badchars)  
-- [changetower](https://search.nixos.org/packages?channel=unstable&show=changetower&type=packages&query=changetower)  
-- [deepsea](https://search.nixos.org/packages?channel=unstable&show=deepsea&type=packages&query=deepsea)  
-- [doona](https://search.nixos.org/packages?channel=unstable&show=doona&type=packages&query=doona)  
-- [honeytrap](https://search.nixos.org/packages?channel=unstable&show=honeytrap&type=packages&query=honeytrap)  
-- [jwt-cli](https://search.nixos.org/packages?channel=unstable&show=jwt-cli&type=packages&query=jwt-cli)  
-- [nmap-formatter](https://search.nixos.org/packages?channel=unstable&show=nmap-formatter&type=packages&query=nmap-formatter)  
-- [pwntools](https://search.nixos.org/packages?channel=unstable&show=pwntools&type=packages&query=pwntools)  
-- [python3Packages.pytenable](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pytenable&type=packages&query=python3Packages.pytenable)  
-
-# Mobile
-  
-- [abootimg](https://search.nixos.org/packages?channel=unstable&show=abootimg&type=packages&query=abootimg)  
-- [androguard](https://search.nixos.org/packages?channel=unstable&show=androguard&type=packages&query=androguard)  
-- [apkeep](https://search.nixos.org/packages?channel=unstable&show=apkeep&type=packages&query=apkeep)  
-- [apkleaks](https://search.nixos.org/packages?channel=unstable&show=apkleaks&type=packages&query=apkleaks)  
-- [apktool](https://search.nixos.org/packages?channel=unstable&show=apktool&type=packages&query=apktool)  
-- [dex2jar](https://search.nixos.org/packages?channel=unstable&show=dex2jar&type=packages&query=dex2jar)  
-- [genymotion](https://search.nixos.org/packages?channel=unstable&show=genymotion&type=packages&query=genymotion)  
-- [ghost](https://search.nixos.org/packages?channel=unstable&show=ghost&type=packages&query=ghost)  
-- [simg2img](https://search.nixos.org/packages?channel=unstable&show=simg2img&type=packages&query=simg2img)  
-- [trueseeing](https://search.nixos.org/packages?channel=unstable&show=trueseeing&type=packages&query=trueseeing)  
 
 # Network
   
@@ -342,18 +244,13 @@ Tool overview
 - [wavemon](https://search.nixos.org/packages?channel=unstable&show=wavemon&type=packages&query=wavemon)  
 - [wifite2](https://search.nixos.org/packages?channel=unstable&show=wifite2&type=packages&query=wifite2)  
 
-# Host
+# Bluetooth
   
-- [cargo-audit](https://search.nixos.org/packages?channel=unstable&show=cargo-audit&type=packages&query=cargo-audit)  
-- [checksec](https://search.nixos.org/packages?channel=unstable&show=checksec&type=packages&query=checksec)  
-- [chkrootkit](https://search.nixos.org/packages?channel=unstable&show=chkrootkit&type=packages&query=chkrootkit)  
-- [lynis](https://search.nixos.org/packages?channel=unstable&show=lynis&type=packages&query=lynis)  
-- [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
-- [pip-audit](https://search.nixos.org/packages?channel=unstable&show=pip-audit&type=packages&query=pip-audit)  
-- [pip-check](https://search.nixos.org/packages?channel=unstable&show=pip-check&type=packages&query=pip-check)  
-- [safety-cli](https://search.nixos.org/packages?channel=unstable&show=safety-cli&type=packages&query=safety-cli)  
-- [tracee](https://search.nixos.org/packages?channel=unstable&show=tracee&type=packages&query=tracee)  
-- [vulnix](https://search.nixos.org/packages?channel=unstable&show=vulnix&type=packages&query=vulnix)  
+- [bluez](https://search.nixos.org/packages?channel=unstable&show=bluez&type=packages&query=bluez)  
+- [bluewalker](https://search.nixos.org/packages?channel=unstable&show=bluewalker&type=packages&query=bluewalker)  
+- [bleak](https://search.nixos.org/packages?channel=unstable&show=bleak&type=packages&query=bleak)  
+- [redfang](https://search.nixos.org/packages?channel=unstable&show=redfang&type=packages&query=redfang)  
+- [ubertooth](https://search.nixos.org/packages?channel=unstable&show=ubertooth&type=packages&query=ubertooth)  
 
 # Code
   
@@ -381,6 +278,69 @@ Tool overview
 - [grype](https://search.nixos.org/packages?channel=unstable&show=grype&type=packages&query=grype)  
 - [trivy](https://search.nixos.org/packages?channel=unstable&show=trivy&type=packages&query=trivy)  
 
+# Generic
+  
+- [chrony](https://search.nixos.org/packages?channel=unstable&show=chrony&type=packages&query=chrony)  
+- [clamav](https://search.nixos.org/packages?channel=unstable&show=clamav&type=packages&query=clamav)  
+- [curl](https://search.nixos.org/packages?channel=unstable&show=curl&type=packages&query=curl)  
+- [dorkscout](https://search.nixos.org/packages?channel=unstable&show=dorkscout&type=packages&query=dorkscout)  
+- [flashrom](https://search.nixos.org/packages?channel=unstable&show=flashrom&type=packages&query=flashrom)  
+- [htop](https://search.nixos.org/packages?channel=unstable&show=htop&type=packages&query=htop)  
+- [httpie](https://search.nixos.org/packages?channel=unstable&show=httpie&type=packages&query=httpie)  
+- [hurl](https://search.nixos.org/packages?channel=unstable&show=hurl&type=packages&query=hurl)  
+- [inetutils](https://search.nixos.org/packages?channel=unstable&show=inetutils&type=packages&query=inetutils)  
+- [inxi](https://search.nixos.org/packages?channel=unstable&show=inxi&type=packages&query=inxi)  
+- [ioccheck](https://search.nixos.org/packages?channel=unstable&show=ioccheck&type=packages&query=ioccheck)  
+- [iproute](https://search.nixos.org/packages?channel=unstable&show=iproute&type=packages&query=iproute)  
+- [iproute2](https://search.nixos.org/packages?channel=unstable&show=iproute2&type=packages&query=iproute2)  
+- [iw](https://search.nixos.org/packages?channel=unstable&show=iw&type=packages&query=iw)  
+- [lynx](https://search.nixos.org/packages?channel=unstable&show=lynx&type=packages&query=lynx)  
+- [macchanger](https://search.nixos.org/packages?channel=unstable&show=macchanger&type=packages&query=macchanger)  
+- [nano](https://search.nixos.org/packages?channel=unstable&show=nano&type=packages&query=nano)  
+- [parted](https://search.nixos.org/packages?channel=unstable&show=parted&type=packages&query=parted)  
+- [pwgen](https://search.nixos.org/packages?channel=unstable&show=pwgen&type=packages&query=pwgen)  
+- [spyre](https://search.nixos.org/packages?channel=unstable&show=spyre&type=packages&query=spyre)  
+- [utillinux](https://search.nixos.org/packages?channel=unstable&show=utillinux&type=packages&query=utillinux)  
+- [wget](https://search.nixos.org/packages?channel=unstable&show=wget&type=packages&query=wget)  
+- [xh](https://search.nixos.org/packages?channel=unstable&show=xh&type=packages&query=xh)  
+- [eternal-terminal](https://search.nixos.org/packages?channel=unstable&show=eternal-terminal&type=packages&query=eternal-terminal)  
+- [mosh](https://search.nixos.org/packages?channel=unstable&show=mosh&type=packages&query=mosh)  
+- [shellz](https://search.nixos.org/packages?channel=unstable&show=shellz&type=packages&query=shellz)  
+- [cifs-utils](https://search.nixos.org/packages?channel=unstable&show=cifs-utils&type=packages&query=cifs-utils)  
+- [freerdp](https://search.nixos.org/packages?channel=unstable&show=freerdp&type=packages&query=freerdp)  
+- [net-snmp](https://search.nixos.org/packages?channel=unstable&show=net-snmp&type=packages&query=net-snmp)  
+- [nfs-utils](https://search.nixos.org/packages?channel=unstable&show=nfs-utils&type=packages&query=nfs-utils)  
+- [ntp](https://search.nixos.org/packages?channel=unstable&show=ntp&type=packages&query=ntp)  
+- [openssh](https://search.nixos.org/packages?channel=unstable&show=openssh&type=packages&query=openssh)  
+- [openvpn](https://search.nixos.org/packages?channel=unstable&show=openvpn&type=packages&query=openvpn)  
+- [samba](https://search.nixos.org/packages?channel=unstable&show=samba&type=packages&query=samba)  
+- [step-cli](https://search.nixos.org/packages?channel=unstable&show=step-cli&type=packages&query=step-cli)  
+- [tightvnc](https://search.nixos.org/packages?channel=unstable&show=tightvnc&type=packages&query=tightvnc)  
+- [wireguard](https://search.nixos.org/packages?channel=unstable&show=wireguard&type=packages&query=wireguard)  
+- [wireguard-go](https://search.nixos.org/packages?channel=unstable&show=wireguard-go&type=packages&query=wireguard-go)  
+- [wireguard-tools](https://search.nixos.org/packages?channel=unstable&show=wireguard-tools&type=packages&query=wireguard-tools)  
+- [xrdp](https://search.nixos.org/packages?channel=unstable&show=xrdp&type=packages&query=xrdp)  
+- [ipcalc](https://search.nixos.org/packages?channel=unstable&show=ipcalc&type=packages&query=ipcalc)  
+- [netmask](https://search.nixos.org/packages?channel=unstable&show=netmask&type=packages&query=netmask)  
+- [tmux](https://search.nixos.org/packages?channel=unstable&show=tmux&type=packages&query=tmux)  
+- [cabextract](https://search.nixos.org/packages?channel=unstable&show=cabextract&type=packages&query=cabextract)  
+- [p7zip](https://search.nixos.org/packages?channel=unstable&show=p7zip&type=packages&query=p7zip)  
+- [unrar](https://search.nixos.org/packages?channel=unstable&show=unrar&type=packages&query=unrar)  
+- [unzip](https://search.nixos.org/packages?channel=unstable&show=unzip&type=packages&query=unzip)  
+
+# Host
+  
+- [cargo-audit](https://search.nixos.org/packages?channel=unstable&show=cargo-audit&type=packages&query=cargo-audit)  
+- [checksec](https://search.nixos.org/packages?channel=unstable&show=checksec&type=packages&query=checksec)  
+- [chkrootkit](https://search.nixos.org/packages?channel=unstable&show=chkrootkit&type=packages&query=chkrootkit)  
+- [lynis](https://search.nixos.org/packages?channel=unstable&show=lynis&type=packages&query=lynis)  
+- [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
+- [pip-audit](https://search.nixos.org/packages?channel=unstable&show=pip-audit&type=packages&query=pip-audit)  
+- [pip-check](https://search.nixos.org/packages?channel=unstable&show=pip-check&type=packages&query=pip-check)  
+- [safety-cli](https://search.nixos.org/packages?channel=unstable&show=safety-cli&type=packages&query=safety-cli)  
+- [tracee](https://search.nixos.org/packages?channel=unstable&show=tracee&type=packages&query=tracee)  
+- [vulnix](https://search.nixos.org/packages?channel=unstable&show=vulnix&type=packages&query=vulnix)  
+
 # Kubernetes
   
 - [cfripper](https://search.nixos.org/packages?channel=unstable&show=cfripper&type=packages&query=cfripper)  
@@ -390,13 +350,6 @@ Tool overview
 - [kubeaudit](https://search.nixos.org/packages?channel=unstable&show=kubeaudit&type=packages&query=kubeaudit)  
 - [kubescape](https://search.nixos.org/packages?channel=unstable&show=kubescape&type=packages&query=kubescape)  
 
-# Ldap
-  
-- [adenum](https://search.nixos.org/packages?channel=unstable&show=adenum&type=packages&query=adenum)  
-- [ldapmonitor](https://search.nixos.org/packages?channel=unstable&show=ldapmonitor&type=packages&query=ldapmonitor)  
-- [ldapdomaindump](https://search.nixos.org/packages?channel=unstable&show=ldapdomaindump&type=packages&query=ldapdomaindump)  
-- [ldeep](https://search.nixos.org/packages?channel=unstable&show=ldeep&type=packages&query=ldeep)  
-
 # Load testing
   
 - [drill](https://search.nixos.org/packages?channel=unstable&show=drill&type=packages&query=drill)  
@@ -405,6 +358,19 @@ Tool overview
 - [siege](https://search.nixos.org/packages?channel=unstable&show=siege&type=packages&query=siege)  
 - [tsung](https://search.nixos.org/packages?channel=unstable&show=tsung&type=packages&query=tsung)  
 - [vegeta](https://search.nixos.org/packages?channel=unstable&show=vegeta&type=packages&query=vegeta)  
+
+# Mobile
+  
+- [abootimg](https://search.nixos.org/packages?channel=unstable&show=abootimg&type=packages&query=abootimg)  
+- [androguard](https://search.nixos.org/packages?channel=unstable&show=androguard&type=packages&query=androguard)  
+- [apkeep](https://search.nixos.org/packages?channel=unstable&show=apkeep&type=packages&query=apkeep)  
+- [apkleaks](https://search.nixos.org/packages?channel=unstable&show=apkleaks&type=packages&query=apkleaks)  
+- [apktool](https://search.nixos.org/packages?channel=unstable&show=apktool&type=packages&query=apktool)  
+- [dex2jar](https://search.nixos.org/packages?channel=unstable&show=dex2jar&type=packages&query=dex2jar)  
+- [genymotion](https://search.nixos.org/packages?channel=unstable&show=genymotion&type=packages&query=genymotion)  
+- [ghost](https://search.nixos.org/packages?channel=unstable&show=ghost&type=packages&query=ghost)  
+- [simg2img](https://search.nixos.org/packages?channel=unstable&show=simg2img&type=packages&query=simg2img)  
+- [trueseeing](https://search.nixos.org/packages?channel=unstable&show=trueseeing&type=packages&query=trueseeing)  
 
 # Services
   
@@ -445,6 +411,41 @@ Tool overview
 - [offensive-azure](https://search.nixos.org/packages?channel=unstable&show=offensive-azure&type=packages&query=offensive-azure)  
 - [python3Packages.pypykatz](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pypykatz&type=packages&query=python3Packages.pypykatz)  
 - [smbscan](https://search.nixos.org/packages?channel=unstable&show=smbscan&type=packages&query=smbscan)  
+
+# Hardware
+  
+- [cantoolz](https://search.nixos.org/packages?channel=unstable&show=cantoolz&type=packages&query=cantoolz)  
+- [chipsec](https://search.nixos.org/packages?channel=unstable&show=chipsec&type=packages&query=chipsec)  
+- [esptool](https://search.nixos.org/packages?channel=unstable&show=esptool&type=packages&query=esptool)  
+- [extrude](https://search.nixos.org/packages?channel=unstable&show=extrude&type=packages&query=extrude)  
+- [hachoir](https://search.nixos.org/packages?channel=unstable&show=hachoir&type=packages&query=hachoir)  
+- [nrfutil](https://search.nixos.org/packages?channel=unstable&show=nrfutil&type=packages&query=nrfutil)  
+- [tytools](https://search.nixos.org/packages?channel=unstable&show=tytools&type=packages&query=tytools)  
+- [python3Packages.angr](https://search.nixos.org/packages?channel=unstable&show=python3Packages.angr&type=packages&query=python3Packages.angr)  
+- [python3Packages.angrop](https://search.nixos.org/packages?channel=unstable&show=python3Packages.angrop&type=packages&query=python3Packages.angrop)  
+- [python3Packages.can](https://search.nixos.org/packages?channel=unstable&show=python3Packages.can&type=packages&query=python3Packages.can)  
+- [python3Packages.pyi2cflash](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pyi2cflash&type=packages&query=python3Packages.pyi2cflash)  
+- [python3Packages.pyspiflash](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pyspiflash&type=packages&query=python3Packages.pyspiflash)  
+- [routersploit](https://search.nixos.org/packages?channel=unstable&show=routersploit&type=packages&query=routersploit)  
+
+# Ldap
+  
+- [adenum](https://search.nixos.org/packages?channel=unstable&show=adenum&type=packages&query=adenum)  
+- [ldapmonitor](https://search.nixos.org/packages?channel=unstable&show=ldapmonitor&type=packages&query=ldapmonitor)  
+- [ldapdomaindump](https://search.nixos.org/packages?channel=unstable&show=ldapdomaindump&type=packages&query=ldapdomaindump)  
+- [ldeep](https://search.nixos.org/packages?channel=unstable&show=ldeep&type=packages&query=ldeep)  
+
+# Misc
+  
+- [badchars](https://search.nixos.org/packages?channel=unstable&show=badchars&type=packages&query=badchars)  
+- [changetower](https://search.nixos.org/packages?channel=unstable&show=changetower&type=packages&query=changetower)  
+- [deepsea](https://search.nixos.org/packages?channel=unstable&show=deepsea&type=packages&query=deepsea)  
+- [doona](https://search.nixos.org/packages?channel=unstable&show=doona&type=packages&query=doona)  
+- [honeytrap](https://search.nixos.org/packages?channel=unstable&show=honeytrap&type=packages&query=honeytrap)  
+- [jwt-cli](https://search.nixos.org/packages?channel=unstable&show=jwt-cli&type=packages&query=jwt-cli)  
+- [nmap-formatter](https://search.nixos.org/packages?channel=unstable&show=nmap-formatter&type=packages&query=nmap-formatter)  
+- [pwntools](https://search.nixos.org/packages?channel=unstable&show=pwntools&type=packages&query=pwntools)  
+- [python3Packages.pytenable](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pytenable&type=packages&query=python3Packages.pytenable)  
 
 # Web
   

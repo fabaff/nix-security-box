@@ -390,6 +390,7 @@
     wstunnel
     wuzz
     x3270
+    xh
     xorex
     xortool
     xrdp
