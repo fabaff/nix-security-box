@@ -14,6 +14,7 @@
     junkie
     netsniff-ng
     ngrep
+    secrets-extractor
     sniffglue
     tcpdump
     tcpflow
