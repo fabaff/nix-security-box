@@ -26,6 +26,7 @@
     spyre
     utillinux
     wget
+    xh
 
     # Terminal helpers
     eternal-terminal
