@@ -7,11 +7,15 @@ from mdutils.mdutils import MdUtils
 
 URL = "https://search.nixos.org/packages?channel=unstable&show={tool}&type=packages&query={tool}"
 
-pkgs_files = []
-output = {}
 
-for file in glob.glob("*.nix"):
-    pkgs_files.append(file)
+def collect_files():
+    """Collect all files aka categories."""
+    pkgs_files = []
+
+    for file in glob.glob("*.nix"):
+        pkgs_files.append(file)
+
+    return pkgs_files
 
 
 def starts_with_four_n_spaces(eval_string):
@@ -21,6 +25,9 @@ def starts_with_four_n_spaces(eval_string):
 
 def collect_tools():
     "Collect all tools from the different files."
+    output = {}
+    pkgs_files = collect_files()
+
     for pkgs_file in pkgs_files:
         category = pkgs_file.split(".")[0]
 
@@ -52,7 +59,7 @@ def count_tools(data):
 
 
 def full_list(data):
-    """Create a page with all availabe packages."""
+    """Create a page with all available packages."""
     tools = list_tools(data)
     tools.sort()
 
@@ -61,6 +68,21 @@ def full_list(data):
     mdFile.new_line("```text")
     for tool in tools:
         mdFile.new_line(tool)
+    mdFile.new_line("```")
+
+    mdFile.create_md_file()
+
+
+def imports():
+    """Create files list for imports."""
+    pkgs_files = collect_files()
+    pkgs_files.sort()
+
+    mdFile = MdUtils(file_name="docs/imports.md", title="Imports")
+
+    mdFile.new_line("```text")
+    for file in pkgs_files:
+        mdFile.new_line(f"      ./{file}")
     mdFile.new_line("```")
 
     mdFile.create_md_file()
@@ -125,6 +147,7 @@ def main():
     full_list(data)
     full_nix(data)
     full_shell(data)
+    imports()
 
 
 if __name__ == "__main__":
