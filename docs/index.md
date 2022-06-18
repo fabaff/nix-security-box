@@ -391,6 +391,7 @@ Tool overview
 
 # Ldap
   
+- [adenum](https://search.nixos.org/packages?channel=unstable&show=adenum&type=packages&query=adenum)  
 - [ldapmonitor](https://search.nixos.org/packages?channel=unstable&show=ldapmonitor&type=packages&query=ldapmonitor)  
 - [ldapdomaindump](https://search.nixos.org/packages?channel=unstable&show=ldapdomaindump&type=packages&query=ldapdomaindump)  
 - [ldeep](https://search.nixos.org/packages?channel=unstable&show=ldeep&type=packages&query=ldeep)  

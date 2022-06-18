@@ -5,6 +5,7 @@ with pkgs;
 mkShell {
  nativeBuildInputs = [
     abootimg
+    adenum
     adreaper
     afflib
     afl
