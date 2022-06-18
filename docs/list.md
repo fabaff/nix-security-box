@@ -272,6 +272,7 @@ python3Packages.patator
 python3Packages.pyi2cflash  
 python3Packages.pypykatz  
 python3Packages.pyspiflash  
+python3Packages.pytenable  
 python3Packages.scapy  
 python3Packages.unicorn  
 r2pipe  

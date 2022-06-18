@@ -228,6 +228,7 @@ Tool overview
 - [jwt-cli](https://search.nixos.org/packages?channel=unstable&show=jwt-cli&type=packages&query=jwt-cli)  
 - [nmap-formatter](https://search.nixos.org/packages?channel=unstable&show=nmap-formatter&type=packages&query=nmap-formatter)  
 - [pwntools](https://search.nixos.org/packages?channel=unstable&show=pwntools&type=packages&query=pwntools)  
+- [python3Packages.pytenable](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pytenable&type=packages&query=python3Packages.pytenable)  
 
 # Mobile
   
