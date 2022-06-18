@@ -284,6 +284,7 @@ mkShell {
     redsocks
     regexploit
     rizin
+    routersploit
     rshijack
     rustcat
     rustscan

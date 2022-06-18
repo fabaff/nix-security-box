@@ -190,6 +190,7 @@ Tool overview
 - [python3Packages.can](https://search.nixos.org/packages?channel=unstable&show=python3Packages.can&type=packages&query=python3Packages.can)  
 - [python3Packages.pyi2cflash](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pyi2cflash&type=packages&query=python3Packages.pyi2cflash)  
 - [python3Packages.pyspiflash](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pyspiflash&type=packages&query=python3Packages.pyspiflash)  
+- [routersploit](https://search.nixos.org/packages?channel=unstable&show=routersploit&type=packages&query=routersploit)  
 
 # Malware
   
