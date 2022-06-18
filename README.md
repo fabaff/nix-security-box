@@ -12,7 +12,7 @@ unmaintained ones.
 
 ## Usage
 
-Make the repo available on your machine and include the category you want in `/etc/nixos/configuration.nix`.
+Make the repo available on your machine and include the category/files you want in `/etc/nixos/configuration.nix`. See "[imports](https://fabaff.github.io/nix-security-box/imports)" for all available categories.
 
 ```nix
 { config, pkgs, ... }:
@@ -46,7 +46,7 @@ mkShell {
 $ nix-shell portscan.nix
 ````
 
-Checkout [RedNix](https://github.com/redcode-labs/RedNix) where you can find ready to use shells.
+Or use this [template](https://fabaff.github.io/nix-security-box/nstb-shell.nix) and delete the tools you don't need. Also, it's recommaneded to check out [RedNix](https://github.com/redcode-labs/RedNix) where you can find ready-to-use shells.
 
 ## License
 
