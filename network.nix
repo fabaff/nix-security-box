@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    arping
     atftp
     bandwhich
     crackmapexec
