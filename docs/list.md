@@ -19,6 +19,7 @@ apkeep
 apkleaks  
 apktool  
 arp-scan  
+arping  
 atftp  
 authoscope  
 badchars  
@@ -85,6 +86,8 @@ dislocker
 dismap  
 dive  
 dnsenum  
+dnsmon-go  
+dnsmonster  
 dnspeep  
 dnsrecon  
 dnstake  
@@ -131,6 +134,7 @@ ghost
 git-secret  
 gitjacker  
 gitleaks  
+gitls  
 go365  
 gokart  
 gomapenum  
@@ -292,6 +296,7 @@ rustscan
 safecopy  
 safety-cli  
 samba  
+secrets-extractor  
 secretscanner  
 shellz  
 shhgit  

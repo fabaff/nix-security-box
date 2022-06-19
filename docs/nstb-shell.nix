@@ -20,6 +20,7 @@ mkShell {
     apkleaks
     apktool
     arp-scan
+    arping
     atftp
     authoscope
     badchars
@@ -86,6 +87,8 @@ mkShell {
     dismap
     dive
     dnsenum
+    dnsmon-go
+    dnsmonster
     dnspeep
     dnsrecon
     dnstake
@@ -132,6 +135,7 @@ mkShell {
     git-secret
     gitjacker
     gitleaks
+    gitls
     go365
     gokart
     gomapenum
@@ -293,6 +297,7 @@ mkShell {
     safecopy
     safety-cli
     samba
+    secrets-extractor
     secretscanner
     shellz
     shhgit
