@@ -9,6 +9,7 @@
     git-secret
     gitjacker
     gitleaks
+    gitls
     gokart
     secretscanner
     shhgit
