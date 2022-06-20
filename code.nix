@@ -11,6 +11,7 @@
     gitleaks
     gitls
     gokart
+    gosca
     secretscanner
     shhgit
     skjold
