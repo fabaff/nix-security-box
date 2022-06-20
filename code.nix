@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    cargo-audit
     credential-detector
     detect-secrets
     git-secret
@@ -12,8 +13,11 @@
     gitls
     gokart
     gosca
+    pip-audit
+    pip-check
     secretscanner
     shhgit
+    skjold
     skjold
     trufflehog
     whispers

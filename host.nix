@@ -4,13 +4,9 @@
 
 {
   environment.systemPackages = with pkgs; [
-    cargo-audit
     checksec
     chkrootkit
     lynis
-    skjold
-    pip-audit
-    pip-check
     safety-cli
     tracee
     vulnix
