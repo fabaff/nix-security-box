@@ -140,6 +140,7 @@ mkShell {
     gokart
     gomapenum
     goreplay
+    gosca
     gospider
     gotestwaf
     gowitness

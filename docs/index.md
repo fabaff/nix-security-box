@@ -275,13 +275,9 @@ Tool overview
 
 # Host
   
-- [cargo-audit](https://search.nixos.org/packages?channel=unstable&show=cargo-audit&type=packages&query=cargo-audit)  
 - [checksec](https://search.nixos.org/packages?channel=unstable&show=checksec&type=packages&query=checksec)  
 - [chkrootkit](https://search.nixos.org/packages?channel=unstable&show=chkrootkit&type=packages&query=chkrootkit)  
 - [lynis](https://search.nixos.org/packages?channel=unstable&show=lynis&type=packages&query=lynis)  
-- [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
-- [pip-audit](https://search.nixos.org/packages?channel=unstable&show=pip-audit&type=packages&query=pip-audit)  
-- [pip-check](https://search.nixos.org/packages?channel=unstable&show=pip-check&type=packages&query=pip-check)  
 - [safety-cli](https://search.nixos.org/packages?channel=unstable&show=safety-cli&type=packages&query=safety-cli)  
 - [tracee](https://search.nixos.org/packages?channel=unstable&show=tracee&type=packages&query=tracee)  
 - [vulnix](https://search.nixos.org/packages?channel=unstable&show=vulnix&type=packages&query=vulnix)  
@@ -462,6 +458,7 @@ Tool overview
 
 # Code
   
+- [cargo-audit](https://search.nixos.org/packages?channel=unstable&show=cargo-audit&type=packages&query=cargo-audit)  
 - [credential-detector](https://search.nixos.org/packages?channel=unstable&show=credential-detector&type=packages&query=credential-detector)  
 - [detect-secrets](https://search.nixos.org/packages?channel=unstable&show=detect-secrets&type=packages&query=detect-secrets)  
 - [git-secret](https://search.nixos.org/packages?channel=unstable&show=git-secret&type=packages&query=git-secret)  
@@ -469,8 +466,12 @@ Tool overview
 - [gitleaks](https://search.nixos.org/packages?channel=unstable&show=gitleaks&type=packages&query=gitleaks)  
 - [gitls](https://search.nixos.org/packages?channel=unstable&show=gitls&type=packages&query=gitls)  
 - [gokart](https://search.nixos.org/packages?channel=unstable&show=gokart&type=packages&query=gokart)  
+- [gosca](https://search.nixos.org/packages?channel=unstable&show=gosca&type=packages&query=gosca)  
+- [pip-audit](https://search.nixos.org/packages?channel=unstable&show=pip-audit&type=packages&query=pip-audit)  
+- [pip-check](https://search.nixos.org/packages?channel=unstable&show=pip-check&type=packages&query=pip-check)  
 - [secretscanner](https://search.nixos.org/packages?channel=unstable&show=secretscanner&type=packages&query=secretscanner)  
 - [shhgit](https://search.nixos.org/packages?channel=unstable&show=shhgit&type=packages&query=shhgit)  
+- [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
 - [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
 - [trufflehog](https://search.nixos.org/packages?channel=unstable&show=trufflehog&type=packages&query=trufflehog)  
 - [whispers](https://search.nixos.org/packages?channel=unstable&show=whispers&type=packages&query=whispers)  

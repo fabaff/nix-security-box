@@ -139,6 +139,7 @@ go365
 gokart  
 gomapenum  
 goreplay  
+gosca  
 gospider  
 gotestwaf  
 gowitness  
