@@ -247,6 +247,7 @@
     openvpn
     oshka
     ostinato
+    osv-detector
     p0f
     p0f
     p7zip

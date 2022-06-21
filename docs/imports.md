@@ -5,10 +5,8 @@ Imports
 ```text  
       ./bluetooth.nix  
       ./code.nix  
-      ./code.sync-conflict-20220619-210640-6NH3IXJ.nix  
       ./container.nix  
       ./dns.nix  
-      ./dns.sync-conflict-20220619-210646-6NH3IXJ.nix  
       ./forensics.nix  
       ./fuzzers.nix  
       ./generic.nix  
@@ -22,7 +20,6 @@ Imports
       ./misc.nix  
       ./mobile.nix  
       ./network.nix  
-      ./network.sync-conflict-20220619-210632-6NH3IXJ.nix  
       ./packet-generators.nix  
       ./password.nix  
       ./port-scanners.nix  

@@ -467,6 +467,7 @@ Tool overview
 - [gitls](https://search.nixos.org/packages?channel=unstable&show=gitls&type=packages&query=gitls)  
 - [gokart](https://search.nixos.org/packages?channel=unstable&show=gokart&type=packages&query=gokart)  
 - [gosca](https://search.nixos.org/packages?channel=unstable&show=gosca&type=packages&query=gosca)  
+- [osv-detector](https://search.nixos.org/packages?channel=unstable&show=osv-detector&type=packages&query=osv-detector)  
 - [pip-audit](https://search.nixos.org/packages?channel=unstable&show=pip-audit&type=packages&query=pip-audit)  
 - [pip-check](https://search.nixos.org/packages?channel=unstable&show=pip-check&type=packages&query=pip-check)  
 - [secretscanner](https://search.nixos.org/packages?channel=unstable&show=secretscanner&type=packages&query=secretscanner)  
