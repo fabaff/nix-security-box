@@ -13,6 +13,7 @@
     gitls
     gokart
     gosca
+    osv-detector
     pip-audit
     pip-check
     secretscanner
