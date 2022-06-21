@@ -26,6 +26,7 @@
     httpx
     hyperpotamus
     jaeles
+    jsubfinder
     jwt-hack
     kiterunner
     mitmproxy2swagger
