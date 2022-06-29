@@ -181,6 +181,7 @@
     iw
     jaeles
     john
+    jsubfinder
     junkie
     jwt-cli
     jwt-hack
@@ -375,6 +376,7 @@
     volatility3
     vulnix
     wad
+    waf-tester
     wafw00f
     wavemon
     wbox
