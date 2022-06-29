@@ -29,6 +29,7 @@
 
     # IDS/IPS/WAF
     teler
+    waf-tester
     wafw00f
 
     # CI
