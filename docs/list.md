@@ -75,6 +75,7 @@ curl
 cutecom  
 cutter  
 dalfox  
+davtest  
 dcfldd  
 ddosify  
 ddrescue  
@@ -197,6 +198,7 @@ ldapmonitor
 ldeep  
 lftp  
 libfreefare  
+linux-exploit-suggester  
 lynis  
 lynx  
 macchanger  
@@ -268,6 +270,7 @@ pwgen
 pwnat  
 pwndbg  
 pwntools  
+python310Packages.safety  
 python3Packages.angr  
 python3Packages.angrop  
 python3Packages.binwalk  

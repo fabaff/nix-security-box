@@ -273,15 +273,6 @@ Tool overview
 - [unrar](https://search.nixos.org/packages?channel=unstable&show=unrar&type=packages&query=unrar)  
 - [unzip](https://search.nixos.org/packages?channel=unstable&show=unzip&type=packages&query=unzip)  
 
-# Host
-  
-- [checksec](https://search.nixos.org/packages?channel=unstable&show=checksec&type=packages&query=checksec)  
-- [chkrootkit](https://search.nixos.org/packages?channel=unstable&show=chkrootkit&type=packages&query=chkrootkit)  
-- [lynis](https://search.nixos.org/packages?channel=unstable&show=lynis&type=packages&query=lynis)  
-- [safety-cli](https://search.nixos.org/packages?channel=unstable&show=safety-cli&type=packages&query=safety-cli)  
-- [tracee](https://search.nixos.org/packages?channel=unstable&show=tracee&type=packages&query=tracee)  
-- [vulnix](https://search.nixos.org/packages?channel=unstable&show=vulnix&type=packages&query=vulnix)  
-
 # Kubernetes
   
 - [cfripper](https://search.nixos.org/packages?channel=unstable&show=cfripper&type=packages&query=cfripper)  
@@ -312,31 +303,6 @@ Tool overview
 - [ghost](https://search.nixos.org/packages?channel=unstable&show=ghost&type=packages&query=ghost)  
 - [simg2img](https://search.nixos.org/packages?channel=unstable&show=simg2img&type=packages&query=simg2img)  
 - [trueseeing](https://search.nixos.org/packages?channel=unstable&show=trueseeing&type=packages&query=trueseeing)  
-
-# Services
-  
-- [checkip](https://search.nixos.org/packages?channel=unstable&show=checkip&type=packages&query=checkip)  
-- [ike-scan](https://search.nixos.org/packages?channel=unstable&show=ike-scan&type=packages&query=ike-scan)  
-- [metasploit](https://search.nixos.org/packages?channel=unstable&show=metasploit&type=packages&query=metasploit)  
-- [nuclei](https://search.nixos.org/packages?channel=unstable&show=nuclei&type=packages&query=nuclei)  
-- [traitor](https://search.nixos.org/packages?channel=unstable&show=traitor&type=packages&query=traitor)  
-- [swaks](https://search.nixos.org/packages?channel=unstable&show=swaks&type=packages&query=swaks)  
-- [mongoaudit](https://search.nixos.org/packages?channel=unstable&show=mongoaudit&type=packages&query=mongoaudit)  
-- [sqlmap](https://search.nixos.org/packages?channel=unstable&show=sqlmap&type=packages&query=sqlmap)  
-- [onesixtyone](https://search.nixos.org/packages?channel=unstable&show=onesixtyone&type=packages&query=onesixtyone)  
-- [snmpcheck](https://search.nixos.org/packages?channel=unstable&show=snmpcheck&type=packages&query=snmpcheck)  
-- [sshchecker](https://search.nixos.org/packages?channel=unstable&show=sshchecker&type=packages&query=sshchecker)  
-- [ssh-audit](https://search.nixos.org/packages?channel=unstable&show=ssh-audit&type=packages&query=ssh-audit)  
-- [ssh-mitm](https://search.nixos.org/packages?channel=unstable&show=ssh-mitm&type=packages&query=ssh-mitm)  
-- [ssb](https://search.nixos.org/packages?channel=unstable&show=ssb&type=packages&query=ssb)  
-- [teler](https://search.nixos.org/packages?channel=unstable&show=teler&type=packages&query=teler)  
-- [waf-tester](https://search.nixos.org/packages?channel=unstable&show=waf-tester&type=packages&query=waf-tester)  
-- [wafw00f](https://search.nixos.org/packages?channel=unstable&show=wafw00f&type=packages&query=wafw00f)  
-- [oshka](https://search.nixos.org/packages?channel=unstable&show=oshka&type=packages&query=oshka)  
-- [terrascan](https://search.nixos.org/packages?channel=unstable&show=terrascan&type=packages&query=terrascan)  
-- [tfsec](https://search.nixos.org/packages?channel=unstable&show=tfsec&type=packages&query=tfsec)  
-- [chain-bench](https://search.nixos.org/packages?channel=unstable&show=chain-bench&type=packages&query=chain-bench)  
-- [witness](https://search.nixos.org/packages?channel=unstable&show=witness&type=packages&query=witness)  
 
 # Windows
   
@@ -458,27 +424,6 @@ Tool overview
 - [whois](https://search.nixos.org/packages?channel=unstable&show=whois&type=packages&query=whois)  
 - [yersinia](https://search.nixos.org/packages?channel=unstable&show=yersinia&type=packages&query=yersinia)  
 
-# Code
-  
-- [cargo-audit](https://search.nixos.org/packages?channel=unstable&show=cargo-audit&type=packages&query=cargo-audit)  
-- [credential-detector](https://search.nixos.org/packages?channel=unstable&show=credential-detector&type=packages&query=credential-detector)  
-- [detect-secrets](https://search.nixos.org/packages?channel=unstable&show=detect-secrets&type=packages&query=detect-secrets)  
-- [git-secret](https://search.nixos.org/packages?channel=unstable&show=git-secret&type=packages&query=git-secret)  
-- [gitjacker](https://search.nixos.org/packages?channel=unstable&show=gitjacker&type=packages&query=gitjacker)  
-- [gitleaks](https://search.nixos.org/packages?channel=unstable&show=gitleaks&type=packages&query=gitleaks)  
-- [gitls](https://search.nixos.org/packages?channel=unstable&show=gitls&type=packages&query=gitls)  
-- [gokart](https://search.nixos.org/packages?channel=unstable&show=gokart&type=packages&query=gokart)  
-- [gosca](https://search.nixos.org/packages?channel=unstable&show=gosca&type=packages&query=gosca)  
-- [osv-detector](https://search.nixos.org/packages?channel=unstable&show=osv-detector&type=packages&query=osv-detector)  
-- [pip-audit](https://search.nixos.org/packages?channel=unstable&show=pip-audit&type=packages&query=pip-audit)  
-- [pip-check](https://search.nixos.org/packages?channel=unstable&show=pip-check&type=packages&query=pip-check)  
-- [secretscanner](https://search.nixos.org/packages?channel=unstable&show=secretscanner&type=packages&query=secretscanner)  
-- [shhgit](https://search.nixos.org/packages?channel=unstable&show=shhgit&type=packages&query=shhgit)  
-- [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
-- [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
-- [trufflehog](https://search.nixos.org/packages?channel=unstable&show=trufflehog&type=packages&query=trufflehog)  
-- [whispers](https://search.nixos.org/packages?channel=unstable&show=whispers&type=packages&query=whispers)  
-
 # Dns
   
 - [aiodnsbrute](https://search.nixos.org/packages?channel=unstable&show=aiodnsbrute&type=packages&query=aiodnsbrute)  
@@ -498,3 +443,61 @@ Tool overview
 - [knockpy](https://search.nixos.org/packages?channel=unstable&show=knockpy&type=packages&query=knockpy)  
 - [subfinder](https://search.nixos.org/packages?channel=unstable&show=subfinder&type=packages&query=subfinder)  
 - [subzerod](https://search.nixos.org/packages?channel=unstable&show=subzerod&type=packages&query=subzerod)  
+
+# Code
+  
+- [cargo-audit](https://search.nixos.org/packages?channel=unstable&show=cargo-audit&type=packages&query=cargo-audit)  
+- [credential-detector](https://search.nixos.org/packages?channel=unstable&show=credential-detector&type=packages&query=credential-detector)  
+- [detect-secrets](https://search.nixos.org/packages?channel=unstable&show=detect-secrets&type=packages&query=detect-secrets)  
+- [git-secret](https://search.nixos.org/packages?channel=unstable&show=git-secret&type=packages&query=git-secret)  
+- [gitjacker](https://search.nixos.org/packages?channel=unstable&show=gitjacker&type=packages&query=gitjacker)  
+- [gitleaks](https://search.nixos.org/packages?channel=unstable&show=gitleaks&type=packages&query=gitleaks)  
+- [gitls](https://search.nixos.org/packages?channel=unstable&show=gitls&type=packages&query=gitls)  
+- [gokart](https://search.nixos.org/packages?channel=unstable&show=gokart&type=packages&query=gokart)  
+- [gosca](https://search.nixos.org/packages?channel=unstable&show=gosca&type=packages&query=gosca)  
+- [osv-detector](https://search.nixos.org/packages?channel=unstable&show=osv-detector&type=packages&query=osv-detector)  
+- [pip-audit](https://search.nixos.org/packages?channel=unstable&show=pip-audit&type=packages&query=pip-audit)  
+- [pip-check](https://search.nixos.org/packages?channel=unstable&show=pip-check&type=packages&query=pip-check)  
+- [python310Packages.safety](https://search.nixos.org/packages?channel=unstable&show=python310Packages.safety&type=packages&query=python310Packages.safety)  
+- [secretscanner](https://search.nixos.org/packages?channel=unstable&show=secretscanner&type=packages&query=secretscanner)  
+- [shhgit](https://search.nixos.org/packages?channel=unstable&show=shhgit&type=packages&query=shhgit)  
+- [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
+- [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)  
+- [trufflehog](https://search.nixos.org/packages?channel=unstable&show=trufflehog&type=packages&query=trufflehog)  
+- [whispers](https://search.nixos.org/packages?channel=unstable&show=whispers&type=packages&query=whispers)  
+
+# Host
+  
+- [checksec](https://search.nixos.org/packages?channel=unstable&show=checksec&type=packages&query=checksec)  
+- [chkrootkit](https://search.nixos.org/packages?channel=unstable&show=chkrootkit&type=packages&query=chkrootkit)  
+- [linux-exploit-suggester](https://search.nixos.org/packages?channel=unstable&show=linux-exploit-suggester&type=packages&query=linux-exploit-suggester)  
+- [lynis](https://search.nixos.org/packages?channel=unstable&show=lynis&type=packages&query=lynis)  
+- [safety-cli](https://search.nixos.org/packages?channel=unstable&show=safety-cli&type=packages&query=safety-cli)  
+- [tracee](https://search.nixos.org/packages?channel=unstable&show=tracee&type=packages&query=tracee)  
+- [vulnix](https://search.nixos.org/packages?channel=unstable&show=vulnix&type=packages&query=vulnix)  
+
+# Services
+  
+- [checkip](https://search.nixos.org/packages?channel=unstable&show=checkip&type=packages&query=checkip)  
+- [ike-scan](https://search.nixos.org/packages?channel=unstable&show=ike-scan&type=packages&query=ike-scan)  
+- [metasploit](https://search.nixos.org/packages?channel=unstable&show=metasploit&type=packages&query=metasploit)  
+- [nuclei](https://search.nixos.org/packages?channel=unstable&show=nuclei&type=packages&query=nuclei)  
+- [traitor](https://search.nixos.org/packages?channel=unstable&show=traitor&type=packages&query=traitor)  
+- [swaks](https://search.nixos.org/packages?channel=unstable&show=swaks&type=packages&query=swaks)  
+- [mongoaudit](https://search.nixos.org/packages?channel=unstable&show=mongoaudit&type=packages&query=mongoaudit)  
+- [sqlmap](https://search.nixos.org/packages?channel=unstable&show=sqlmap&type=packages&query=sqlmap)  
+- [onesixtyone](https://search.nixos.org/packages?channel=unstable&show=onesixtyone&type=packages&query=onesixtyone)  
+- [snmpcheck](https://search.nixos.org/packages?channel=unstable&show=snmpcheck&type=packages&query=snmpcheck)  
+- [sshchecker](https://search.nixos.org/packages?channel=unstable&show=sshchecker&type=packages&query=sshchecker)  
+- [ssh-audit](https://search.nixos.org/packages?channel=unstable&show=ssh-audit&type=packages&query=ssh-audit)  
+- [ssh-mitm](https://search.nixos.org/packages?channel=unstable&show=ssh-mitm&type=packages&query=ssh-mitm)  
+- [ssb](https://search.nixos.org/packages?channel=unstable&show=ssb&type=packages&query=ssb)  
+- [teler](https://search.nixos.org/packages?channel=unstable&show=teler&type=packages&query=teler)  
+- [waf-tester](https://search.nixos.org/packages?channel=unstable&show=waf-tester&type=packages&query=waf-tester)  
+- [wafw00f](https://search.nixos.org/packages?channel=unstable&show=wafw00f&type=packages&query=wafw00f)  
+- [oshka](https://search.nixos.org/packages?channel=unstable&show=oshka&type=packages&query=oshka)  
+- [terrascan](https://search.nixos.org/packages?channel=unstable&show=terrascan&type=packages&query=terrascan)  
+- [tfsec](https://search.nixos.org/packages?channel=unstable&show=tfsec&type=packages&query=tfsec)  
+- [chain-bench](https://search.nixos.org/packages?channel=unstable&show=chain-bench&type=packages&query=chain-bench)  
+- [witness](https://search.nixos.org/packages?channel=unstable&show=witness&type=packages&query=witness)  
+- [davtest](https://search.nixos.org/packages?channel=unstable&show=davtest&type=packages&query=davtest)  

@@ -76,6 +76,7 @@ mkShell {
     cutecom
     cutter
     dalfox
+    davtest
     dcfldd
     ddosify
     ddrescue
@@ -198,6 +199,7 @@ mkShell {
     ldeep
     lftp
     libfreefare
+    linux-exploit-suggester
     lynis
     lynx
     macchanger
@@ -269,6 +271,7 @@ mkShell {
     pwnat
     pwndbg
     pwntools
+    python310Packages.safety
     python3Packages.angr
     python3Packages.angrop
     python3Packages.binwalk
