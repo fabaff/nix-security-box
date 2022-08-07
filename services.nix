@@ -42,5 +42,8 @@
     # Supply chain
     chain-bench
     witness
+    
+    # WebDAV
+    davtest
   ];
 }
