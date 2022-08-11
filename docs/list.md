@@ -333,7 +333,9 @@ ssh-audit
 ssh-mitm  
 sshchecker  
 sshping  
+ssldump  
 sslh  
+sslsplit  
 stacs  
 stegseek  
 step-cli  
@@ -351,10 +353,12 @@ teler
 termshark  
 terrascan  
 testdisk  
+testssl  
 tfsec  
 thc-hydra  
 theharvester  
 tightvnc  
+tlsx  
 tmux  
 tracee  
 traitor  
