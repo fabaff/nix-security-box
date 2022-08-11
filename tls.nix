@@ -7,5 +7,6 @@
     ssldump
     sslsplit
     testssl
+    tlsx
   ];
 }
