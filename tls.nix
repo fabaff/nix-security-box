@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    sslscan
     ssldump
     sslsplit
     testssl
