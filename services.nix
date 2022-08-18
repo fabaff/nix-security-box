@@ -8,6 +8,7 @@
     ike-scan
     metasploit
     nuclei
+    uncover
     traitor
 
     # E-Mail
