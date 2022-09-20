@@ -59,6 +59,7 @@
     chopchop
     chrony
     cifs-utils
+    cirrusgo
     clair
     clamav
     cliam
@@ -77,6 +78,7 @@
     cutter
     dalfox
     davtest
+    dbmonster
     dcfldd
     ddosify
     ddrescue
@@ -336,6 +338,7 @@
     sshping
     ssldump
     sslh
+    sslscan
     sslsplit
     stacs
     stegseek
@@ -372,6 +375,7 @@
     ubertooth
     uddup
     udptunnel
+    uncover
     unicorn
     unicorn-emu
     unrar
