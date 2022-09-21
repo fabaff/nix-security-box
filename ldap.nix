@@ -1,4 +1,4 @@
-# LDAP tools
+# LDAP/AD tools
 
 { pkgs, ... }:
 
@@ -8,5 +8,6 @@
     ldapmonitor
     ldapdomaindump
     ldeep
+    silenthound
   ];
 }
