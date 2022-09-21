@@ -8,6 +8,7 @@
     dcfldd
     ddrescue
     dislocker
+    dismember
     exiv2
     ext4magic
     extundelete
