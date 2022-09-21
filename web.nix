@@ -10,6 +10,7 @@
     chopchop
     commix
     corsair-scan
+    crackql
     crlfsuite
     dalfox
     dismap
