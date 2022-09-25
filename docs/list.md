@@ -64,11 +64,13 @@ clamav
 cliam  
 cloudbrute  
 cloudlist  
+coercer  
 commix  
 corkscrew  
 corsair-scan  
 cowpatty  
 crackmapexec  
+crackql  
 credential-detector  
 crlfsuite  
 crunch  
@@ -87,6 +89,7 @@ dex2jar
 dhcpdump  
 dislocker  
 dismap  
+dismember  
 dive  
 dnsenum  
 dnsmon-go  
@@ -128,6 +131,7 @@ fping
 freerdp  
 fwanalyzer  
 galer  
+gallia  
 gau  
 gdb  
 gef  
@@ -309,6 +313,7 @@ secretscanner
 shellz  
 shhgit  
 siege  
+silenthound  
 simg2img  
 sipp  
 sipsak  

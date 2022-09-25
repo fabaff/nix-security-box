@@ -65,11 +65,13 @@ mkShell {
     cliam
     cloudbrute
     cloudlist
+    coercer
     commix
     corkscrew
     corsair-scan
     cowpatty
     crackmapexec
+    crackql
     credential-detector
     crlfsuite
     crunch
@@ -88,6 +90,7 @@ mkShell {
     dhcpdump
     dislocker
     dismap
+    dismember
     dive
     dnsenum
     dnsmon-go
@@ -129,6 +132,7 @@ mkShell {
     freerdp
     fwanalyzer
     galer
+    gallia
     gau
     gdb
     gef
@@ -310,6 +314,7 @@ mkShell {
     shellz
     shhgit
     siege
+    silenthound
     simg2img
     sipp
     sipsak
