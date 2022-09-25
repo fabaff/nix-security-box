@@ -8,6 +8,7 @@
     chipsec
     esptool
     extrude
+    gallia
     hachoir
     nrfutil
     tytools
