@@ -13,5 +13,6 @@
     nmap-formatter
     pwntools
     python3Packages.pytenable
+    snscrape
   ];
 }
