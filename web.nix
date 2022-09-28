@@ -35,6 +35,7 @@
     nikto
     ntlmrecon
     photon
+    scraper
     slowlorust
     snallygaster
     subjs
