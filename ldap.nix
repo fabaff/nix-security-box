@@ -7,6 +7,7 @@
     adenum
     ldapmonitor
     ldapdomaindump
+    ldapnomnom
     ldeep
     silenthound
   ];
