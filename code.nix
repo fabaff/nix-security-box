@@ -7,6 +7,7 @@
     cargo-audit
     credential-detector
     detect-secrets
+    garble
     git-secret
     gitjacker
     gitleaks
