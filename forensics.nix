@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     afflib
+    amoco
     dcfldd
     ddrescue
     dislocker
