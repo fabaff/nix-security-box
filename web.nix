@@ -15,6 +15,7 @@
     crlfsuite
     dalfox
     dismap
+    dirstalk
     dontgo403
     galer
     gau
