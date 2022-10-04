@@ -8,6 +8,7 @@
     cameradar
     cariddi
     chopchop
+    clairvoyance
     commix
     corsair-scan
     crackql
