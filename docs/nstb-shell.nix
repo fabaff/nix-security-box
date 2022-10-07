@@ -14,6 +14,7 @@ mkShell {
     aircrack-ng
     airgeddon
     amass
+    amoco
     androguard
     anevicon
     apkeep
@@ -61,9 +62,12 @@ mkShell {
     cifs-utils
     cirrusgo
     clair
+    clairvoyance
     clamav
     cliam
+    cloud-nuke
     cloudbrute
+    cloudfox
     cloudlist
     coercer
     commix
@@ -88,6 +92,7 @@ mkShell {
     detect-secrets
     dex2jar
     dhcpdump
+    dirstalk
     dislocker
     dismap
     dismember
@@ -130,9 +135,11 @@ mkShell {
     foremost
     fping
     freerdp
+    freeze
     fwanalyzer
     galer
     gallia
+    garble
     gau
     gdb
     gef
@@ -202,6 +209,7 @@ mkShell {
     kubescape
     ldapdomaindump
     ldapmonitor
+    ldapnomnom
     ldeep
     lftp
     libfreefare
@@ -309,6 +317,7 @@ mkShell {
     safecopy
     safety-cli
     samba
+    scraper
     secrets-extractor
     secretscanner
     shellz
@@ -330,6 +339,7 @@ mkShell {
     sngrep
     sniffglue
     snmpcheck
+    snscrape
     socat
     socialscan
     spyre

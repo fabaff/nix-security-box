@@ -13,6 +13,7 @@ aiodnsbrute
 aircrack-ng  
 airgeddon  
 amass  
+amoco  
 androguard  
 anevicon  
 apkeep  
@@ -60,9 +61,12 @@ chrony
 cifs-utils  
 cirrusgo  
 clair  
+clairvoyance  
 clamav  
 cliam  
+cloud-nuke  
 cloudbrute  
+cloudfox  
 cloudlist  
 coercer  
 commix  
@@ -87,6 +91,7 @@ deepsea
 detect-secrets  
 dex2jar  
 dhcpdump  
+dirstalk  
 dislocker  
 dismap  
 dismember  
@@ -129,9 +134,11 @@ flashrom
 foremost  
 fping  
 freerdp  
+freeze  
 fwanalyzer  
 galer  
 gallia  
+garble  
 gau  
 gdb  
 gef  
@@ -201,6 +208,7 @@ kubeaudit
 kubescape  
 ldapdomaindump  
 ldapmonitor  
+ldapnomnom  
 ldeep  
 lftp  
 libfreefare  
@@ -308,6 +316,7 @@ rustscan
 safecopy  
 safety-cli  
 samba  
+scraper  
 secrets-extractor  
 secretscanner  
 shellz  
@@ -329,6 +338,7 @@ snallygaster
 sngrep  
 sniffglue  
 snmpcheck  
+snscrape  
 socat  
 socialscan  
 spyre  

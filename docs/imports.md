@@ -4,6 +4,7 @@ Imports
   
 ```text  
       ./bluetooth.nix  
+      ./cloud.nix  
       ./code.nix  
       ./container.nix  
       ./dns.nix  
