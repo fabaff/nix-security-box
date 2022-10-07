@@ -11,5 +11,6 @@
     kube-score
     kubeaudit
     kubescape
+    popeye
   ];
 }
