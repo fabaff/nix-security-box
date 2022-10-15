@@ -12,6 +12,7 @@
     traitor
 
     # E-Mail
+    ruler
     swaks
 
     # Databases
