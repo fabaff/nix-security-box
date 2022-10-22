@@ -5,6 +5,7 @@ with pkgs;
 mkShell {
  nativeBuildInputs = [
     abootimg
+    acquire
     adenum
     adreaper
     afflib
@@ -277,6 +278,7 @@ mkShell {
     pip-check
     pixiewps
     pktgen
+    popeye
     proxify
     proxychains
     proxytunnel
@@ -312,6 +314,7 @@ mkShell {
     rizin
     routersploit
     rshijack
+    ruler
     rustcat
     rustscan
     safecopy

@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     abootimg
+    acquire
     adenum
     adreaper
     afflib
@@ -277,6 +278,7 @@
     pip-check
     pixiewps
     pktgen
+    popeye
     proxify
     proxychains
     proxytunnel
@@ -312,6 +314,7 @@
     rizin
     routersploit
     rshijack
+    ruler
     rustcat
     rustscan
     safecopy

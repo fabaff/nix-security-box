@@ -4,6 +4,7 @@ Full list
   
 ```text  
 abootimg  
+acquire  
 adenum  
 adreaper  
 afflib  
@@ -276,6 +277,7 @@ pip-audit
 pip-check  
 pixiewps  
 pktgen  
+popeye  
 proxify  
 proxychains  
 proxytunnel  
@@ -311,6 +313,7 @@ regexploit
 rizin  
 routersploit  
 rshijack  
+ruler  
 rustcat  
 rustscan  
 safecopy  
