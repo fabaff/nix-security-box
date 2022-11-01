@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    bomber-go
     cargo-audit
     credential-detector
     detect-secrets
