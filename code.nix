@@ -16,6 +16,7 @@
     gitls
     gokart
     gosca
+    legitify
     osv-detector
     pip-audit
     pip-check
