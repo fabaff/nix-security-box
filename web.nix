@@ -31,6 +31,7 @@
     jaeles
     jsubfinder
     jwt-hack
+    katana
     kiterunner
     mitmproxy2swagger
     monsoon
