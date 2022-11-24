@@ -12,6 +12,7 @@
     dex2jar
     genymotion
     ghost
+    scrcpy
     simg2img
     trueseeing
   ];
