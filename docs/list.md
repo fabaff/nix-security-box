@@ -32,6 +32,7 @@ bingrep
 bleak  
 bluewalker  
 bluez  
+bomber-go  
 boofuzz  
 bore-cli  
 brakeman  
@@ -199,6 +200,7 @@ jsubfinder
 junkie  
 jwt-cli  
 jwt-hack  
+katana  
 kdigger  
 kerbrute  
 kismet  
@@ -211,6 +213,7 @@ ldapdomaindump
 ldapmonitor  
 ldapnomnom  
 ldeep  
+legitify  
 lftp  
 libfreefare  
 linux-exploit-suggester  
@@ -320,6 +323,7 @@ safecopy
 safety-cli  
 samba  
 scraper  
+scrcpy  
 secrets-extractor  
 secretscanner  
 shellz  

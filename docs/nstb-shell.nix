@@ -33,6 +33,7 @@ mkShell {
     bleak
     bluewalker
     bluez
+    bomber-go
     boofuzz
     bore-cli
     brakeman
@@ -200,6 +201,7 @@ mkShell {
     junkie
     jwt-cli
     jwt-hack
+    katana
     kdigger
     kerbrute
     kismet
@@ -212,6 +214,7 @@ mkShell {
     ldapmonitor
     ldapnomnom
     ldeep
+    legitify
     lftp
     libfreefare
     linux-exploit-suggester
@@ -321,6 +324,7 @@ mkShell {
     safety-cli
     samba
     scraper
+    scrcpy
     secrets-extractor
     secretscanner
     shellz

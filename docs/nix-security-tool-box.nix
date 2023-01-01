@@ -33,6 +33,7 @@
     bleak
     bluewalker
     bluez
+    bomber-go
     boofuzz
     bore-cli
     brakeman
@@ -200,6 +201,7 @@
     junkie
     jwt-cli
     jwt-hack
+    katana
     kdigger
     kerbrute
     kismet
@@ -212,6 +214,7 @@
     ldapmonitor
     ldapnomnom
     ldeep
+    legitify
     lftp
     libfreefare
     linux-exploit-suggester
@@ -321,6 +324,7 @@
     safety-cli
     samba
     scraper
+    scrcpy
     secrets-extractor
     secretscanner
     shellz
