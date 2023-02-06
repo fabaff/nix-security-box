@@ -437,6 +437,7 @@
     xortool
     xrdp
     yara
+    yatas
     yersinia
     zap
     zeek
