@@ -8,6 +8,7 @@
     ike-scan
     metasploit
     nuclei
+    osv-scanner
     uncover
     traitor
 
