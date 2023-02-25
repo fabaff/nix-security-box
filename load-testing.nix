@@ -7,6 +7,7 @@
     drill
     cassowary
     ddosify
+    oha
     siege
     tsung
     vegeta
