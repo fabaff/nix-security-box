@@ -263,12 +263,14 @@
     nuttcp
     nwipe
     offensive-azure
+    oha
     onesixtyone
     openssh
     openvpn
     oshka
     ostinato
     osv-detector
+    osv-scanner
     p0f
     p0f
     p7zip
