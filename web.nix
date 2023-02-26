@@ -38,6 +38,7 @@
     nikto
     ntlmrecon
     photon
+    plecost
     scraper
     slowlorust
     snallygaster
