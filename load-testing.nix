@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    ali
     drill
     cassowary
     ddosify
