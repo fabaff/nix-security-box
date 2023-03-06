@@ -16,6 +16,7 @@
     # E-Mail
     ruler
     swaks
+    trustymail
 
     # Databases
     mongoaudit
