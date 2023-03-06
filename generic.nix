@@ -54,7 +54,7 @@
     netmask
 
     # Terminal multiplexer
-    tmux   
+    tmux
 
     # Archive tools
     cabextract
