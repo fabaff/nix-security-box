@@ -14,6 +14,7 @@
     aiodnsbrute
     aircrack-ng
     airgeddon
+    ali
     amass
     amoco
     androguard
@@ -21,6 +22,7 @@
     apkeep
     apkleaks
     apktool
+    ares-rs
     arp-scan
     arping
     atftp
@@ -187,6 +189,7 @@
     ike-scan
     inetutils
     inxi
+    ioc-scan
     ioccheck
     iodine
     ipcalc
@@ -265,6 +268,7 @@
     offensive-azure
     oha
     onesixtyone
+    openrisk
     openssh
     openvpn
     oshka
@@ -283,6 +287,7 @@
     pip-check
     pixiewps
     pktgen
+    plecost
     popeye
     proxify
     proxychains
@@ -394,6 +399,7 @@
     truecrack
     trueseeing
     trufflehog
+    trustymail
     tsung
     tytools
     ubertooth
@@ -443,6 +449,7 @@
     yersinia
     zap
     zeek
+    zellij
     zkar
     zmap
     zydis

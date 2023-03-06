@@ -13,6 +13,7 @@ aflplusplus
 aiodnsbrute  
 aircrack-ng  
 airgeddon  
+ali  
 amass  
 amoco  
 androguard  
@@ -20,6 +21,7 @@ anevicon
 apkeep  
 apkleaks  
 apktool  
+ares-rs  
 arp-scan  
 arping  
 atftp  
@@ -186,6 +188,7 @@ hyperpotamus
 ike-scan  
 inetutils  
 inxi  
+ioc-scan  
 ioccheck  
 iodine  
 ipcalc  
@@ -264,6 +267,7 @@ nwipe
 offensive-azure  
 oha  
 onesixtyone  
+openrisk  
 openssh  
 openvpn  
 oshka  
@@ -282,6 +286,7 @@ pip-audit
 pip-check  
 pixiewps  
 pktgen  
+plecost  
 popeye  
 proxify  
 proxychains  
@@ -393,6 +398,7 @@ trivy
 truecrack  
 trueseeing  
 trufflehog  
+trustymail  
 tsung  
 tytools  
 ubertooth  
@@ -442,6 +448,7 @@ yatas
 yersinia  
 zap  
 zeek  
+zellij  
 zkar  
 zmap  
 zydis  
