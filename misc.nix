@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    ares-rs
     badchars
     changetower
     deepsea
