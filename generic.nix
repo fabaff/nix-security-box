@@ -55,6 +55,7 @@
 
     # Terminal multiplexer
     tmux
+    zellij
 
     # Archive tools
     cabextract
