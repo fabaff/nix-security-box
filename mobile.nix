@@ -12,6 +12,7 @@
     dex2jar
     genymotion
     ghost
+    payload-dumper-go
     scrcpy
     simg2img
     trueseeing
