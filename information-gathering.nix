@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     cloudbrute
+    enumerepo
     maigret
     metabigor
     p0f
