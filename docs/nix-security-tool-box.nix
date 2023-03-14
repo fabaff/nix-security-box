@@ -120,6 +120,7 @@
     dsniff
     enum4linux
     enum4linux-ng
+    enumerepo
     erosmb
     esptool
     eternal-terminal
@@ -279,6 +280,7 @@
     p0f
     p7zip
     parted
+    payload-dumper-go
     pev
     photon
     phrasendrescher
