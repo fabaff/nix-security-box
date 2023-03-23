@@ -19,6 +19,7 @@
     trustymail
 
     # Databases
+    ghauri
     mongoaudit
     sqlmap
 
