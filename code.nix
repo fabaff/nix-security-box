@@ -15,7 +15,6 @@
     gitleaks
     gitls
     gokart
-    gosca
     legitify
     osv-detector
     pip-audit
