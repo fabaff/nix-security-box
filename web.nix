@@ -10,7 +10,6 @@
     chopchop
     clairvoyance
     commix
-    corsair-scan
     crackql
     crlfsuite
     dalfox
