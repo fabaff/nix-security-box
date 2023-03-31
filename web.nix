@@ -26,7 +26,7 @@
     hakrawler
     hey
     httpx
-    hyperpotamus
+    nodePackages.hyperpotamus
     jaeles
     jsubfinder
     jwt-hack
