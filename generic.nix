@@ -44,7 +44,6 @@
     samba
     step-cli
     tightvnc
-    wireguard
     wireguard-go
     wireguard-tools
     xrdp
