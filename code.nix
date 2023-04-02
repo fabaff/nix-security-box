@@ -21,7 +21,6 @@
     pip-check
     python310Packages.safety
     secretscanner
-    shhgit
     skjold
     skjold
     trufflehog
