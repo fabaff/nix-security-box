@@ -75,7 +75,6 @@ cloudlist
 coercer  
 commix  
 corkscrew  
-corsair-scan  
 cowpatty  
 crackmapexec  
 crackql  
@@ -148,6 +147,7 @@ gau
 gdb  
 gef  
 genymotion  
+ghauri  
 ghidra-bin  
 ghost  
 git-secret  
@@ -158,7 +158,6 @@ go365
 gokart  
 gomapenum  
 goreplay  
-gosca  
 gospider  
 gotestwaf  
 gowitness  
@@ -185,7 +184,6 @@ httpie
 httptunnel  
 httpx  
 hurl  
-hyperpotamus  
 ike-scan  
 inetutils  
 inxi  
@@ -256,6 +254,7 @@ nikto
 nload  
 nmap  
 nmap-formatter  
+nodePackages.hyperpotamus  
 nrfutil  
 ntfs3g  
 ntfsprogs  
@@ -292,7 +291,6 @@ plecost
 popeye  
 proxify  
 proxychains  
-proxytunnel  
 putty  
 pwgen  
 pwnat  
@@ -311,9 +309,9 @@ python3Packages.pyi2cflash
 python3Packages.pypykatz  
 python3Packages.pyspiflash  
 python3Packages.pytenable  
+python3Packages.r2pipe  
 python3Packages.scapy  
 python3Packages.unicorn  
-r2pipe  
 radamsa  
 radare2  
 radare2-cutter  
@@ -430,7 +428,6 @@ whispers
 whois  
 wifite2  
 wipe  
-wireguard  
 wireguard-go  
 wireguard-tools  
 wireshark  
