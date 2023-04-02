@@ -7,7 +7,6 @@
     ares-rs
     badchars
     changetower
-    deepsea
     doona
     honeytrap
     jwt-cli
