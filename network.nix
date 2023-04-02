@@ -17,7 +17,6 @@
     netdiscover
     nload
     nuttcp
-    p0f
     putty
     pwnat
     rustcat
