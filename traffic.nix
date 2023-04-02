@@ -10,7 +10,6 @@
     driftnet
     dsniff
     goreplay
-    httpdump
     junkie
     netsniff-ng
     ngrep
