@@ -6,7 +6,7 @@
   environment.systemPackages = with pkgs; [
     bluez
     bluewalker
-    bleak
+    python3Packages.bleak
     redfang
     ubertooth
   ];
