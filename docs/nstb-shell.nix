@@ -32,7 +32,6 @@ mkShell {
     bettercap
     bind
     bingrep
-    bleak
     bluewalker
     bluez
     bomber-go
@@ -91,7 +90,6 @@ mkShell {
     dcfldd
     ddosify
     ddrescue
-    deepsea
     detect-secrets
     dex2jar
     dhcpdump
@@ -180,7 +178,6 @@ mkShell {
     horst
     hping
     htop
-    httpdump
     httpie
     httptunnel
     httpx
@@ -276,7 +273,6 @@ mkShell {
     osv-detector
     osv-scanner
     p0f
-    p0f
     p7zip
     parted
     payload-dumper-go
@@ -301,6 +297,7 @@ mkShell {
     python3Packages.angr
     python3Packages.angrop
     python3Packages.binwalk
+    python3Packages.bleak
     python3Packages.can
     python3Packages.emv
     python3Packages.karton-core
@@ -335,7 +332,6 @@ mkShell {
     secrets-extractor
     secretscanner
     shellz
-    shhgit
     siege
     silenthound
     simg2img
@@ -343,7 +339,6 @@ mkShell {
     sipsak
     sipvicious
     sish
-    skjold
     skjold
     sleuthkit
     slowlorust

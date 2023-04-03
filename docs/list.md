@@ -31,7 +31,6 @@ bandwhich
 bettercap  
 bind  
 bingrep  
-bleak  
 bluewalker  
 bluez  
 bomber-go  
@@ -90,7 +89,6 @@ dbmonster
 dcfldd  
 ddosify  
 ddrescue  
-deepsea  
 detect-secrets  
 dex2jar  
 dhcpdump  
@@ -179,7 +177,6 @@ honggfuzz
 horst  
 hping  
 htop  
-httpdump  
 httpie  
 httptunnel  
 httpx  
@@ -275,7 +272,6 @@ ostinato
 osv-detector  
 osv-scanner  
 p0f  
-p0f  
 p7zip  
 parted  
 payload-dumper-go  
@@ -300,6 +296,7 @@ python310Packages.safety
 python3Packages.angr  
 python3Packages.angrop  
 python3Packages.binwalk  
+python3Packages.bleak  
 python3Packages.can  
 python3Packages.emv  
 python3Packages.karton-core  
@@ -334,7 +331,6 @@ scrcpy
 secrets-extractor  
 secretscanner  
 shellz  
-shhgit  
 siege  
 silenthound  
 simg2img  
@@ -342,7 +338,6 @@ sipp
 sipsak  
 sipvicious  
 sish  
-skjold  
 skjold  
 sleuthkit  
 slowlorust  
