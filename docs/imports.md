@@ -10,6 +10,7 @@ Imports
       ./dns.nix  
       ./forensics.nix  
       ./fuzzers.nix  
+      ./generate-docs.nix  
       ./generic.nix  
       ./hardware.nix  
       ./host.nix  
