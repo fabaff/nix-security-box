@@ -9,6 +9,7 @@
     masscan
     naabu
     nmap
+    udpx
     sx-go
     rustscan
     zmap
