@@ -18,7 +18,6 @@
     legitify
     osv-detector
     pip-audit
-    pip-check
     python310Packages.safety
     secretscanner
     skjold
