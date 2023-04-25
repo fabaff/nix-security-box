@@ -4,20 +4,6 @@ with pkgs;
 
 mkShell {
  nativeBuildInputs = [
-    """Add all tools to a single list."""
-    """Collect all files aka categories."""
-    """Count the available tools."""
-    """Create a nix file which contains all tools."""
-    """Create a nix file which contains all tools."""
-    """Create a page with all available packages."""
-    """Create files list for imports."""
-    """Create tools overview."""
-    """Main part of the script."""
-    """Test if the string starts with 4 spaces."""
-    "- {}".format(
-    "Collect all tools from the different files."
-    )
-    )
     abootimg
     acquire
     adenum
@@ -63,7 +49,6 @@ mkShell {
     cargo-audit
     cariddi
     cassowary
-    category = pkgs_file.split(".")[0]
     cdk-go
     certipy
     cfripper
@@ -90,11 +75,9 @@ mkShell {
     coercer
     commix
     corkscrew
-    count_tools(data)
     cowpatty
     crackmapexec
     crackql
-    create_overview(data)
     credential-detector
     crlfsuite
     crunch
@@ -102,7 +85,6 @@ mkShell {
     cutecom
     cutter
     dalfox
-    data = collect_tools()
     davtest
     dbmonster
     dcfldd
@@ -152,23 +134,10 @@ mkShell {
     findomain
     flare-floss
     flashrom
-    for _, tools in tools.items():
-    for category, tools in data.items():
-    for file in glob.glob("*.nix"):
-    for file in pkgs_files:
-    for line in file_content.readlines():
-    for pkgs_file in pkgs_files:
-    for tool in tools:
-    for tool in tools:
-    for tool in tools:
-    for tool in tools:
     foremost
     fping
     freerdp
     freeze
-    full_list(data)
-    full_nix(data)
-    full_shell(data)
     fwanalyzer
     galer
     gallia
@@ -213,9 +182,7 @@ mkShell {
     httptunnel
     httpx
     hurl
-    if starts_with_four_n_spaces(line):
     ike-scan
-    imports()
     inetutils
     inxi
     ioc-scan
@@ -254,24 +221,7 @@ mkShell {
     lynx
     macchanger
     maigret
-    main()
     masscan
-    mdFile = MdUtils(file_name="docs/imports.md", title="Imports")
-    mdFile = MdUtils(file_name="docs/index.md", title="Tool overview")
-    mdFile = MdUtils(file_name="docs/list.md", title="Full list")
-    mdFile.create_md_file()
-    mdFile.create_md_file()
-    mdFile.create_md_file()
-    mdFile.new_header(level=1, title=category.replace("-", " ").capitalize())
-    mdFile.new_inline_link(link=URL.format(tool=tool), text=tool)
-    mdFile.new_line(
-    mdFile.new_line("```")
-    mdFile.new_line("```")
-    mdFile.new_line("```text")
-    mdFile.new_line("```text")
-    mdFile.new_line()
-    mdFile.new_line(f"      ./{file}")
-    mdFile.new_line(tool)
     medusa
     metabigor
     metasploit
@@ -299,19 +249,6 @@ mkShell {
     nfs-utils
     ngrep
     nikto
-    nix_file.write("  ];\n")
-    nix_file.write("  ];\n")
-    nix_file.write("  environment.systemPackages = with pkgs; [\n")
-    nix_file.write(" nativeBuildInputs = [\n")
-    nix_file.write("mkShell {\n")
-    nix_file.write("with pkgs;\n\n")
-    nix_file.write("{ pkgs ? import <nixpkgs> {} }:\n\n")
-    nix_file.write("{ pkgs, ... }:\n\n")
-    nix_file.write("{\n")
-    nix_file.write("}\n")
-    nix_file.write("}\n")
-    nix_file.write(f"    {tool}\n")
-    nix_file.write(f"    {tool}\n")
     nload
     nmap
     nmap-formatter
@@ -335,8 +272,6 @@ mkShell {
     ostinato
     osv-detector
     osv-scanner
-    output = {}
-    output[category] = tools
     p0f
     p7zip
     parted
@@ -348,15 +283,9 @@ mkShell {
     pip-audit
     pip-check
     pixiewps
-    pkgs_files = []
-    pkgs_files = collect_files()
-    pkgs_files = collect_files()
-    pkgs_files.append(file)
-    pkgs_files.sort()
     pktgen
     plecost
     popeye
-    print("Available tools:", len(list_tools(data)))
     proxify
     proxychains
     putty
@@ -389,9 +318,6 @@ mkShell {
     redfang
     redsocks
     regexploit
-    return output
-    return pkgs_files
-    return re.search(r"^(?:\s{4})+(?!\s).*$", eval_string) is not None
     rizin
     routersploit
     rshijack
@@ -462,17 +388,6 @@ mkShell {
     tightvnc
     tlsx
     tmux
-    tools = []
-    tools = data
-    tools = list_tools(data)
-    tools = list_tools(data)
-    tools = list_tools(data)
-    tools.append(line.strip())
-    tools.sort()
-    tools.sort()
-    tools.sort()
-    tools_list = []
-    tools_list = tools_list + tools
     tracee
     traitor
     trivy
@@ -514,9 +429,6 @@ mkShell {
     wireguard-tools
     wireshark
     wireshark-cli
-    with open("docs/nix-security-tool-box.nix", "w") as nix_file:
-    with open("docs/nstb-shell.nix", "w") as nix_file:
-    with open(pkgs_file) as file_content:
     witness
     wprecon
     wpscan
