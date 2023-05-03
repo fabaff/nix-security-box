@@ -1,4 +1,4 @@
-# Kubernetes infrastructure and Windows-related tools, incl. SMB
+# Kubernetes infrastructure
 
 { pkgs, ... }:
 
