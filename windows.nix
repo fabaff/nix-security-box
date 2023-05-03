@@ -16,6 +16,7 @@
     kerbrute
     nbtscanner
     offensive-azure
+    python311Packages.lsassy
     python3Packages.pypykatz
     smbmap
     smbscan
