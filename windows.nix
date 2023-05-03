@@ -17,6 +17,7 @@
     nbtscanner
     offensive-azure
     python3Packages.pypykatz
+    smbmap
     smbscan
   ];
 }
