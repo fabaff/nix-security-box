@@ -9,6 +9,7 @@
     curl
     dorkscout
     flashrom
+    girsh
     htop
     httpie
     hurl
