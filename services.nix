@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    acltoolkit
     checkip
     ike-scan
     keepwn
