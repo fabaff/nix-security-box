@@ -33,6 +33,7 @@
     jwt-hack
     katana
     kiterunner
+    mantra
     mitmproxy2swagger
     monsoon
     nikto
