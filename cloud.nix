@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     cloud-nuke
     cloudfox
+    ec2stepshell
     yatas
   ];
 }
