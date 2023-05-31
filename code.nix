@@ -21,6 +21,7 @@
     python310Packages.safety
     secretscanner
     skjold
+    tell-me-your-secrets
     trufflehog
     whispers
   ];
