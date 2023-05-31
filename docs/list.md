@@ -4,6 +4,7 @@ Full list
   
 ```text  
 abootimg  
+acltoolkit  
 acquire  
 adenum  
 adreaper  
@@ -18,6 +19,7 @@ amass
 amoco  
 androguard  
 anevicon  
+apachetomcatscanner  
 apkeep  
 apkleaks  
 apktool  
@@ -26,6 +28,7 @@ arp-scan
 arping  
 atftp  
 authoscope  
+baboossh  
 badchars  
 bandwhich  
 bettercap  
@@ -114,6 +117,7 @@ dorkscout
 driftnet  
 drill  
 dsniff  
+ec2stepshell  
 enum4linux  
 enum4linux-ng  
 enumerepo  
@@ -124,6 +128,7 @@ ettercap
 evil-winrm  
 evillimiter  
 exiv2  
+exploitdb  
 ext4magic  
 extrude  
 extundelete  
@@ -148,10 +153,12 @@ genymotion
 ghauri  
 ghidra-bin  
 ghost  
+girsh  
 git-secret  
 gitjacker  
 gitleaks  
 gitls  
+go-exploitdb  
 go365  
 gokart  
 gomapenum  
@@ -201,6 +208,7 @@ jwt-cli
 jwt-hack  
 katana  
 kdigger  
+keepwn  
 kerbrute  
 kismet  
 kiterunner  
@@ -208,6 +216,7 @@ knockpy
 kube-score  
 kubeaudit  
 kubescape  
+kubestroyer  
 ldapdomaindump  
 ldapmonitor  
 ldapnomnom  
@@ -220,6 +229,7 @@ lynis
 lynx  
 macchanger  
 maigret  
+mantra  
 masscan  
 medusa  
 metabigor  
@@ -280,7 +290,6 @@ photon
 phrasendrescher  
 picocom  
 pip-audit  
-pip-check  
 pixiewps  
 pktgen  
 plecost  
@@ -293,6 +302,7 @@ pwnat
 pwndbg  
 pwntools  
 python310Packages.safety  
+python311Packages.lsassy  
 python3Packages.angr  
 python3Packages.angrop  
 python3Packages.binwalk  
@@ -326,6 +336,7 @@ rustscan
 safecopy  
 safety-cli  
 samba  
+samba  
 scraper  
 scrcpy  
 secrets-extractor  
@@ -341,6 +352,7 @@ sish
 skjold  
 sleuthkit  
 slowlorust  
+smbmap  
 smbscan  
 sn0int  
 snallygaster  
@@ -377,6 +389,7 @@ tcpdump
 tcpflow  
 tcpreplay  
 teler  
+tell-me-your-secrets  
 termshark  
 terrascan  
 testdisk  

@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     abootimg
+    acltoolkit
     acquire
     adenum
     adreaper
@@ -19,6 +20,7 @@
     amoco
     androguard
     anevicon
+    apachetomcatscanner
     apkeep
     apkleaks
     apktool
@@ -27,6 +29,7 @@
     arping
     atftp
     authoscope
+    baboossh
     badchars
     bandwhich
     bettercap
@@ -115,6 +118,7 @@
     driftnet
     drill
     dsniff
+    ec2stepshell
     enum4linux
     enum4linux-ng
     enumerepo
@@ -125,6 +129,7 @@
     evil-winrm
     evillimiter
     exiv2
+    exploitdb
     ext4magic
     extrude
     extundelete
@@ -149,10 +154,12 @@
     ghauri
     ghidra-bin
     ghost
+    girsh
     git-secret
     gitjacker
     gitleaks
     gitls
+    go-exploitdb
     go365
     gokart
     gomapenum
@@ -202,6 +209,7 @@
     jwt-hack
     katana
     kdigger
+    keepwn
     kerbrute
     kismet
     kiterunner
@@ -209,6 +217,7 @@
     kube-score
     kubeaudit
     kubescape
+    kubestroyer
     ldapdomaindump
     ldapmonitor
     ldapnomnom
@@ -221,6 +230,7 @@
     lynx
     macchanger
     maigret
+    mantra
     masscan
     medusa
     metabigor
@@ -281,7 +291,6 @@
     phrasendrescher
     picocom
     pip-audit
-    pip-check
     pixiewps
     pktgen
     plecost
@@ -294,6 +303,7 @@
     pwndbg
     pwntools
     python310Packages.safety
+    python311Packages.lsassy
     python3Packages.angr
     python3Packages.angrop
     python3Packages.binwalk
@@ -327,6 +337,7 @@
     safecopy
     safety-cli
     samba
+    samba
     scraper
     scrcpy
     secrets-extractor
@@ -342,6 +353,7 @@
     skjold
     sleuthkit
     slowlorust
+    smbmap
     smbscan
     sn0int
     snallygaster
@@ -378,6 +390,7 @@
     tcpflow
     tcpreplay
     teler
+    tell-me-your-secrets
     termshark
     terrascan
     testdisk

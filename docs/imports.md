@@ -8,6 +8,7 @@ Imports
       ./code.nix  
       ./container.nix  
       ./dns.nix  
+      ./exploits.nix  
       ./forensics.nix  
       ./fuzzers.nix  
       ./generic.nix  
