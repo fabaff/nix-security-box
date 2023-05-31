@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     checkip
     ike-scan
+    keepwn
     metasploit
     nuclei
     openrisk
