@@ -10,6 +10,7 @@
     kdigger
     kube-score
     kubeaudit
+    kubestroyer
     kubescape
     popeye
   ];
