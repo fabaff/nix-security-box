@@ -28,6 +28,7 @@
     snmpcheck
 
     # SSH
+    baboossh
     sshchecker
     ssh-audit
     ssh-mitm
