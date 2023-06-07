@@ -8,6 +8,7 @@
     aflplusplus
     feroxbuster
     ffuf
+    gobuster
     honggfuzz
     radamsa
     regexploit
