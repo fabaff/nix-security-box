@@ -7,6 +7,7 @@
     ares-rs
     badchars
     changetower
+    creds
     doona
     honeytrap
     jwt-cli
