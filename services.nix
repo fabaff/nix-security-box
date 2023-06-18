@@ -9,6 +9,7 @@
     ike-scan
     keepwn
     metasploit
+    nbutools
     nuclei
     openrisk
     osv-scanner
