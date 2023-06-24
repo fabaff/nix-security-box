@@ -7,6 +7,7 @@
     cloud-nuke
     cloudfox
     ec2stepshell
+    goblob
     yatas
   ];
 }
