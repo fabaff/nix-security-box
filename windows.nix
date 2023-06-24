@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     adreaper
+    chainsaw
     certipy
     certsync
     coercer
