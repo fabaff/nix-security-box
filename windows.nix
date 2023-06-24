@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     adreaper
     certipy
+    certsync
     coercer
     enum4linux
     enum4linux-ng
