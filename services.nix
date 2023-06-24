@@ -17,6 +17,7 @@
     traitor
 
     # E-Mail
+    mx-takeover
     ruler
     swaks
     trustymail
