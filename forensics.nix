@@ -1,4 +1,4 @@
-# Bluetooth tools
+# Forensic tools
 
 { pkgs, ... }:
 
