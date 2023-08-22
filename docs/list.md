@@ -53,8 +53,10 @@ cariddi
 cassowary  
 cdk-go  
 certipy  
+certsync  
 cfripper  
 chain-bench  
+chainsaw  
 changetower  
 checkip  
 checkov  
@@ -81,6 +83,7 @@ cowpatty
 crackmapexec  
 crackql  
 credential-detector  
+creds  
 crlfsuite  
 crunch  
 curl  
@@ -160,6 +163,8 @@ gitleaks
 gitls  
 go-exploitdb  
 go365  
+goblob  
+gobuster  
 gokart  
 gomapenum  
 goreplay  
@@ -242,12 +247,15 @@ mitmproxy2swagger
 mongoaudit  
 monsoon  
 mosh  
+msldapdump  
 mtr  
 mubeng  
+mx-takeover  
 naabu  
 nano  
 nasty  
 nbtscanner  
+nbutools  
 ncftp  
 ncrack  
 net-snmp  
@@ -262,6 +270,7 @@ nload
 nmap  
 nmap-formatter  
 nodePackages.hyperpotamus  
+noseyparker  
 nrfutil  
 ntfs3g  
 ntfsprogs  
