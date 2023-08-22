@@ -18,6 +18,7 @@
     gef
     gzrt
     hivex
+    noseyparker
     ntfs3g
     ntfsprogs
     nwipe
