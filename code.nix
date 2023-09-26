@@ -7,6 +7,7 @@
     bomber-go
     cargo-audit
     credential-detector
+    deepsecrets
     detect-secrets
     freeze
     garble
