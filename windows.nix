@@ -17,6 +17,7 @@
     go365
     gomapenum
     kerbrute
+    knowsmore
     lil-pwny
     nbtscanner
     offensive-azure
