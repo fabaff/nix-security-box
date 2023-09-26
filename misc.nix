@@ -11,6 +11,7 @@
     doona
     honeytrap
     jwt-cli
+    kepler
     nmap-formatter
     pwntools
     python3Packages.pytenable
