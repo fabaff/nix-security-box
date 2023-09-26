@@ -52,6 +52,7 @@
     wprecon
     wpscan
     wuzz
+    xcrawl3r
     xsubfind3r
   ];
 }
