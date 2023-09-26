@@ -9,6 +9,7 @@
     ec2stepshell
     ggshield
     goblob
+    imdshift
     yatas
   ];
 }
