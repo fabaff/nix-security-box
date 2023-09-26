@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     cantoolz
     chipsec
+    cmospwd
     esptool
     extrude
     gallia
