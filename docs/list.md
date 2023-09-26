@@ -34,6 +34,7 @@ bandwhich
 bettercap  
 bind  
 bingrep  
+bloodhound-py  
 bluewalker  
 bluez  
 bomber-go  
@@ -76,6 +77,7 @@ cloud-nuke
 cloudbrute  
 cloudfox  
 cloudlist  
+cmospwd  
 coercer  
 commix  
 corkscrew  
@@ -90,11 +92,13 @@ curl
 cutecom  
 cutter  
 dalfox  
+das  
 davtest  
 dbmonster  
 dcfldd  
 ddosify  
 ddrescue  
+deepsecrets  
 detect-secrets  
 dex2jar  
 dhcpdump  
@@ -153,9 +157,11 @@ gau
 gdb  
 gef  
 genymotion  
+ggshield  
 ghauri  
 ghidra-bin  
 ghost  
+ghunt  
 girsh  
 git-secret  
 gitjacker  
@@ -184,16 +190,19 @@ hashcat-utils
 hashdeep  
 hey  
 hivex  
+holehe  
 honeytrap  
 honggfuzz  
 horst  
 hping  
+hstsparser  
 htop  
 httpie  
 httptunnel  
 httpx  
 hurl  
 ike-scan  
+imdshift  
 inetutils  
 inxi  
 ioc-scan  
@@ -207,6 +216,7 @@ ipscan
 iw  
 jaeles  
 john  
+joincap  
 jsubfinder  
 junkie  
 jwt-cli  
@@ -214,10 +224,12 @@ jwt-hack
 katana  
 kdigger  
 keepwn  
+kepler  
 kerbrute  
 kismet  
 kiterunner  
 knockpy  
+knowsmore  
 kube-score  
 kubeaudit  
 kubescape  
@@ -229,6 +241,7 @@ ldeep
 legitify  
 lftp  
 libfreefare  
+lil-pwny  
 linux-exploit-suggester  
 lynis  
 lynx  
@@ -242,6 +255,7 @@ metasploit
 mfcuk  
 mfoc  
 minicom  
+mitm6  
 mitmproxy  
 mitmproxy2swagger  
 mongoaudit  
@@ -311,7 +325,6 @@ pwnat
 pwndbg  
 pwntools  
 python310Packages.safety  
-python311Packages.lsassy  
 python3Packages.angr  
 python3Packages.angrop  
 python3Packages.binwalk  
@@ -319,6 +332,7 @@ python3Packages.bleak
 python3Packages.can  
 python3Packages.emv  
 python3Packages.karton-core  
+python3Packages.lsassy  
 python3Packages.malduck  
 python3Packages.patator  
 python3Packages.pyi2cflash  
@@ -336,6 +350,7 @@ recoverjpeg
 redfang  
 redsocks  
 regexploit  
+responder  
 rizin  
 routersploit  
 rshijack  
@@ -456,10 +471,12 @@ wpscan
 wstunnel  
 wuzz  
 x3270  
+xcrawl3r  
 xh  
 xorex  
 xortool  
 xrdp  
+xsubfind3r  
 yara  
 yatas  
 yersinia  
