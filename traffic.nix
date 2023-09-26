@@ -10,6 +10,7 @@
     driftnet
     dsniff
     goreplay
+    joincap
     junkie
     netsniff-ng
     ngrep
