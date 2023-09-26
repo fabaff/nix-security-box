@@ -19,6 +19,7 @@
     nuttcp
     putty
     pwnat
+    responder
     rustcat
     sshping
     sslh
