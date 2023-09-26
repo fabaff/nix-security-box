@@ -20,7 +20,7 @@
     lil-pwny
     nbtscanner
     offensive-azure
-    python311Packages.lsassy
+    python3Packages.lsassy
     python3Packages.pypykatz
     samba
     smbmap
