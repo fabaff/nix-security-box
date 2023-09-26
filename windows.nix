@@ -16,6 +16,7 @@
     go365
     gomapenum
     kerbrute
+    lil-pwny
     nbtscanner
     offensive-azure
     python311Packages.lsassy
