@@ -11,6 +11,7 @@
     evillimiter
     iperf2
     lftp
+    mitm6
     mtr
     ncftp
     netcat-gnu
