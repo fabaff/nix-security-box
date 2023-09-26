@@ -18,6 +18,7 @@
     gef
     gzrt
     hivex
+    hstsparser
     noseyparker
     ntfs3g
     ntfsprogs
