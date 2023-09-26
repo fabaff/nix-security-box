@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     acltoolkit
     checkip
+    ghunt
     ike-scan
     keepwn
     metasploit
