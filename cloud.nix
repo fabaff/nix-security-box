@@ -8,6 +8,7 @@
     cloudfox
     ec2stepshell
     gato
+    gcp-scanner
     ggshield
     goblob
     imdshift
