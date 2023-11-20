@@ -29,6 +29,7 @@
     sqlmap
 
     # SNMP
+    braa
     onesixtyone
     snmpcheck
 
