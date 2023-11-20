@@ -12,6 +12,7 @@
     hashcat-utils
     hashdeep
     john
+    legba
     medusa
     nasty
     ncrack
