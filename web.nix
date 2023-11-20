@@ -49,6 +49,7 @@
     uddup
     wad
     webanalyze
+    websecprobe
     whatweb
     wprecon
     wpscan
