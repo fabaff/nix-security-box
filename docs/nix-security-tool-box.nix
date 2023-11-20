@@ -25,6 +25,7 @@
     apkleaks
     apktool
     ares-rs
+    arjun
     arp-scan
     arping
     atftp
@@ -41,6 +42,7 @@
     bomber-go
     boofuzz
     bore-cli
+    braa
     brakeman
     bruteforce-luks
     brutespray
@@ -154,7 +156,9 @@
     galer
     gallia
     garble
+    gato
     gau
+    gcp-scanner
     gdb
     gef
     genymotion
@@ -224,6 +228,7 @@
     jwt-hack
     katana
     kdigger
+    keedump
     keepwn
     kepler
     kerbrute
@@ -244,6 +249,13 @@
     libfreefare
     lil-pwny
     linux-exploit-suggester
+    lmp
+    log4j-detect
+    log4j-scan
+    log4j-sniffer
+    log4j-vuln-scanner
+    log4jcheck
+    logmap
     lynis
     lynx
     macchanger
@@ -307,6 +319,7 @@
     osv-scanner
     p0f
     p7zip
+    padre
     parted
     payload-dumper-go
     pev
@@ -455,6 +468,7 @@
     wavemon
     wbox
     webanalyze
+    websecprobe
     wfuzz
     wget
     whatweb

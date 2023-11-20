@@ -25,6 +25,7 @@ mkShell {
     apkleaks
     apktool
     ares-rs
+    arjun
     arp-scan
     arping
     atftp
@@ -41,6 +42,7 @@ mkShell {
     bomber-go
     boofuzz
     bore-cli
+    braa
     brakeman
     bruteforce-luks
     brutespray
@@ -154,7 +156,9 @@ mkShell {
     galer
     gallia
     garble
+    gato
     gau
+    gcp-scanner
     gdb
     gef
     genymotion
@@ -224,6 +228,7 @@ mkShell {
     jwt-hack
     katana
     kdigger
+    keedump
     keepwn
     kepler
     kerbrute
@@ -244,6 +249,13 @@ mkShell {
     libfreefare
     lil-pwny
     linux-exploit-suggester
+    lmp
+    log4j-detect
+    log4j-scan
+    log4j-sniffer
+    log4j-vuln-scanner
+    log4jcheck
+    logmap
     lynis
     lynx
     macchanger
@@ -307,6 +319,7 @@ mkShell {
     osv-scanner
     p0f
     p7zip
+    padre
     parted
     payload-dumper-go
     pev
@@ -455,6 +468,7 @@ mkShell {
     wavemon
     wbox
     webanalyze
+    websecprobe
     wfuzz
     wget
     whatweb
