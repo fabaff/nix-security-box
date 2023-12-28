@@ -38,7 +38,6 @@
     sshchecker
     ssh-audit
     ssh-mitm
-    ssb
 
     # IDS/IPS/WAF
     teler
