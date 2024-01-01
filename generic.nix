@@ -24,6 +24,7 @@
     nano
     parted
     pwgen
+    ronin
     spyre
     utillinux
     wget
