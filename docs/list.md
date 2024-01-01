@@ -243,6 +243,7 @@ ldapdomaindump
 ldapmonitor  
 ldapnomnom  
 ldeep  
+legba  
 legitify  
 lftp  
 libfreefare  
@@ -365,6 +366,7 @@ redsocks
 regexploit  
 responder  
 rizin  
+ronin  
 routersploit  
 rshijack  
 ruler  
@@ -402,7 +404,6 @@ socialscan
 spyre  
 sqlmap  
 srm  
-ssb  
 ssdeep  
 ssh-audit  
 ssh-mitm  

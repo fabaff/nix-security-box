@@ -244,6 +244,7 @@ mkShell {
     ldapmonitor
     ldapnomnom
     ldeep
+    legba
     legitify
     lftp
     libfreefare
@@ -366,6 +367,7 @@ mkShell {
     regexploit
     responder
     rizin
+    ronin
     routersploit
     rshijack
     ruler
@@ -403,7 +405,6 @@ mkShell {
     spyre
     sqlmap
     srm
-    ssb
     ssdeep
     ssh-audit
     ssh-mitm
