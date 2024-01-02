@@ -7,6 +7,7 @@
     chrony
     clamav
     curl
+    cyberchef
     dorkscout
     flashrom
     girsh
