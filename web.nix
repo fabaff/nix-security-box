@@ -8,6 +8,7 @@
     arjun
     brakeman
     cameradar
+    cansina
     cariddi
     chopchop
     clairvoyance
