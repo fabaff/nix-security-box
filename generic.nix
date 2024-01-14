@@ -9,6 +9,7 @@
     curl
     cyberchef
     dorkscout
+    exiflooter
     flashrom
     girsh
     htop
