@@ -12,6 +12,7 @@
     honggfuzz
     radamsa
     regexploit
+    scout
     ssdeep
     wfuzz
     zzuf
