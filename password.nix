@@ -8,6 +8,7 @@
     bruteforce-luks
     brutespray
     crunch
+    h8mail
     hashcat
     hashcat-utils
     hashdeep
