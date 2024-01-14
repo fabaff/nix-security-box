@@ -9,6 +9,7 @@
     changetower
     creds
     doona
+    galleta
     honeytrap
     jwt-cli
     kepler
