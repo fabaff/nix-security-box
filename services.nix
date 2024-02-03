@@ -26,6 +26,7 @@
     # Databases
     ghauri
     mongoaudit
+    pysqlrecon
     sqlmap
 
     # SNMP
