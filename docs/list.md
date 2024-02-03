@@ -49,6 +49,7 @@ bully
 burpsuite  
 cabextract  
 cameradar  
+cansina  
 cantoolz  
 cardpeek  
 cargo-audit  
@@ -93,6 +94,7 @@ crunch
 curl  
 cutecom  
 cutter  
+cyberchef  
 dalfox  
 das  
 davtest  
@@ -126,6 +128,7 @@ dorkscout
 driftnet  
 drill  
 dsniff  
+easyeasm  
 ec2stepshell  
 enum4linux  
 enum4linux-ng  
@@ -136,6 +139,7 @@ eternal-terminal
 ettercap  
 evil-winrm  
 evillimiter  
+exiflooter  
 exiv2  
 exploitdb  
 ext4magic  
@@ -153,6 +157,7 @@ freerdp
 freeze  
 fwanalyzer  
 galer  
+galleta  
 gallia  
 garble  
 gato  
@@ -186,6 +191,7 @@ graphqlmap
 graphw00f  
 grype  
 gzrt  
+h8mail  
 hachoir  
 hakrawler  
 hans  
@@ -319,6 +325,7 @@ osv-detector
 osv-scanner  
 p0f  
 p7zip  
+packj  
 padre  
 parted  
 payload-dumper-go  
@@ -331,6 +338,7 @@ pixiewps
 pktgen  
 plecost  
 popeye  
+prowler  
 proxify  
 proxychains  
 putty  
@@ -338,6 +346,7 @@ pwgen
 pwnat  
 pwndbg  
 pwntools  
+pysqlrecon  
 python310Packages.safety  
 python3Packages.angr  
 python3Packages.angrop  
@@ -376,6 +385,7 @@ safecopy
 safety-cli  
 samba  
 samba  
+scout  
 scraper  
 scrcpy  
 secrets-extractor  
