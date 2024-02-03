@@ -18,6 +18,7 @@
     gokart
     legitify
     osv-detector
+    packj
     pip-audit
     python310Packages.safety
     secretscanner
