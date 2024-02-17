@@ -19,6 +19,7 @@
     kerbrute
     knowsmore
     lil-pwny
+    nbtscan
     nbtscanner
     offensive-azure
     python3Packages.lsassy
