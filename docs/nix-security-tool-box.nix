@@ -288,6 +288,7 @@
     naabu
     nano
     nasty
+    nbtscan
     nbtscanner
     nbutools
     ncftp

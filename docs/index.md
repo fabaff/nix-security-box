@@ -295,6 +295,7 @@ Tool overview
 - [kerbrute](https://search.nixos.org/packages?channel=unstable&show=kerbrute&type=packages&query=kerbrute)  
 - [knowsmore](https://search.nixos.org/packages?channel=unstable&show=knowsmore&type=packages&query=knowsmore)  
 - [lil-pwny](https://search.nixos.org/packages?channel=unstable&show=lil-pwny&type=packages&query=lil-pwny)  
+- [nbtscan](https://search.nixos.org/packages?channel=unstable&show=nbtscan&type=packages&query=nbtscan)  
 - [nbtscanner](https://search.nixos.org/packages?channel=unstable&show=nbtscanner&type=packages&query=nbtscanner)  
 - [offensive-azure](https://search.nixos.org/packages?channel=unstable&show=offensive-azure&type=packages&query=offensive-azure)  
 - [python3Packages.lsassy](https://search.nixos.org/packages?channel=unstable&show=python3Packages.lsassy&type=packages&query=python3Packages.lsassy)  
