@@ -10,6 +10,7 @@
     cowpatty
     dbmonster
     horst
+    killerbee
     kismet
     pixiewps
     reaverwps
