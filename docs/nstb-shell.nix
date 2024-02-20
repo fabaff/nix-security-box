@@ -238,6 +238,7 @@ mkShell {
     keepwn
     kepler
     kerbrute
+    killerbee
     kismet
     kiterunner
     knockpy
@@ -510,6 +511,7 @@ mkShell {
     zap
     zeek
     zellij
+    zigpy-cli
     zkar
     zmap
     zydis

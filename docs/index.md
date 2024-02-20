@@ -25,11 +25,13 @@ Tool overview
 - [cowpatty](https://search.nixos.org/packages?channel=unstable&show=cowpatty&type=packages&query=cowpatty)  
 - [dbmonster](https://search.nixos.org/packages?channel=unstable&show=dbmonster&type=packages&query=dbmonster)  
 - [horst](https://search.nixos.org/packages?channel=unstable&show=horst&type=packages&query=horst)  
+- [killerbee](https://search.nixos.org/packages?channel=unstable&show=killerbee&type=packages&query=killerbee)  
 - [kismet](https://search.nixos.org/packages?channel=unstable&show=kismet&type=packages&query=kismet)  
 - [pixiewps](https://search.nixos.org/packages?channel=unstable&show=pixiewps&type=packages&query=pixiewps)  
 - [reaverwps](https://search.nixos.org/packages?channel=unstable&show=reaverwps&type=packages&query=reaverwps)  
 - [wavemon](https://search.nixos.org/packages?channel=unstable&show=wavemon&type=packages&query=wavemon)  
 - [wifite2](https://search.nixos.org/packages?channel=unstable&show=wifite2&type=packages&query=wifite2)  
+- [zigpy-cli](https://search.nixos.org/packages?channel=unstable&show=zigpy-cli&type=packages&query=zigpy-cli)  
 
 # Malware
   

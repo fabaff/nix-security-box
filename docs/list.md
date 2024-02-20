@@ -237,6 +237,7 @@ keedump
 keepwn  
 kepler  
 kerbrute  
+killerbee  
 kismet  
 kiterunner  
 knockpy  
@@ -509,6 +510,7 @@ yersinia
 zap  
 zeek  
 zellij  
+zigpy-cli  
 zkar  
 zmap  
 zydis  
