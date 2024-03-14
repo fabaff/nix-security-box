@@ -12,6 +12,7 @@
     horst
     killerbee
     kismet
+    netscanner
     pixiewps
     reaverwps
     wavemon
