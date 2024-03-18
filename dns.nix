@@ -21,5 +21,6 @@
     knockpy
     subfinder
     subzerod
+    wtfis
   ];
 }
