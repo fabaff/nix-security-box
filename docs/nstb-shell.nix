@@ -298,6 +298,7 @@ mkShell {
     netcat-gnu
     netdiscover
     netmask
+    netscanner
     netsniff-ng
     nfs-utils
     ngrep
@@ -379,6 +380,7 @@ mkShell {
     responder
     rizin
     ronin
+    route-graph
     routersploit
     rshijack
     ruler
@@ -497,6 +499,7 @@ mkShell {
     wprecon
     wpscan
     wstunnel
+    wtfis
     wuzz
     x3270
     xcrawl3r

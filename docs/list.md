@@ -297,6 +297,7 @@ net-snmp
 netcat-gnu  
 netdiscover  
 netmask  
+netscanner  
 netsniff-ng  
 nfs-utils  
 ngrep  
@@ -378,6 +379,7 @@ regexploit
 responder  
 rizin  
 ronin  
+route-graph  
 routersploit  
 rshijack  
 ruler  
@@ -496,6 +498,7 @@ witness
 wprecon  
 wpscan  
 wstunnel  
+wtfis  
 wuzz  
 x3270  
 xcrawl3r  

@@ -27,6 +27,7 @@ Tool overview
 - [horst](https://search.nixos.org/packages?channel=unstable&show=horst&type=packages&query=horst)  
 - [killerbee](https://search.nixos.org/packages?channel=unstable&show=killerbee&type=packages&query=killerbee)  
 - [kismet](https://search.nixos.org/packages?channel=unstable&show=kismet&type=packages&query=kismet)  
+- [netscanner](https://search.nixos.org/packages?channel=unstable&show=netscanner&type=packages&query=netscanner)  
 - [pixiewps](https://search.nixos.org/packages?channel=unstable&show=pixiewps&type=packages&query=pixiewps)  
 - [reaverwps](https://search.nixos.org/packages?channel=unstable&show=reaverwps&type=packages&query=reaverwps)  
 - [wavemon](https://search.nixos.org/packages?channel=unstable&show=wavemon&type=packages&query=wavemon)  
@@ -261,6 +262,7 @@ Tool overview
 - [putty](https://search.nixos.org/packages?channel=unstable&show=putty&type=packages&query=putty)  
 - [pwnat](https://search.nixos.org/packages?channel=unstable&show=pwnat&type=packages&query=pwnat)  
 - [responder](https://search.nixos.org/packages?channel=unstable&show=responder&type=packages&query=responder)  
+- [route-graph](https://search.nixos.org/packages?channel=unstable&show=route-graph&type=packages&query=route-graph)  
 - [rustcat](https://search.nixos.org/packages?channel=unstable&show=rustcat&type=packages&query=rustcat)  
 - [sshping](https://search.nixos.org/packages?channel=unstable&show=sshping&type=packages&query=sshping)  
 - [sslh](https://search.nixos.org/packages?channel=unstable&show=sslh&type=packages&query=sslh)  
@@ -413,6 +415,7 @@ Tool overview
 - [knockpy](https://search.nixos.org/packages?channel=unstable&show=knockpy&type=packages&query=knockpy)  
 - [subfinder](https://search.nixos.org/packages?channel=unstable&show=subfinder&type=packages&query=subfinder)  
 - [subzerod](https://search.nixos.org/packages?channel=unstable&show=subzerod&type=packages&query=subzerod)  
+- [wtfis](https://search.nixos.org/packages?channel=unstable&show=wtfis&type=packages&query=wtfis)  
 
 # Hardware
   
