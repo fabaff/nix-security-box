@@ -16,6 +16,7 @@
     ncftp
     netcat-gnu
     netdiscover
+    netexec
     nload
     nuttcp
     putty
