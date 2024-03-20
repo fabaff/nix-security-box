@@ -6,7 +6,6 @@
   environment.systemPackages = with pkgs; [
     bomber-go
     cargo-audit
-    chain-bench
     credential-detector
     deepsecrets
     detect-secrets
