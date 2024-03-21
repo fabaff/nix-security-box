@@ -26,6 +26,7 @@
     # Databases
     ghauri
     mongoaudit
+    nosqli
     pysqlrecon
     sqlmap
 
