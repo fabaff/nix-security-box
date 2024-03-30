@@ -12,6 +12,7 @@
     gallia
     hachoir
     nrfutil
+    teensy-loader-cli
     tytools
     python3Packages.angr
     python3Packages.angrop
