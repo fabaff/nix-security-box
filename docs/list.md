@@ -27,6 +27,7 @@ ares-rs
 arjun  
 arp-scan  
 arping  
+arpoison  
 atftp  
 authoscope  
 baboossh  
@@ -296,6 +297,7 @@ ncrack
 net-snmp  
 netcat-gnu  
 netdiscover  
+netexec  
 netmask  
 netscanner  
 netsniff-ng  
@@ -307,6 +309,7 @@ nmap
 nmap-formatter  
 nodePackages.hyperpotamus  
 noseyparker  
+nosqli  
 nrfutil  
 ntfs3g  
 ntfsprogs  
@@ -440,6 +443,7 @@ sx-go
 tcpdump  
 tcpflow  
 tcpreplay  
+teensy-loader-cli  
 teler  
 tell-me-your-secrets  
 termshark  

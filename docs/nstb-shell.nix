@@ -28,6 +28,7 @@ mkShell {
     arjun
     arp-scan
     arping
+    arpoison
     atftp
     authoscope
     baboossh
@@ -297,6 +298,7 @@ mkShell {
     net-snmp
     netcat-gnu
     netdiscover
+    netexec
     netmask
     netscanner
     netsniff-ng
@@ -308,6 +310,7 @@ mkShell {
     nmap-formatter
     nodePackages.hyperpotamus
     noseyparker
+    nosqli
     nrfutil
     ntfs3g
     ntfsprogs
@@ -441,6 +444,7 @@ mkShell {
     tcpdump
     tcpflow
     tcpreplay
+    teensy-loader-cli
     teler
     tell-me-your-secrets
     termshark
