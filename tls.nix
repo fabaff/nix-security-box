@@ -7,6 +7,7 @@
     sslscan
     ssldump
     sslsplit
+    sslstrip
     testssl
     tlsx
   ];
