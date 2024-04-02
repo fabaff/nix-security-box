@@ -9,6 +9,7 @@
     autobloody
     bloodhound-py
     chainsaw
+    certi
     certipy
     certsync
     coercer
