@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    adidnsdump
     adreaper
     autobloody
     bloodhound-py
