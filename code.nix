@@ -26,5 +26,6 @@
     tell-me-your-secrets
     trufflehog
     whispers
+    xeol
   ];
 }
