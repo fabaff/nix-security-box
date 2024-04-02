@@ -40,6 +40,7 @@
     monsoon
     nikto
     ntlmrecon
+    offat
     photon
     plecost
     scraper
