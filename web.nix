@@ -19,6 +19,7 @@
     dismap
     dirstalk
     dontgo403
+    forbidden
     galer
     gau
     gospider
