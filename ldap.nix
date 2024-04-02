@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     adenum
+    hekatomb
     msldapdump
     ldapmonitor
     ldapdomaindump
