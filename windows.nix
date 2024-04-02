@@ -25,6 +25,7 @@
     offensive-azure
     python3Packages.lsassy
     python3Packages.pypykatz
+    rdwatool
     samba
     smbmap
     smbscan
