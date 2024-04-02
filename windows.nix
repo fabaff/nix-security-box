@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     adreaper
+    autobloody
     bloodhound-py
     chainsaw
     certipy
