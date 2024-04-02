@@ -27,6 +27,7 @@
     rustcat
     sshping
     sslh
+    tunnelgraf
     wbox
     whois
     yersinia
