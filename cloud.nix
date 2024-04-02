@@ -12,6 +12,7 @@
     ggshield
     goblob
     imdshift
+    pacu
     prowler
     yatas
   ];
