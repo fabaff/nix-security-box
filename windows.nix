@@ -12,6 +12,7 @@
     certipy
     certsync
     coercer
+    donpapi
     enum4linux
     enum4linux-ng
     erosmb
