@@ -56,6 +56,7 @@
     whatweb
     wprecon
     wpscan
+    wsrepl
     wuzz
     xcrawl3r
     xsubfind3r
