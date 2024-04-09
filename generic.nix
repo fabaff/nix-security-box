@@ -13,7 +13,6 @@
     exiflooter
     flashrom
     girsh
-    htop
     httpie
     hurl
     inetutils
@@ -32,6 +31,11 @@
     utillinux
     wget
     xh
+
+    # Monitoring
+    btop
+    iftop
+    iotop
 
     # Terminal helpers
     eternal-terminal
