@@ -8,6 +8,7 @@
     arpoison
     atftp
     bandwhich
+    bngblaster
     crackmapexec
     evillimiter
     iperf2
