@@ -13,6 +13,7 @@
     exiflooter
     flashrom
     girsh
+    gtfocli
     httpie
     hurl
     inetutils
