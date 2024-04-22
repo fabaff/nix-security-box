@@ -40,6 +40,7 @@
     mitmproxy2swagger
     monsoon
     nikto
+    nomore403
     ntlmrecon
     offat
     photon
