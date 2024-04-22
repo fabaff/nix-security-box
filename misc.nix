@@ -17,5 +17,6 @@
     pwntools
     python3Packages.pytenable
     snscrape
+    troubadix
   ];
 }
