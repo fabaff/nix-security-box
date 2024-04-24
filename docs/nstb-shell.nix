@@ -8,6 +8,7 @@ mkShell {
     acltoolkit
     acquire
     adenum
+    adidnsdump
     adreaper
     afflib
     afl
@@ -31,6 +32,7 @@ mkShell {
     arpoison
     atftp
     authoscope
+    autobloody
     baboossh
     badchars
     bandwhich
@@ -40,6 +42,7 @@ mkShell {
     bloodhound-py
     bluewalker
     bluez
+    bngblaster
     bomber-go
     boofuzz
     bore-cli
@@ -47,6 +50,7 @@ mkShell {
     brakeman
     bruteforce-luks
     brutespray
+    btop
     bully
     burpsuite
     cabextract
@@ -58,6 +62,8 @@ mkShell {
     cariddi
     cassowary
     cdk-go
+    cero
+    certi
     certipy
     certsync
     cfripper
@@ -124,6 +130,7 @@ mkShell {
     dnstwist
     dnsx
     dockle
+    donpapi
     dontgo403
     doona
     dorkscout
@@ -153,6 +160,7 @@ mkShell {
     findomain
     flare-floss
     flashrom
+    forbidden
     foremost
     fping
     freerdp
@@ -192,6 +200,7 @@ mkShell {
     graphqlmap
     graphw00f
     grype
+    gtfocli
     gzrt
     h8mail
     hachoir
@@ -200,6 +209,7 @@ mkShell {
     hashcat
     hashcat-utils
     hashdeep
+    hekatomb
     hey
     hivex
     holehe
@@ -208,11 +218,11 @@ mkShell {
     horst
     hping
     hstsparser
-    htop
     httpie
     httptunnel
     httpx
     hurl
+    iftop
     ike-scan
     imdshift
     inetutils
@@ -220,6 +230,7 @@ mkShell {
     ioc-scan
     ioccheck
     iodine
+    iotop
     ipcalc
     iperf2
     iproute
@@ -309,6 +320,7 @@ mkShell {
     nmap
     nmap-formatter
     nodePackages.hyperpotamus
+    nomore403
     noseyparker
     nosqli
     nrfutil
@@ -320,6 +332,7 @@ mkShell {
     nuclei
     nuttcp
     nwipe
+    offat
     offensive-azure
     oha
     onesixtyone
@@ -333,6 +346,7 @@ mkShell {
     p0f
     p7zip
     packj
+    pacu
     padre
     parted
     payload-dumper-go
@@ -345,6 +359,7 @@ mkShell {
     pktgen
     plecost
     popeye
+    pre2k
     prowler
     proxify
     proxychains
@@ -375,6 +390,7 @@ mkShell {
     radamsa
     radare2
     radare2-cutter
+    rdwatool
     reaverwps
     recoverjpeg
     redfang
@@ -431,6 +447,7 @@ mkShell {
     sslh
     sslscan
     sslsplit
+    sslstrip
     stacs
     stegseek
     step-cli
@@ -460,11 +477,13 @@ mkShell {
     tracee
     traitor
     trivy
+    troubadix
     truecrack
     trueseeing
     trufflehog
     trustymail
     tsung
+    tunnelgraf
     tytools
     ubertooth
     uddup
@@ -502,11 +521,13 @@ mkShell {
     witness
     wprecon
     wpscan
+    wsrepl
     wstunnel
     wtfis
     wuzz
     x3270
     xcrawl3r
+    xeol
     xh
     xorex
     xortool

@@ -7,6 +7,7 @@ abootimg
 acltoolkit  
 acquire  
 adenum  
+adidnsdump  
 adreaper  
 afflib  
 afl  
@@ -30,6 +31,7 @@ arping
 arpoison  
 atftp  
 authoscope  
+autobloody  
 baboossh  
 badchars  
 bandwhich  
@@ -39,6 +41,7 @@ bingrep
 bloodhound-py  
 bluewalker  
 bluez  
+bngblaster  
 bomber-go  
 boofuzz  
 bore-cli  
@@ -46,6 +49,7 @@ braa
 brakeman  
 bruteforce-luks  
 brutespray  
+btop  
 bully  
 burpsuite  
 cabextract  
@@ -57,6 +61,8 @@ cargo-audit
 cariddi  
 cassowary  
 cdk-go  
+cero  
+certi  
 certipy  
 certsync  
 cfripper  
@@ -123,6 +129,7 @@ dnstracer
 dnstwist  
 dnsx  
 dockle  
+donpapi  
 dontgo403  
 doona  
 dorkscout  
@@ -152,6 +159,7 @@ fierce
 findomain  
 flare-floss  
 flashrom  
+forbidden  
 foremost  
 fping  
 freerdp  
@@ -191,6 +199,7 @@ gping
 graphqlmap  
 graphw00f  
 grype  
+gtfocli  
 gzrt  
 h8mail  
 hachoir  
@@ -199,6 +208,7 @@ hans
 hashcat  
 hashcat-utils  
 hashdeep  
+hekatomb  
 hey  
 hivex  
 holehe  
@@ -207,11 +217,11 @@ honggfuzz
 horst  
 hping  
 hstsparser  
-htop  
 httpie  
 httptunnel  
 httpx  
 hurl  
+iftop  
 ike-scan  
 imdshift  
 inetutils  
@@ -219,6 +229,7 @@ inxi
 ioc-scan  
 ioccheck  
 iodine  
+iotop  
 ipcalc  
 iperf2  
 iproute  
@@ -308,6 +319,7 @@ nload
 nmap  
 nmap-formatter  
 nodePackages.hyperpotamus  
+nomore403  
 noseyparker  
 nosqli  
 nrfutil  
@@ -319,6 +331,7 @@ ntp
 nuclei  
 nuttcp  
 nwipe  
+offat  
 offensive-azure  
 oha  
 onesixtyone  
@@ -332,6 +345,7 @@ osv-scanner
 p0f  
 p7zip  
 packj  
+pacu  
 padre  
 parted  
 payload-dumper-go  
@@ -344,6 +358,7 @@ pixiewps
 pktgen  
 plecost  
 popeye  
+pre2k  
 prowler  
 proxify  
 proxychains  
@@ -374,6 +389,7 @@ python3Packages.unicorn
 radamsa  
 radare2  
 radare2-cutter  
+rdwatool  
 reaverwps  
 recoverjpeg  
 redfang  
@@ -430,6 +446,7 @@ ssldump
 sslh  
 sslscan  
 sslsplit  
+sslstrip  
 stacs  
 stegseek  
 step-cli  
@@ -459,11 +476,13 @@ tmux
 tracee  
 traitor  
 trivy  
+troubadix  
 truecrack  
 trueseeing  
 trufflehog  
 trustymail  
 tsung  
+tunnelgraf  
 tytools  
 ubertooth  
 uddup  
@@ -501,11 +520,13 @@ wireshark-cli
 witness  
 wprecon  
 wpscan  
+wsrepl  
 wstunnel  
 wtfis  
 wuzz  
 x3270  
 xcrawl3r  
+xeol  
 xh  
 xorex  
 xortool  
