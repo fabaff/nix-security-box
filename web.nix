@@ -60,6 +60,7 @@
     wsrepl
     wuzz
     xcrawl3r
+    xnlinkfinder
     xsubfind3r
   ];
 }
