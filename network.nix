@@ -12,6 +12,7 @@
     crackmapexec
     evillimiter
     iperf2
+    iputils
     lftp
     mitm6
     mtr
