@@ -25,6 +25,7 @@
 
     # Databases
     ghauri
+    laudanum
     mongoaudit
     nosqli
     pysqlrecon
