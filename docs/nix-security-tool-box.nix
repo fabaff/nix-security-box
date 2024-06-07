@@ -236,6 +236,7 @@
     iproute
     iproute2
     ipscan
+    iputils
     iw
     jaeles
     john
@@ -259,6 +260,7 @@
     kubeaudit
     kubescape
     kubestroyer
+    laudanum
     ldapdomaindump
     ldapmonitor
     ldapnomnom
@@ -282,6 +284,7 @@
     maigret
     mantra
     masscan
+    massdns
     medusa
     metabigor
     metasploit
@@ -354,6 +357,7 @@
     photon
     phrasendrescher
     picocom
+    pingu
     pip-audit
     pixiewps
     pktgen
@@ -529,6 +533,7 @@
     xcrawl3r
     xeol
     xh
+    xnlinkfinder
     xorex
     xortool
     xrdp

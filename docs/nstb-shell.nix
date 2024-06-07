@@ -236,6 +236,7 @@ mkShell {
     iproute
     iproute2
     ipscan
+    iputils
     iw
     jaeles
     john
@@ -259,6 +260,7 @@ mkShell {
     kubeaudit
     kubescape
     kubestroyer
+    laudanum
     ldapdomaindump
     ldapmonitor
     ldapnomnom
@@ -282,6 +284,7 @@ mkShell {
     maigret
     mantra
     masscan
+    massdns
     medusa
     metabigor
     metasploit
@@ -354,6 +357,7 @@ mkShell {
     photon
     phrasendrescher
     picocom
+    pingu
     pip-audit
     pixiewps
     pktgen
@@ -529,6 +533,7 @@ mkShell {
     xcrawl3r
     xeol
     xh
+    xnlinkfinder
     xorex
     xortool
     xrdp
