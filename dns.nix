@@ -19,6 +19,7 @@
     fierce
     findomain
     knockpy
+    massdns
     subfinder
     subzerod
     wtfis
