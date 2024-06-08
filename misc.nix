@@ -18,6 +18,7 @@
     python3Packages.pytenable
     snscrape
     sr2t
+    sttr
     troubadix
   ];
 }
