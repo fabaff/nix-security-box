@@ -8,6 +8,7 @@
     adreaper
     autobloody
     bloodhound-py
+    breads-ad
     chainsaw
     certi
     certipy
