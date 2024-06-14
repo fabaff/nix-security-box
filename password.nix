@@ -7,6 +7,7 @@
     authoscope
     bruteforce-luks
     brutespray
+    conpass
     crunch
     h8mail
     hashcat
