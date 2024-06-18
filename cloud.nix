@@ -13,6 +13,7 @@
     goblob
     imdshift
     pacu
+    poutine
     prowler
     yatas
   ];
