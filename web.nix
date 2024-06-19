@@ -25,6 +25,7 @@
     gospider
     gotestwaf
     gowitness
+    graphqlmaker
     graphqlmap
     graphw00f
     hakrawler
