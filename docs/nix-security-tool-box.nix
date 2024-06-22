@@ -48,6 +48,7 @@
     bore-cli
     braa
     brakeman
+    breads-ad
     bruteforce-luks
     brutespray
     btop
@@ -91,6 +92,7 @@
     cmospwd
     coercer
     commix
+    conpass
     corkscrew
     cowpatty
     crackmapexec
@@ -197,6 +199,7 @@
     gotestwaf
     gowitness
     gping
+    graphqlmaker
     graphqlmap
     graphw00f
     grype
@@ -363,6 +366,7 @@
     pktgen
     plecost
     popeye
+    poutine
     pre2k
     prowler
     proxify
@@ -391,6 +395,7 @@
     python3Packages.r2pipe
     python3Packages.scapy
     python3Packages.unicorn
+    python3packages.hakuin
     radamsa
     radare2
     radare2-cutter
@@ -439,8 +444,10 @@
     snscrape
     socat
     socialscan
+    sploitscan
     spyre
     sqlmap
+    sr2t
     srm
     ssdeep
     ssh-audit
@@ -455,9 +462,11 @@
     stacs
     stegseek
     step-cli
+    sttr
     stunnel
     subfinder
     subjs
+    subprober
     subzerod
     swaggerhole
     swaks
