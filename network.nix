@@ -9,6 +9,7 @@
     atftp
     bandwhich
     bngblaster
+    cdncheck
     crackmapexec
     evillimiter
     iperf2
