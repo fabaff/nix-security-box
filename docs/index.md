@@ -87,6 +87,7 @@ Tool overview
 - [atftp](https://search.nixos.org/packages?channel=unstable&show=atftp&type=packages&query=atftp)  
 - [bandwhich](https://search.nixos.org/packages?channel=unstable&show=bandwhich&type=packages&query=bandwhich)  
 - [bngblaster](https://search.nixos.org/packages?channel=unstable&show=bngblaster&type=packages&query=bngblaster)  
+- [cdncheck](https://search.nixos.org/packages?channel=unstable&show=cdncheck&type=packages&query=cdncheck)  
 - [crackmapexec](https://search.nixos.org/packages?channel=unstable&show=crackmapexec&type=packages&query=crackmapexec)  
 - [evillimiter](https://search.nixos.org/packages?channel=unstable&show=evillimiter&type=packages&query=evillimiter)  
 - [iperf2](https://search.nixos.org/packages?channel=unstable&show=iperf2&type=packages&query=iperf2)  

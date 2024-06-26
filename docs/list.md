@@ -62,6 +62,7 @@ cargo-audit
 cariddi  
 cassowary  
 cdk-go  
+cdncheck  
 cero  
 certi  
 certipy  

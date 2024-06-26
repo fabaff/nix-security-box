@@ -63,6 +63,7 @@ mkShell {
     cariddi
     cassowary
     cdk-go
+    cdncheck
     cero
     certi
     certipy
