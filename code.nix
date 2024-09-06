@@ -10,7 +10,7 @@
     deepsecrets
     detect-secrets
     freeze
-    garble
+    # garble
     git-secret
     gitjacker
     gitleaks
