@@ -12,6 +12,7 @@
     metasploit
     nbutools
     nuclei
+    nuclei-templates
     openrisk
     osv-scanner
     uncover
