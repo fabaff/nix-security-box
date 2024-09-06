@@ -7,7 +7,7 @@
     apachetomcatscanner
     arjun
     brakeman
-    cameradar
+    # cameradar
     cansina
     cariddi
     chopchop
