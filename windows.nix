@@ -18,7 +18,7 @@
     enum4linux
     enum4linux-ng
     erosmb
-    evil-winrm
+    # evil-winrm
     go365
     gomapenum
     kerbrute
