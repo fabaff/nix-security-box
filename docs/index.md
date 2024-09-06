@@ -88,7 +88,6 @@ Tool overview
 - [bandwhich](https://search.nixos.org/packages?channel=unstable&show=bandwhich&type=packages&query=bandwhich)  
 - [bngblaster](https://search.nixos.org/packages?channel=unstable&show=bngblaster&type=packages&query=bngblaster)  
 - [cdncheck](https://search.nixos.org/packages?channel=unstable&show=cdncheck&type=packages&query=cdncheck)  
-- [crackmapexec](https://search.nixos.org/packages?channel=unstable&show=crackmapexec&type=packages&query=crackmapexec)  
 - [evillimiter](https://search.nixos.org/packages?channel=unstable&show=evillimiter&type=packages&query=evillimiter)  
 - [iperf2](https://search.nixos.org/packages?channel=unstable&show=iperf2&type=packages&query=iperf2)  
 - [iputils](https://search.nixos.org/packages?channel=unstable&show=iputils&type=packages&query=iputils)  
@@ -349,7 +348,6 @@ Tool overview
 
 # Fuzzers
   
-- [afl](https://search.nixos.org/packages?channel=unstable&show=afl&type=packages&query=afl)  
 - [aflplusplus](https://search.nixos.org/packages?channel=unstable&show=aflplusplus&type=packages&query=aflplusplus)  
 - [feroxbuster](https://search.nixos.org/packages?channel=unstable&show=feroxbuster&type=packages&query=feroxbuster)  
 - [ffuf](https://search.nixos.org/packages?channel=unstable&show=ffuf&type=packages&query=ffuf)  

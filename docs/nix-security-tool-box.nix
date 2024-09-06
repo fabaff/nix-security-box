@@ -11,7 +11,6 @@
     adidnsdump
     adreaper
     afflib
-    afl
     aflplusplus
     aiodnsbrute
     aircrack-ng
@@ -96,7 +95,6 @@
     conpass
     corkscrew
     cowpatty
-    crackmapexec
     crackql
     credential-detector
     creds

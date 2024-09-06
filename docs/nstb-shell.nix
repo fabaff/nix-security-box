@@ -11,7 +11,6 @@ mkShell {
     adidnsdump
     adreaper
     afflib
-    afl
     aflplusplus
     aiodnsbrute
     aircrack-ng
@@ -96,7 +95,6 @@ mkShell {
     conpass
     corkscrew
     cowpatty
-    crackmapexec
     crackql
     credential-detector
     creds

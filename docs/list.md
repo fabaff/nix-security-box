@@ -10,7 +10,6 @@ adenum
 adidnsdump  
 adreaper  
 afflib  
-afl  
 aflplusplus  
 aiodnsbrute  
 aircrack-ng  
@@ -95,7 +94,6 @@ commix
 conpass  
 corkscrew  
 cowpatty  
-crackmapexec  
 crackql  
 credential-detector  
 creds  
