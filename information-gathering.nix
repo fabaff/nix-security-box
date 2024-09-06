@@ -10,7 +10,7 @@
     maigret
     metabigor
     p0f
-    sn0int
+    # sn0int
     socialscan
     theharvester
     urlhunter
