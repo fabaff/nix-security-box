@@ -53,7 +53,6 @@
     openvpn
     samba
     step-cli
-    tightvnc
     wireguard-go
     wireguard-tools
     xrdp
