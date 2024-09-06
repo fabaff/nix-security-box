@@ -9,7 +9,7 @@
     ec2stepshell
     gato
     gcp-scanner
-    ggshield
+    # ggshield
     goblob
     imdshift
     pacu
