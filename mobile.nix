@@ -7,7 +7,7 @@
     abootimg
     androguard
     apkeep
-    apkleaks
+    # apkleaks
     apktool
     dex2jar
     genymotion
