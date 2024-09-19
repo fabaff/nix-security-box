@@ -21,7 +21,6 @@ androguard
 anevicon  
 apachetomcatscanner  
 apkeep  
-apkleaks  
 apktool  
 ares-rs  
 arjun  
@@ -53,7 +52,6 @@ btop
 bully  
 burpsuite  
 cabextract  
-cameradar  
 cansina  
 cantoolz  
 cardpeek  
@@ -146,7 +144,6 @@ erosmb
 esptool  
 eternal-terminal  
 ettercap  
-evil-winrm  
 evillimiter  
 exiflooter  
 exiv2  
@@ -169,14 +166,12 @@ fwanalyzer
 galer  
 galleta  
 gallia  
-garble  
 gato  
 gau  
 gcp-scanner  
 gdb  
 gef  
 genymotion  
-ggshield  
 ghauri  
 ghidra-bin  
 ghost  
@@ -334,6 +329,7 @@ nth
 ntlmrecon  
 ntp  
 nuclei  
+nuclei-templates  
 nuttcp  
 nwipe  
 offat  
@@ -382,6 +378,7 @@ python3Packages.binwalk
 python3Packages.bleak  
 python3Packages.can  
 python3Packages.emv  
+python3Packages.hakuin  
 python3Packages.karton-core  
 python3Packages.lsassy  
 python3Packages.malduck  
@@ -393,7 +390,6 @@ python3Packages.pytenable
 python3Packages.r2pipe  
 python3Packages.scapy  
 python3Packages.unicorn  
-python3packages.hakuin  
 radamsa  
 radare2  
 radare2-cutter  
@@ -407,7 +403,6 @@ responder
 rizin  
 ronin  
 route-graph  
-routersploit  
 rshijack  
 ruler  
 rustcat  
@@ -434,7 +429,6 @@ sleuthkit
 slowlorust  
 smbmap  
 smbscan  
-sn0int  
 snallygaster  
 sngrep  
 sniffglue  
@@ -482,7 +476,6 @@ testssl
 tfsec  
 thc-hydra  
 theharvester  
-tightvnc  
 tlsx  
 tmux  
 tracee  
@@ -508,7 +501,6 @@ unzip
 urlhunter  
 utillinux  
 vegeta  
-volatility  
 volatility3  
 vulnix  
 wad  
