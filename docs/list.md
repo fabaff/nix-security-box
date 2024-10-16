@@ -19,7 +19,6 @@ amass
 amoco  
 androguard  
 anevicon  
-apachetomcatscanner  
 apkeep  
 apktool  
 ares-rs  
