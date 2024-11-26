@@ -11,6 +11,7 @@
     sslsplit
     sslstrip
     testssl
+    tlsinfo
     tlsx
   ];
 }
