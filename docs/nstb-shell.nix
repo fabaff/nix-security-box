@@ -15,6 +15,7 @@ mkShell {
     aiodnsbrute
     aircrack-ng
     airgeddon
+    albedo
     ali
     amass
     amoco
@@ -62,6 +63,7 @@ mkShell {
     cdncheck
     cero
     certi
+    certinfo-go
     certipy
     certsync
     cfripper
@@ -181,6 +183,7 @@ mkShell {
     gitjacker
     gitleaks
     gitls
+    gitxray
     go-exploitdb
     go365
     goblob
@@ -192,10 +195,13 @@ mkShell {
     gotestwaf
     gowitness
     gping
+    graphpython
     graphqlmaker
     graphqlmap
     graphw00f
+    grimoire
     grype
+    gsan
     gtfocli
     gzrt
     h8mail
@@ -345,6 +351,7 @@ mkShell {
     osv-scanner
     p0f
     p7zip
+    packetry
     packj
     pacu
     padre
@@ -469,6 +476,7 @@ mkShell {
     teensy-loader-cli
     teler
     tell-me-your-secrets
+    termineter
     termshark
     terrascan
     testdisk
@@ -476,6 +484,7 @@ mkShell {
     tfsec
     thc-hydra
     theharvester
+    tlsinfo
     tlsx
     tmux
     tracee
@@ -503,6 +512,7 @@ mkShell {
     vegeta
     volatility3
     vulnix
+    vuls
     wad
     waf-tester
     wafw00f

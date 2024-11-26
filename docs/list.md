@@ -14,6 +14,7 @@ aflplusplus
 aiodnsbrute  
 aircrack-ng  
 airgeddon  
+albedo  
 ali  
 amass  
 amoco  
@@ -61,6 +62,7 @@ cdk-go
 cdncheck  
 cero  
 certi  
+certinfo-go  
 certipy  
 certsync  
 cfripper  
@@ -180,6 +182,7 @@ git-secret
 gitjacker  
 gitleaks  
 gitls  
+gitxray  
 go-exploitdb  
 go365  
 goblob  
@@ -191,10 +194,13 @@ gospider
 gotestwaf  
 gowitness  
 gping  
+graphpython  
 graphqlmaker  
 graphqlmap  
 graphw00f  
+grimoire  
 grype  
+gsan  
 gtfocli  
 gzrt  
 h8mail  
@@ -344,6 +350,7 @@ osv-detector
 osv-scanner  
 p0f  
 p7zip  
+packetry  
 packj  
 pacu  
 padre  
@@ -468,6 +475,7 @@ tcpreplay
 teensy-loader-cli  
 teler  
 tell-me-your-secrets  
+termineter  
 termshark  
 terrascan  
 testdisk  
@@ -475,6 +483,7 @@ testssl
 tfsec  
 thc-hydra  
 theharvester  
+tlsinfo  
 tlsx  
 tmux  
 tracee  
@@ -502,6 +511,7 @@ utillinux
 vegeta  
 volatility3  
 vulnix  
+vuls  
 wad  
 waf-tester  
 wafw00f  

@@ -56,6 +56,7 @@ Tool overview
 - [osv-scanner](https://search.nixos.org/packages?channel=unstable&show=osv-scanner&type=packages&query=osv-scanner)  
 - [uncover](https://search.nixos.org/packages?channel=unstable&show=uncover&type=packages&query=uncover)  
 - [traitor](https://search.nixos.org/packages?channel=unstable&show=traitor&type=packages&query=traitor)  
+- [vuls](https://search.nixos.org/packages?channel=unstable&show=vuls&type=packages&query=vuls)  
 - [mx-takeover](https://search.nixos.org/packages?channel=unstable&show=mx-takeover&type=packages&query=mx-takeover)  
 - [ruler](https://search.nixos.org/packages?channel=unstable&show=ruler&type=packages&query=ruler)  
 - [swaks](https://search.nixos.org/packages?channel=unstable&show=swaks&type=packages&query=swaks)  
@@ -130,6 +131,7 @@ Tool overview
 - [eternal-terminal](https://search.nixos.org/packages?channel=unstable&show=eternal-terminal&type=packages&query=eternal-terminal)  
 - [mosh](https://search.nixos.org/packages?channel=unstable&show=mosh&type=packages&query=mosh)  
 - [shellz](https://search.nixos.org/packages?channel=unstable&show=shellz&type=packages&query=shellz)  
+- [certinfo-go](https://search.nixos.org/packages?channel=unstable&show=certinfo-go&type=packages&query=certinfo-go)  
 - [cifs-utils](https://search.nixos.org/packages?channel=unstable&show=cifs-utils&type=packages&query=cifs-utils)  
 - [freerdp](https://search.nixos.org/packages?channel=unstable&show=freerdp&type=packages&query=freerdp)  
 - [net-snmp](https://search.nixos.org/packages?channel=unstable&show=net-snmp&type=packages&query=net-snmp)  
@@ -252,7 +254,9 @@ Tool overview
 - [gallia](https://search.nixos.org/packages?channel=unstable&show=gallia&type=packages&query=gallia)  
 - [hachoir](https://search.nixos.org/packages?channel=unstable&show=hachoir&type=packages&query=hachoir)  
 - [nrfutil](https://search.nixos.org/packages?channel=unstable&show=nrfutil&type=packages&query=nrfutil)  
+- [packetry](https://search.nixos.org/packages?channel=unstable&show=packetry&type=packages&query=packetry)  
 - [teensy-loader-cli](https://search.nixos.org/packages?channel=unstable&show=teensy-loader-cli&type=packages&query=teensy-loader-cli)  
+- [termineter](https://search.nixos.org/packages?channel=unstable&show=termineter&type=packages&query=termineter)  
 - [tytools](https://search.nixos.org/packages?channel=unstable&show=tytools&type=packages&query=tytools)  
 - [python3Packages.angr](https://search.nixos.org/packages?channel=unstable&show=python3Packages.angr&type=packages&query=python3Packages.angr)  
 - [python3Packages.angrop](https://search.nixos.org/packages?channel=unstable&show=python3Packages.angrop&type=packages&query=python3Packages.angrop)  
@@ -284,6 +288,7 @@ Tool overview
 - [gitjacker](https://search.nixos.org/packages?channel=unstable&show=gitjacker&type=packages&query=gitjacker)  
 - [gitleaks](https://search.nixos.org/packages?channel=unstable&show=gitleaks&type=packages&query=gitleaks)  
 - [gitls](https://search.nixos.org/packages?channel=unstable&show=gitls&type=packages&query=gitls)  
+- [gitxray](https://search.nixos.org/packages?channel=unstable&show=gitxray&type=packages&query=gitxray)  
 - [gokart](https://search.nixos.org/packages?channel=unstable&show=gokart&type=packages&query=gokart)  
 - [legitify](https://search.nixos.org/packages?channel=unstable&show=legitify&type=packages&query=legitify)  
 - [osv-detector](https://search.nixos.org/packages?channel=unstable&show=osv-detector&type=packages&query=osv-detector)  
@@ -365,6 +370,7 @@ Tool overview
 - [gato](https://search.nixos.org/packages?channel=unstable&show=gato&type=packages&query=gato)  
 - [gcp-scanner](https://search.nixos.org/packages?channel=unstable&show=gcp-scanner&type=packages&query=gcp-scanner)  
 - [goblob](https://search.nixos.org/packages?channel=unstable&show=goblob&type=packages&query=goblob)  
+- [grimoire](https://search.nixos.org/packages?channel=unstable&show=grimoire&type=packages&query=grimoire)  
 - [imdshift](https://search.nixos.org/packages?channel=unstable&show=imdshift&type=packages&query=imdshift)  
 - [pacu](https://search.nixos.org/packages?channel=unstable&show=pacu&type=packages&query=pacu)  
 - [poutine](https://search.nixos.org/packages?channel=unstable&show=poutine&type=packages&query=poutine)  
@@ -497,11 +503,13 @@ Tool overview
 # Tls
   
 - [cero](https://search.nixos.org/packages?channel=unstable&show=cero&type=packages&query=cero)  
+- [gsan](https://search.nixos.org/packages?channel=unstable&show=gsan&type=packages&query=gsan)  
 - [sslscan](https://search.nixos.org/packages?channel=unstable&show=sslscan&type=packages&query=sslscan)  
 - [ssldump](https://search.nixos.org/packages?channel=unstable&show=ssldump&type=packages&query=ssldump)  
 - [sslsplit](https://search.nixos.org/packages?channel=unstable&show=sslsplit&type=packages&query=sslsplit)  
 - [sslstrip](https://search.nixos.org/packages?channel=unstable&show=sslstrip&type=packages&query=sslstrip)  
 - [testssl](https://search.nixos.org/packages?channel=unstable&show=testssl&type=packages&query=testssl)  
+- [tlsinfo](https://search.nixos.org/packages?channel=unstable&show=tlsinfo&type=packages&query=tlsinfo)  
 - [tlsx](https://search.nixos.org/packages?channel=unstable&show=tlsx&type=packages&query=tlsx)  
 
 # Fuzzers
@@ -553,6 +561,7 @@ Tool overview
 
 # Web
   
+- [albedo](https://search.nixos.org/packages?channel=unstable&show=albedo&type=packages&query=albedo)  
 - [arjun](https://search.nixos.org/packages?channel=unstable&show=arjun&type=packages&query=arjun)  
 - [brakeman](https://search.nixos.org/packages?channel=unstable&show=brakeman&type=packages&query=brakeman)  
 - [cansina](https://search.nixos.org/packages?channel=unstable&show=cansina&type=packages&query=cansina)  
@@ -572,6 +581,7 @@ Tool overview
 - [gospider](https://search.nixos.org/packages?channel=unstable&show=gospider&type=packages&query=gospider)  
 - [gotestwaf](https://search.nixos.org/packages?channel=unstable&show=gotestwaf&type=packages&query=gotestwaf)  
 - [gowitness](https://search.nixos.org/packages?channel=unstable&show=gowitness&type=packages&query=gowitness)  
+- [graphpython](https://search.nixos.org/packages?channel=unstable&show=graphpython&type=packages&query=graphpython)  
 - [graphqlmaker](https://search.nixos.org/packages?channel=unstable&show=graphqlmaker&type=packages&query=graphqlmaker)  
 - [graphqlmap](https://search.nixos.org/packages?channel=unstable&show=graphqlmap&type=packages&query=graphqlmap)  
 - [graphw00f](https://search.nixos.org/packages?channel=unstable&show=graphw00f&type=packages&query=graphw00f)  
