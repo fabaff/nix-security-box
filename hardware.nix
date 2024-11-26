@@ -14,6 +14,7 @@
     nrfutil
     packetry
     teensy-loader-cli
+    termineter
     tytools
     python3Packages.angr
     python3Packages.angrop
