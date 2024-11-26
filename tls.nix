@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     cero
+    gsan
     sslscan
     ssldump
     sslsplit
