@@ -26,6 +26,7 @@
     gospider
     gotestwaf
     gowitness
+    graphpython
     graphqlmaker
     graphqlmap
     graphw00f
