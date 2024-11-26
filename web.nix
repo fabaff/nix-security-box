@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     # apachetomcatscanner
+    albedo
     arjun
     brakeman
     # cameradar
