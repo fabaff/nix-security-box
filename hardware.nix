@@ -12,6 +12,7 @@
     gallia
     hachoir
     nrfutil
+    packetry
     teensy-loader-cli
     tytools
     python3Packages.angr
