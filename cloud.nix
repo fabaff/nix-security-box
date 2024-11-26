@@ -11,6 +11,7 @@
     gcp-scanner
     # ggshield
     goblob
+    grimoire
     imdshift
     pacu
     poutine
