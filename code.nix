@@ -15,6 +15,7 @@
     gitjacker
     gitleaks
     gitls
+    gitxray
     gokart
     legitify
     osv-detector
