@@ -44,6 +44,7 @@
     shellz
 
     # Common client for various protocols
+    certinfo-go
     cifs-utils
     freerdp
     net-snmp
