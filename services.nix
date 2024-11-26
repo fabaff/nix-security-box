@@ -17,6 +17,7 @@
     osv-scanner
     uncover
     traitor
+    vuls
 
     # E-Mail
     mx-takeover
