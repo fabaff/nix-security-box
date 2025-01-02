@@ -12,6 +12,7 @@
     dex2jar
     genymotion
     ghost
+    morf
     payload-dumper-go
     scrcpy
     simg2img
