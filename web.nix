@@ -23,6 +23,7 @@
     forbidden
     galer
     gau
+    genzai
     gospider
     gotestwaf
     gowitness
