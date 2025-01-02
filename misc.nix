@@ -15,6 +15,7 @@
     jwt-cli
     kepler
     nmap-formatter
+    penelope
     pwntools
     python3Packages.pytenable
     snscrape
