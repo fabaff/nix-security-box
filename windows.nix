@@ -7,6 +7,7 @@
     adidnsdump
     adreaper
     autobloody
+    azurehound
     bloodhound-py
     breads-ad
     chainsaw
