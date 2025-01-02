@@ -15,6 +15,7 @@
     dnstracer
     dnstwist
     dnspeep
+    dnsvalidator
     dnsx
     fierce
     findomain
