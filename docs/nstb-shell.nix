@@ -31,6 +31,7 @@ mkShell {
     atftp
     authoscope
     autobloody
+    azurehound
     baboossh
     badchars
     bandwhich
@@ -102,6 +103,7 @@ mkShell {
     curl
     cutecom
     cutter
+    cve-prioritizer
     cyberchef
     dalfox
     das
@@ -128,6 +130,7 @@ mkShell {
     dnstop
     dnstracer
     dnstwist
+    dnsvalidator
     dnsx
     dockle
     donpapi
@@ -507,6 +510,7 @@ mkShell {
     unicorn-emu
     unrar
     unzip
+    urlfinder
     urlhunter
     utillinux
     vegeta

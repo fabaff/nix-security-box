@@ -30,6 +30,7 @@ arpoison
 atftp  
 authoscope  
 autobloody  
+azurehound  
 baboossh  
 badchars  
 bandwhich  
@@ -101,6 +102,7 @@ crunch
 curl  
 cutecom  
 cutter  
+cve-prioritizer  
 cyberchef  
 dalfox  
 das  
@@ -127,6 +129,7 @@ dnstake
 dnstop  
 dnstracer  
 dnstwist  
+dnsvalidator  
 dnsx  
 dockle  
 donpapi  
@@ -506,6 +509,7 @@ unicorn
 unicorn-emu  
 unrar  
 unzip  
+urlfinder  
 urlhunter  
 utillinux  
 vegeta  
