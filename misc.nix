@@ -8,6 +8,7 @@
     badchars
     changetower
     creds
+    cve-prioritizer
     doona
     galleta
     honeytrap
