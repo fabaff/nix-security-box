@@ -55,6 +55,7 @@
     subjs
     swaggerhole
     uddup
+    urlfinder
     wad
     webanalyze
     websecprobe
