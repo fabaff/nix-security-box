@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     arp-scan
     das
+    havn
     ipscan
     masscan
     naabu
