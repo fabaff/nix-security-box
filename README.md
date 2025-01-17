@@ -51,5 +51,3 @@ Or use this [template](https://fabaff.github.io/nix-security-box/nstb-shell.nix)
 ## License
 
 Everything here is licensed under MIT.
-
-[<img src="https://api.gitsponsors.com/api/badge/img?id=323747664" height="20">](https://api.gitsponsors.com/api/badge/link?p=r1EQOStVRBApF6w0G6zk/bVjO/AaP+b/2f03t0aRKLi8MPw/zOreL+qPmoKEBG3kHFdyf7GNIf8Xt9GwlgELDWRHDm2GUtc49RDEy6MiGi0GCe5odarkHWDkPtuVXBqbBaD2IKv9ddwTBao4OyH+zA==)
