@@ -4,6 +4,8 @@
 
 {
   environment.systemPackages = with pkgs; [
+    arp-scan
+    arp-scan-rs
     arping
     arpoison
     atftp
