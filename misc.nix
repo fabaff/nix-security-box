@@ -10,6 +10,7 @@
     creds
     cve-prioritizer
     doona
+    exposor
     galleta
     honeytrap
     jwt-cli
