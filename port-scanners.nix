@@ -12,6 +12,7 @@
     naabu
     nmap
     udpx
+    smap
     sx-go
     rustscan
     zmap
