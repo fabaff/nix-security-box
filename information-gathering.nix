@@ -9,7 +9,7 @@
     holehe
     maigret
     metabigor
-    p0f
+    # p0f
     # sn0int
     socialscan
     theharvester
