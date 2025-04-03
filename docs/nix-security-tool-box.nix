@@ -5,6 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     abootimg
+    above
     acltoolkit
     acquire
     adenum
@@ -20,12 +21,12 @@
     amass
     amoco
     androguard
-    anevicon
     apkeep
     apktool
     ares-rs
     arjun
     arp-scan
+    arp-scan-rs
     arping
     arpoison
     atftp
@@ -153,6 +154,7 @@
     exiflooter
     exiv2
     exploitdb
+    exposor
     ext4magic
     extrude
     extundelete
@@ -177,6 +179,7 @@
     gdb
     gef
     genymotion
+    genzai
     ghauri
     ghidra-bin
     ghost
@@ -214,6 +217,7 @@
     hashcat
     hashcat-utils
     hashdeep
+    havn
     hekatomb
     hey
     hivex
@@ -228,7 +232,6 @@
     httpx
     hurl
     iftop
-    ike-scan
     imdshift
     inetutils
     inxi
@@ -301,6 +304,7 @@
     mitmproxy2swagger
     mongoaudit
     monsoon
+    morf
     mosh
     msldapdump
     mtr
@@ -352,7 +356,6 @@
     ostinato
     osv-detector
     osv-scanner
-    p0f
     p7zip
     packetry
     packj
@@ -360,6 +363,7 @@
     padre
     parted
     payload-dumper-go
+    penelope
     pev
     photon
     phrasendrescher
@@ -421,6 +425,7 @@
     safety-cli
     samba
     samba
+    sccmhunter
     scout
     scraper
     scrcpy
@@ -437,8 +442,10 @@
     skjold
     sleuthkit
     slowlorust
+    smap
     smbmap
     smbscan
+    sn0int
     snallygaster
     sngrep
     sniffglue

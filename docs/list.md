@@ -4,6 +4,7 @@ Full list
   
 ```text  
 abootimg  
+above  
 acltoolkit  
 acquire  
 adenum  
@@ -19,12 +20,12 @@ ali
 amass  
 amoco  
 androguard  
-anevicon  
 apkeep  
 apktool  
 ares-rs  
 arjun  
 arp-scan  
+arp-scan-rs  
 arping  
 arpoison  
 atftp  
@@ -152,6 +153,7 @@ evillimiter
 exiflooter  
 exiv2  
 exploitdb  
+exposor  
 ext4magic  
 extrude  
 extundelete  
@@ -176,6 +178,7 @@ gcp-scanner
 gdb  
 gef  
 genymotion  
+genzai  
 ghauri  
 ghidra-bin  
 ghost  
@@ -213,6 +216,7 @@ hans
 hashcat  
 hashcat-utils  
 hashdeep  
+havn  
 hekatomb  
 hey  
 hivex  
@@ -227,7 +231,6 @@ httptunnel
 httpx  
 hurl  
 iftop  
-ike-scan  
 imdshift  
 inetutils  
 inxi  
@@ -300,6 +303,7 @@ mitmproxy
 mitmproxy2swagger  
 mongoaudit  
 monsoon  
+morf  
 mosh  
 msldapdump  
 mtr  
@@ -351,7 +355,6 @@ oshka
 ostinato  
 osv-detector  
 osv-scanner  
-p0f  
 p7zip  
 packetry  
 packj  
@@ -359,6 +362,7 @@ pacu
 padre  
 parted  
 payload-dumper-go  
+penelope  
 pev  
 photon  
 phrasendrescher  
@@ -420,6 +424,7 @@ safecopy
 safety-cli  
 samba  
 samba  
+sccmhunter  
 scout  
 scraper  
 scrcpy  
@@ -436,8 +441,10 @@ sish
 skjold  
 sleuthkit  
 slowlorust  
+smap  
 smbmap  
 smbscan  
+sn0int  
 snallygaster  
 sngrep  
 sniffglue  
