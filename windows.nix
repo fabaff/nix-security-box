@@ -33,6 +33,7 @@
     python3Packages.pypykatz
     rdwatool
     samba
+    sccmhunter
     smbmap
     smbscan
   ];
