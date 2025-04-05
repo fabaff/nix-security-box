@@ -34,6 +34,7 @@
     hakrawler
     python3Packages.hakuin
     hey
+    http-server
     httpx
     nodePackages.hyperpotamus
     jaeles
