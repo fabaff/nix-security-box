@@ -598,6 +598,7 @@ Tool overview
 - [hakrawler](https://search.nixos.org/packages?channel=unstable&show=hakrawler&type=packages&query=hakrawler)  
 - [python3Packages.hakuin](https://search.nixos.org/packages?channel=unstable&show=python3Packages.hakuin&type=packages&query=python3Packages.hakuin)  
 - [hey](https://search.nixos.org/packages?channel=unstable&show=hey&type=packages&query=hey)  
+- [http-server](https://search.nixos.org/packages?channel=unstable&show=http-server&type=packages&query=http-server)  
 - [httpx](https://search.nixos.org/packages?channel=unstable&show=httpx&type=packages&query=httpx)  
 - [nodePackages.hyperpotamus](https://search.nixos.org/packages?channel=unstable&show=nodePackages.hyperpotamus&type=packages&query=nodePackages.hyperpotamus)  
 - [jaeles](https://search.nixos.org/packages?channel=unstable&show=jaeles&type=packages&query=jaeles)  

@@ -227,6 +227,7 @@
     horst
     hping
     hstsparser
+    http-server
     httpie
     httptunnel
     httpx
