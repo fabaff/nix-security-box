@@ -16,6 +16,7 @@
     iperf2
     iputils
     lftp
+    mdns-scanner
     mitm6
     mtr
     ncftp
