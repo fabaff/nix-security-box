@@ -233,7 +233,9 @@
     httpx
     hurl
     iftop
+    ike-scan
     imdshift
+    imhex
     inetutils
     inxi
     ioc-scan
@@ -294,6 +296,7 @@
     mantra
     masscan
     massdns
+    mdns-scanner
     medusa
     metabigor
     metasploit
