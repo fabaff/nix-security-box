@@ -7,7 +7,7 @@
     acltoolkit
     checkip
     ghunt
-    # ike-scan
+    ike-scan
     keepwn
     metasploit
     nbutools
