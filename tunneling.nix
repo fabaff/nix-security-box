@@ -11,6 +11,7 @@
     httptunnel
     iodine
     sish
+    sshuttle
     stunnel
     udptunnel
     wstunnel
