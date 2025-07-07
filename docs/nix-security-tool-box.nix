@@ -467,6 +467,7 @@
     ssh-mitm
     sshchecker
     sshping
+    sshuttle
     ssldump
     sslh
     sslscan

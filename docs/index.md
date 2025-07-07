@@ -233,6 +233,7 @@ Tool overview
 - [httptunnel](https://search.nixos.org/packages?channel=unstable&show=httptunnel&type=packages&query=httptunnel)
 - [iodine](https://search.nixos.org/packages?channel=unstable&show=iodine&type=packages&query=iodine)
 - [sish](https://search.nixos.org/packages?channel=unstable&show=sish&type=packages&query=sish)
+- [sshuttle](https://search.nixos.org/packages?channel=unstable&show=sshuttle&type=packages&query=sshuttle)
 - [stunnel](https://search.nixos.org/packages?channel=unstable&show=stunnel&type=packages&query=stunnel)
 - [udptunnel](https://search.nixos.org/packages?channel=unstable&show=udptunnel&type=packages&query=udptunnel)
 - [wstunnel](https://search.nixos.org/packages?channel=unstable&show=wstunnel&type=packages&query=wstunnel)
