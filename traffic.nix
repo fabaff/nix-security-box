@@ -11,7 +11,7 @@
     dsniff
     goreplay
     joincap
-    junkie
+    # junkie
     netsniff-ng
     ngrep
     secrets-extractor
