@@ -11,6 +11,7 @@
     # cameradar
     cansina
     cariddi
+    cf-hero
     chopchop
     clairvoyance
     commix
