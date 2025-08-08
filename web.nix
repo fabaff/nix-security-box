@@ -8,7 +8,7 @@
     albedo
     arjun
     brakeman
-    # cameradar
+    cameradar
     cansina
     cariddi
     cf-hero
