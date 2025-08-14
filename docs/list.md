@@ -54,6 +54,7 @@ btop
 bully
 burpsuite
 cabextract
+cameradar
 cansina
 cantoolz
 cardpeek
@@ -67,6 +68,7 @@ certi
 certinfo-go
 certipy
 certsync
+cf-hero
 cfripper
 chain-bench
 chainsaw
@@ -252,7 +254,6 @@ jaeles
 john
 joincap
 jsubfinder
-junkie
 jwt-cli
 jwt-hack
 katana
@@ -266,6 +267,7 @@ kismet
 kiterunner
 knockpy
 knowsmore
+kube-hunter
 kube-score
 kubeaudit
 kubescape
