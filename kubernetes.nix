@@ -8,6 +8,7 @@
     checkov
     cirrusgo
     kdigger
+    kube-hunter
     kube-score
     kubeaudit
     kubestroyer
