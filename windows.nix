@@ -28,6 +28,7 @@
     nbtscan
     nbtscanner
     offensive-azure
+    powerview
     pre2k
     python3Packages.lsassy
     python3Packages.pypykatz
