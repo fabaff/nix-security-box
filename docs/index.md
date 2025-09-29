@@ -215,6 +215,7 @@ Tool overview
 - [nbtscan](https://search.nixos.org/packages?channel=unstable&show=nbtscan&type=packages&query=nbtscan)
 - [nbtscanner](https://search.nixos.org/packages?channel=unstable&show=nbtscanner&type=packages&query=nbtscanner)
 - [offensive-azure](https://search.nixos.org/packages?channel=unstable&show=offensive-azure&type=packages&query=offensive-azure)
+- [powerview](https://search.nixos.org/packages?channel=unstable&show=powerview&type=packages&query=powerview)
 - [pre2k](https://search.nixos.org/packages?channel=unstable&show=pre2k&type=packages&query=pre2k)
 - [python3Packages.lsassy](https://search.nixos.org/packages?channel=unstable&show=python3Packages.lsassy&type=packages&query=python3Packages.lsassy)
 - [python3Packages.pypykatz](https://search.nixos.org/packages?channel=unstable&show=python3Packages.pypykatz&type=packages&query=python3Packages.pypykatz)
