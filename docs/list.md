@@ -103,7 +103,6 @@ creds
 crlfsuite
 crunch
 curl
-cutecom
 cutter
 cve-prioritizer
 cyberchef
@@ -556,7 +555,6 @@ wsrepl
 wstunnel
 wtfis
 wuzz
-x3270
 xcrawl3r
 xeol
 xh

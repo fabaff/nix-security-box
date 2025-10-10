@@ -104,7 +104,6 @@
     crlfsuite
     crunch
     curl
-    cutecom
     cutter
     cve-prioritizer
     cyberchef
@@ -557,7 +556,6 @@
     wstunnel
     wtfis
     wuzz
-    x3270
     xcrawl3r
     xeol
     xh

@@ -184,11 +184,9 @@ Tool overview
 
 # Terminals
 
-- [cutecom](https://search.nixos.org/packages?channel=unstable&show=cutecom&type=packages&query=cutecom)
 - [minicom](https://search.nixos.org/packages?channel=unstable&show=minicom&type=packages&query=minicom)
 - [picocom](https://search.nixos.org/packages?channel=unstable&show=picocom&type=packages&query=picocom)
 - [socat](https://search.nixos.org/packages?channel=unstable&show=socat&type=packages&query=socat)
-- [x3270](https://search.nixos.org/packages?channel=unstable&show=x3270&type=packages&query=x3270)
 
 # Windows
 
