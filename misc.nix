@@ -15,6 +15,7 @@
     honeytrap
     jwt-cli
     kepler
+    nali
     nmap-formatter
     penelope
     pwntools
