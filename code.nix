@@ -22,6 +22,7 @@
     packj
     pip-audit
     python310Packages.safety
+    search-vulns
     secretscanner
     skjold
     tell-me-your-secrets
