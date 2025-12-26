@@ -32,6 +32,7 @@
     nosqli
     pysqlrecon
     sqlmap
+    sqlmc
 
     # SNMP
     braa
