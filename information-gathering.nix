@@ -7,6 +7,7 @@
     cloudbrute
     enumerepo
     holehe
+    lse
     maigret
     metabigor
     # p0f
