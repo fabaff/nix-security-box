@@ -21,6 +21,7 @@
     findomain
     knockpy
     massdns
+    subcat
     subfinder
     subprober
     subzerod
