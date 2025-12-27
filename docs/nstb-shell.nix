@@ -290,6 +290,7 @@ mkShell {
     log4j-vuln-scanner
     log4jcheck
     logmap
+    lse
     lynis
     lynx
     macchanger
@@ -316,6 +317,7 @@ mkShell {
     mubeng
     mx-takeover
     naabu
+    nali
     nano
     nasty
     nbtscan
@@ -435,8 +437,10 @@ mkShell {
     scout
     scraper
     scrcpy
+    search-vulns
     secrets-extractor
     secretscanner
+    sh4d0wup
     shellz
     siege
     silenthound
@@ -462,6 +466,7 @@ mkShell {
     sploitscan
     spyre
     sqlmap
+    sqlmc
     sr2t
     srm
     ssdeep
@@ -480,6 +485,7 @@ mkShell {
     step-cli
     sttr
     stunnel
+    subcat
     subfinder
     subjs
     subprober
@@ -565,6 +571,7 @@ mkShell {
     xrdp
     xsubfind3r
     yara
+    yara-x
     yatas
     yersinia
     zap
