@@ -21,6 +21,7 @@
     nth
     phrasendrescher
     python3Packages.patator
+    sh4d0wup
     thc-hydra
     truecrack
   ];
