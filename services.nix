@@ -26,6 +26,7 @@
     trustymail
 
     # Databases
+    agneyastra
     ghauri
     laudanum
     mongoaudit
