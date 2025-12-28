@@ -20,6 +20,7 @@
     enum4linux-ng
     erosmb
     # evil-winrm
+    evil-winrm-py
     go365
     gomapenum
     kerbrute
