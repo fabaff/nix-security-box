@@ -12,6 +12,7 @@ adidnsdump
 adreaper
 afflib
 aflplusplus
+agneyastra
 aiodnsbrute
 aircrack-ng
 airgeddon
@@ -150,6 +151,7 @@ erosmb
 esptool
 eternal-terminal
 ettercap
+evil-winrm-py
 evillimiter
 exiflooter
 exiv2
@@ -411,6 +413,7 @@ python3Packages.pytenable
 python3Packages.r2pipe
 python3Packages.scapy
 python3Packages.unicorn
+pywhisker
 radamsa
 radare2
 radare2-cutter
@@ -463,6 +466,7 @@ snscrape
 socat
 socialscan
 sploitscan
+spraycharles
 spyre
 sqlmap
 sqlmc
@@ -492,6 +496,7 @@ subzerod
 swaggerhole
 swaks
 sx-go
+taskhound
 tcpdump
 tcpflow
 tcpreplay

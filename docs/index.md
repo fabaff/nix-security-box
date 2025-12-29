@@ -376,6 +376,7 @@ Tool overview
 - [ruler](https://search.nixos.org/packages?channel=unstable&show=ruler&type=packages&query=ruler)
 - [swaks](https://search.nixos.org/packages?channel=unstable&show=swaks&type=packages&query=swaks)
 - [trustymail](https://search.nixos.org/packages?channel=unstable&show=trustymail&type=packages&query=trustymail)
+- [agneyastra](https://search.nixos.org/packages?channel=unstable&show=agneyastra&type=packages&query=agneyastra)
 - [ghauri](https://search.nixos.org/packages?channel=unstable&show=ghauri&type=packages&query=ghauri)
 - [laudanum](https://search.nixos.org/packages?channel=unstable&show=laudanum&type=packages&query=laudanum)
 - [mongoaudit](https://search.nixos.org/packages?channel=unstable&show=mongoaudit&type=packages&query=mongoaudit)
@@ -419,7 +420,9 @@ Tool overview
 - [nth](https://search.nixos.org/packages?channel=unstable&show=nth&type=packages&query=nth)
 - [phrasendrescher](https://search.nixos.org/packages?channel=unstable&show=phrasendrescher&type=packages&query=phrasendrescher)
 - [python3Packages.patator](https://search.nixos.org/packages?channel=unstable&show=python3Packages.patator&type=packages&query=python3Packages.patator)
+- [pywhisker](https://search.nixos.org/packages?channel=unstable&show=pywhisker&type=packages&query=pywhisker)
 - [sh4d0wup](https://search.nixos.org/packages?channel=unstable&show=sh4d0wup&type=packages&query=sh4d0wup)
+- [spraycharles](https://search.nixos.org/packages?channel=unstable&show=spraycharles&type=packages&query=spraycharles)
 - [thc-hydra](https://search.nixos.org/packages?channel=unstable&show=thc-hydra&type=packages&query=thc-hydra)
 - [truecrack](https://search.nixos.org/packages?channel=unstable&show=truecrack&type=packages&query=truecrack)
 
@@ -590,6 +593,7 @@ Tool overview
 - [enum4linux](https://search.nixos.org/packages?channel=unstable&show=enum4linux&type=packages&query=enum4linux)
 - [enum4linux-ng](https://search.nixos.org/packages?channel=unstable&show=enum4linux-ng&type=packages&query=enum4linux-ng)
 - [erosmb](https://search.nixos.org/packages?channel=unstable&show=erosmb&type=packages&query=erosmb)
+- [evil-winrm-py](https://search.nixos.org/packages?channel=unstable&show=evil-winrm-py&type=packages&query=evil-winrm-py)
 - [go365](https://search.nixos.org/packages?channel=unstable&show=go365&type=packages&query=go365)
 - [gomapenum](https://search.nixos.org/packages?channel=unstable&show=gomapenum&type=packages&query=gomapenum)
 - [kerbrute](https://search.nixos.org/packages?channel=unstable&show=kerbrute&type=packages&query=kerbrute)
@@ -607,6 +611,7 @@ Tool overview
 - [sccmhunter](https://search.nixos.org/packages?channel=unstable&show=sccmhunter&type=packages&query=sccmhunter)
 - [smbmap](https://search.nixos.org/packages?channel=unstable&show=smbmap&type=packages&query=smbmap)
 - [smbscan](https://search.nixos.org/packages?channel=unstable&show=smbscan&type=packages&query=smbscan)
+- [taskhound](https://search.nixos.org/packages?channel=unstable&show=taskhound&type=packages&query=taskhound)
 
 # Voip
 
