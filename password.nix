@@ -23,6 +23,7 @@
     python3Packages.patator
     pywhisker
     sh4d0wup
+    spraycharles
     thc-hydra
     truecrack
   ];
