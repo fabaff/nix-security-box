@@ -38,5 +38,6 @@
     sccmhunter
     smbmap
     smbscan
+    taskhound
   ];
 }
