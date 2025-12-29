@@ -13,5 +13,6 @@
     fwanalyzer
     grype
     trivy
+    varunastra
   ];
 }
