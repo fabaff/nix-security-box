@@ -10,6 +10,7 @@
     cowpatty
     dbmonster
     hcxdumptool
+    hcxtools
     horst
     killerbee
     kismet
