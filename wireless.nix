@@ -9,6 +9,7 @@
     bully
     cowpatty
     dbmonster
+    hcxdumptool
     horst
     killerbee
     kismet
