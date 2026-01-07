@@ -7,6 +7,7 @@
     # apachetomcatscanner
     albedo
     arjun
+    atac
     brakeman
     cameradar
     cansina
