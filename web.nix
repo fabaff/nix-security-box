@@ -33,6 +33,7 @@
     graphqlmaker
     graphqlmap
     graphw00f
+    h2spec
     hakrawler
     python3Packages.hakuin
     hey
