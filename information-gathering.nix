@@ -11,6 +11,7 @@
     maigret
     metabigor
     # p0f
+    sherlock
     sn0int
     socialscan
     theharvester
