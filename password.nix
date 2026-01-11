@@ -6,7 +6,7 @@
   environment.systemPackages = with pkgs; [
     authoscope
     bruteforce-luks
-    brutespray
+    # brutespray
     conpass
     crunch
     h8mail
