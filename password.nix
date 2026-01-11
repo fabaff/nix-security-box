@@ -15,7 +15,7 @@
     hashdeep
     john
     legba
-    medusa
+    # medusa
     nasty
     ncrack
     nth
