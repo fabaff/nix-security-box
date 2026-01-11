@@ -19,7 +19,7 @@
     nasty
     ncrack
     nth
-    phrasendrescher
+    # phrasendrescher
     python3Packages.patator
     pywhisker
     sh4d0wup
