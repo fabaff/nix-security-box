@@ -13,6 +13,7 @@
     genymotion
     ghost
     morf
+    otadump
     payload-dumper-go
     scrcpy
     simg2img
