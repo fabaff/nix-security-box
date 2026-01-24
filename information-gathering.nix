@@ -11,6 +11,7 @@
     maigret
     metabigor
     # p0f
+    raccoon-scanner
     sherlock
     sn0int
     socialscan
