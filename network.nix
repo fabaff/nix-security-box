@@ -36,6 +36,7 @@
     tunnelgraf
     wbox
     whois
+    whosthere
     yersinia
   ];
 }
