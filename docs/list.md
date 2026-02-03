@@ -29,6 +29,7 @@ arp-scan
 arp-scan-rs
 arping
 arpoison
+atac
 atftp
 authoscope
 autobloody
@@ -50,7 +51,6 @@ braa
 brakeman
 breads-ad
 bruteforce-luks
-brutespray
 btop
 bully
 burpsuite
@@ -212,6 +212,7 @@ grype
 gsan
 gtfocli
 gzrt
+h2spec
 h8mail
 hachoir
 hakrawler
@@ -220,6 +221,8 @@ hashcat
 hashcat-utils
 hashdeep
 havn
+hcxdumptool
+hcxtools
 hekatomb
 hey
 hivex
@@ -285,11 +288,6 @@ libfreefare
 lil-pwny
 linux-exploit-suggester
 lmp
-log4j-detect
-log4j-scan
-log4j-sniffer
-log4j-vuln-scanner
-log4jcheck
 logmap
 lse
 lynis
@@ -300,7 +298,6 @@ mantra
 masscan
 massdns
 mdns-scanner
-medusa
 metabigor
 metasploit
 mfcuk
@@ -364,6 +361,7 @@ oshka
 ostinato
 osv-detector
 osv-scanner
+otadump
 p7zip
 packetry
 packj
@@ -374,7 +372,6 @@ payload-dumper-go
 penelope
 pev
 photon
-phrasendrescher
 picocom
 pingu
 pip-audit
@@ -414,6 +411,7 @@ python3Packages.r2pipe
 python3Packages.scapy
 python3Packages.unicorn
 pywhisker
+raccoon-scanner
 radamsa
 radare2
 radare2-cutter
@@ -444,7 +442,7 @@ secrets-extractor
 secretscanner
 sh4d0wup
 shellz
-siege
+sherlock
 silenthound
 simg2img
 sipp
@@ -465,6 +463,7 @@ snmpcheck
 snscrape
 socat
 socialscan
+spearspray
 sploitscan
 spraycharles
 spyre
@@ -537,6 +536,7 @@ unzip
 urlfinder
 urlhunter
 utillinux
+varunastra
 vegeta
 volatility3
 vulnix
@@ -553,6 +553,7 @@ wget
 whatweb
 whispers
 whois
+whosthere
 wifite2
 wipe
 wireguard-go

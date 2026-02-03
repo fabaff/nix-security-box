@@ -30,6 +30,7 @@
     arp-scan-rs
     arping
     arpoison
+    atac
     atftp
     authoscope
     autobloody
@@ -51,7 +52,6 @@
     brakeman
     breads-ad
     bruteforce-luks
-    brutespray
     btop
     bully
     burpsuite
@@ -213,6 +213,7 @@
     gsan
     gtfocli
     gzrt
+    h2spec
     h8mail
     hachoir
     hakrawler
@@ -221,6 +222,8 @@
     hashcat-utils
     hashdeep
     havn
+    hcxdumptool
+    hcxtools
     hekatomb
     hey
     hivex
@@ -286,11 +289,6 @@
     lil-pwny
     linux-exploit-suggester
     lmp
-    log4j-detect
-    log4j-scan
-    log4j-sniffer
-    log4j-vuln-scanner
-    log4jcheck
     logmap
     lse
     lynis
@@ -301,7 +299,6 @@
     masscan
     massdns
     mdns-scanner
-    medusa
     metabigor
     metasploit
     mfcuk
@@ -365,6 +362,7 @@
     ostinato
     osv-detector
     osv-scanner
+    otadump
     p7zip
     packetry
     packj
@@ -375,7 +373,6 @@
     penelope
     pev
     photon
-    phrasendrescher
     picocom
     pingu
     pip-audit
@@ -415,6 +412,7 @@
     python3Packages.scapy
     python3Packages.unicorn
     pywhisker
+    raccoon-scanner
     radamsa
     radare2
     radare2-cutter
@@ -445,7 +443,7 @@
     secretscanner
     sh4d0wup
     shellz
-    siege
+    sherlock
     silenthound
     simg2img
     sipp
@@ -466,6 +464,7 @@
     snscrape
     socat
     socialscan
+    spearspray
     sploitscan
     spraycharles
     spyre
@@ -538,6 +537,7 @@
     urlfinder
     urlhunter
     utillinux
+    varunastra
     vegeta
     volatility3
     vulnix
@@ -554,6 +554,7 @@
     whatweb
     whispers
     whois
+    whosthere
     wifite2
     wipe
     wireguard-go

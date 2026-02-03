@@ -30,6 +30,7 @@ mkShell {
     arp-scan-rs
     arping
     arpoison
+    atac
     atftp
     authoscope
     autobloody
@@ -51,7 +52,6 @@ mkShell {
     brakeman
     breads-ad
     bruteforce-luks
-    brutespray
     btop
     bully
     burpsuite
@@ -213,6 +213,7 @@ mkShell {
     gsan
     gtfocli
     gzrt
+    h2spec
     h8mail
     hachoir
     hakrawler
@@ -221,6 +222,8 @@ mkShell {
     hashcat-utils
     hashdeep
     havn
+    hcxdumptool
+    hcxtools
     hekatomb
     hey
     hivex
@@ -286,11 +289,6 @@ mkShell {
     lil-pwny
     linux-exploit-suggester
     lmp
-    log4j-detect
-    log4j-scan
-    log4j-sniffer
-    log4j-vuln-scanner
-    log4jcheck
     logmap
     lse
     lynis
@@ -301,7 +299,6 @@ mkShell {
     masscan
     massdns
     mdns-scanner
-    medusa
     metabigor
     metasploit
     mfcuk
@@ -365,6 +362,7 @@ mkShell {
     ostinato
     osv-detector
     osv-scanner
+    otadump
     p7zip
     packetry
     packj
@@ -375,7 +373,6 @@ mkShell {
     penelope
     pev
     photon
-    phrasendrescher
     picocom
     pingu
     pip-audit
@@ -415,6 +412,7 @@ mkShell {
     python3Packages.scapy
     python3Packages.unicorn
     pywhisker
+    raccoon-scanner
     radamsa
     radare2
     radare2-cutter
@@ -445,7 +443,7 @@ mkShell {
     secretscanner
     sh4d0wup
     shellz
-    siege
+    sherlock
     silenthound
     simg2img
     sipp
@@ -466,6 +464,7 @@ mkShell {
     snscrape
     socat
     socialscan
+    spearspray
     sploitscan
     spraycharles
     spyre
@@ -538,6 +537,7 @@ mkShell {
     urlfinder
     urlhunter
     utillinux
+    varunastra
     vegeta
     volatility3
     vulnix
@@ -554,6 +554,7 @@ mkShell {
     whatweb
     whispers
     whois
+    whosthere
     wifite2
     wipe
     wireguard-go

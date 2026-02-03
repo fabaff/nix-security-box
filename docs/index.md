@@ -9,6 +9,8 @@ Tool overview
 - [bully](https://search.nixos.org/packages?channel=unstable&show=bully&type=packages&query=bully)
 - [cowpatty](https://search.nixos.org/packages?channel=unstable&show=cowpatty&type=packages&query=cowpatty)
 - [dbmonster](https://search.nixos.org/packages?channel=unstable&show=dbmonster&type=packages&query=dbmonster)
+- [hcxdumptool](https://search.nixos.org/packages?channel=unstable&show=hcxdumptool&type=packages&query=hcxdumptool)
+- [hcxtools](https://search.nixos.org/packages?channel=unstable&show=hcxtools&type=packages&query=hcxtools)
 - [horst](https://search.nixos.org/packages?channel=unstable&show=horst&type=packages&query=horst)
 - [killerbee](https://search.nixos.org/packages?channel=unstable&show=killerbee&type=packages&query=killerbee)
 - [kismet](https://search.nixos.org/packages?channel=unstable&show=kismet&type=packages&query=kismet)
@@ -135,7 +137,6 @@ Tool overview
 - [cassowary](https://search.nixos.org/packages?channel=unstable&show=cassowary&type=packages&query=cassowary)
 - [ddosify](https://search.nixos.org/packages?channel=unstable&show=ddosify&type=packages&query=ddosify)
 - [oha](https://search.nixos.org/packages?channel=unstable&show=oha&type=packages&query=oha)
-- [siege](https://search.nixos.org/packages?channel=unstable&show=siege&type=packages&query=siege)
 - [tsung](https://search.nixos.org/packages?channel=unstable&show=tsung&type=packages&query=tsung)
 - [vegeta](https://search.nixos.org/packages?channel=unstable&show=vegeta&type=packages&query=vegeta)
 
@@ -167,6 +168,7 @@ Tool overview
 
 - [albedo](https://search.nixos.org/packages?channel=unstable&show=albedo&type=packages&query=albedo)
 - [arjun](https://search.nixos.org/packages?channel=unstable&show=arjun&type=packages&query=arjun)
+- [atac](https://search.nixos.org/packages?channel=unstable&show=atac&type=packages&query=atac)
 - [brakeman](https://search.nixos.org/packages?channel=unstable&show=brakeman&type=packages&query=brakeman)
 - [cameradar](https://search.nixos.org/packages?channel=unstable&show=cameradar&type=packages&query=cameradar)
 - [cansina](https://search.nixos.org/packages?channel=unstable&show=cansina&type=packages&query=cansina)
@@ -192,6 +194,7 @@ Tool overview
 - [graphqlmaker](https://search.nixos.org/packages?channel=unstable&show=graphqlmaker&type=packages&query=graphqlmaker)
 - [graphqlmap](https://search.nixos.org/packages?channel=unstable&show=graphqlmap&type=packages&query=graphqlmap)
 - [graphw00f](https://search.nixos.org/packages?channel=unstable&show=graphw00f&type=packages&query=graphw00f)
+- [h2spec](https://search.nixos.org/packages?channel=unstable&show=h2spec&type=packages&query=h2spec)
 - [hakrawler](https://search.nixos.org/packages?channel=unstable&show=hakrawler&type=packages&query=hakrawler)
 - [python3Packages.hakuin](https://search.nixos.org/packages?channel=unstable&show=python3Packages.hakuin&type=packages&query=python3Packages.hakuin)
 - [hey](https://search.nixos.org/packages?channel=unstable&show=hey&type=packages&query=hey)
@@ -254,6 +257,7 @@ Tool overview
 - [genymotion](https://search.nixos.org/packages?channel=unstable&show=genymotion&type=packages&query=genymotion)
 - [ghost](https://search.nixos.org/packages?channel=unstable&show=ghost&type=packages&query=ghost)
 - [morf](https://search.nixos.org/packages?channel=unstable&show=morf&type=packages&query=morf)
+- [otadump](https://search.nixos.org/packages?channel=unstable&show=otadump&type=packages&query=otadump)
 - [payload-dumper-go](https://search.nixos.org/packages?channel=unstable&show=payload-dumper-go&type=packages&query=payload-dumper-go)
 - [scrcpy](https://search.nixos.org/packages?channel=unstable&show=scrcpy&type=packages&query=scrcpy)
 - [simg2img](https://search.nixos.org/packages?channel=unstable&show=simg2img&type=packages&query=simg2img)
@@ -405,7 +409,6 @@ Tool overview
 
 - [authoscope](https://search.nixos.org/packages?channel=unstable&show=authoscope&type=packages&query=authoscope)
 - [bruteforce-luks](https://search.nixos.org/packages?channel=unstable&show=bruteforce-luks&type=packages&query=bruteforce-luks)
-- [brutespray](https://search.nixos.org/packages?channel=unstable&show=brutespray&type=packages&query=brutespray)
 - [conpass](https://search.nixos.org/packages?channel=unstable&show=conpass&type=packages&query=conpass)
 - [crunch](https://search.nixos.org/packages?channel=unstable&show=crunch&type=packages&query=crunch)
 - [h8mail](https://search.nixos.org/packages?channel=unstable&show=h8mail&type=packages&query=h8mail)
@@ -414,14 +417,13 @@ Tool overview
 - [hashdeep](https://search.nixos.org/packages?channel=unstable&show=hashdeep&type=packages&query=hashdeep)
 - [john](https://search.nixos.org/packages?channel=unstable&show=john&type=packages&query=john)
 - [legba](https://search.nixos.org/packages?channel=unstable&show=legba&type=packages&query=legba)
-- [medusa](https://search.nixos.org/packages?channel=unstable&show=medusa&type=packages&query=medusa)
 - [nasty](https://search.nixos.org/packages?channel=unstable&show=nasty&type=packages&query=nasty)
 - [ncrack](https://search.nixos.org/packages?channel=unstable&show=ncrack&type=packages&query=ncrack)
 - [nth](https://search.nixos.org/packages?channel=unstable&show=nth&type=packages&query=nth)
-- [phrasendrescher](https://search.nixos.org/packages?channel=unstable&show=phrasendrescher&type=packages&query=phrasendrescher)
 - [python3Packages.patator](https://search.nixos.org/packages?channel=unstable&show=python3Packages.patator&type=packages&query=python3Packages.patator)
 - [pywhisker](https://search.nixos.org/packages?channel=unstable&show=pywhisker&type=packages&query=pywhisker)
 - [sh4d0wup](https://search.nixos.org/packages?channel=unstable&show=sh4d0wup&type=packages&query=sh4d0wup)
+- [spearspray](https://search.nixos.org/packages?channel=unstable&show=spearspray&type=packages&query=spearspray)
 - [spraycharles](https://search.nixos.org/packages?channel=unstable&show=spraycharles&type=packages&query=spraycharles)
 - [thc-hydra](https://search.nixos.org/packages?channel=unstable&show=thc-hydra&type=packages&query=thc-hydra)
 - [truecrack](https://search.nixos.org/packages?channel=unstable&show=truecrack&type=packages&query=truecrack)
@@ -461,6 +463,7 @@ Tool overview
 - [fwanalyzer](https://search.nixos.org/packages?channel=unstable&show=fwanalyzer&type=packages&query=fwanalyzer)
 - [grype](https://search.nixos.org/packages?channel=unstable&show=grype&type=packages&query=grype)
 - [trivy](https://search.nixos.org/packages?channel=unstable&show=trivy&type=packages&query=trivy)
+- [varunastra](https://search.nixos.org/packages?channel=unstable&show=varunastra&type=packages&query=varunastra)
 
 # Bluetooth
 
@@ -511,11 +514,6 @@ Tool overview
 - [padre](https://search.nixos.org/packages?channel=unstable&show=padre&type=packages&query=padre)
 - [sploitscan](https://search.nixos.org/packages?channel=unstable&show=sploitscan&type=packages&query=sploitscan)
 - [lmp](https://search.nixos.org/packages?channel=unstable&show=lmp&type=packages&query=lmp)
-- [log4jcheck](https://search.nixos.org/packages?channel=unstable&show=log4jcheck&type=packages&query=log4jcheck)
-- [log4j-detect](https://search.nixos.org/packages?channel=unstable&show=log4j-detect&type=packages&query=log4j-detect)
-- [log4j-scan](https://search.nixos.org/packages?channel=unstable&show=log4j-scan&type=packages&query=log4j-scan)
-- [log4j-sniffer](https://search.nixos.org/packages?channel=unstable&show=log4j-sniffer&type=packages&query=log4j-sniffer)
-- [log4j-vuln-scanner](https://search.nixos.org/packages?channel=unstable&show=log4j-vuln-scanner&type=packages&query=log4j-vuln-scanner)
 - [logmap](https://search.nixos.org/packages?channel=unstable&show=logmap&type=packages&query=logmap)
 
 # Information gathering
@@ -526,6 +524,8 @@ Tool overview
 - [lse](https://search.nixos.org/packages?channel=unstable&show=lse&type=packages&query=lse)
 - [maigret](https://search.nixos.org/packages?channel=unstable&show=maigret&type=packages&query=maigret)
 - [metabigor](https://search.nixos.org/packages?channel=unstable&show=metabigor&type=packages&query=metabigor)
+- [raccoon-scanner](https://search.nixos.org/packages?channel=unstable&show=raccoon-scanner&type=packages&query=raccoon-scanner)
+- [sherlock](https://search.nixos.org/packages?channel=unstable&show=sherlock&type=packages&query=sherlock)
 - [sn0int](https://search.nixos.org/packages?channel=unstable&show=sn0int&type=packages&query=sn0int)
 - [socialscan](https://search.nixos.org/packages?channel=unstable&show=socialscan&type=packages&query=socialscan)
 - [theharvester](https://search.nixos.org/packages?channel=unstable&show=theharvester&type=packages&query=theharvester)
@@ -654,6 +654,7 @@ Tool overview
 - [tunnelgraf](https://search.nixos.org/packages?channel=unstable&show=tunnelgraf&type=packages&query=tunnelgraf)
 - [wbox](https://search.nixos.org/packages?channel=unstable&show=wbox&type=packages&query=wbox)
 - [whois](https://search.nixos.org/packages?channel=unstable&show=whois&type=packages&query=whois)
+- [whosthere](https://search.nixos.org/packages?channel=unstable&show=whosthere&type=packages&query=whosthere)
 - [yersinia](https://search.nixos.org/packages?channel=unstable&show=yersinia&type=packages&query=yersinia)
 
 # Malware
