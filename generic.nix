@@ -32,6 +32,7 @@
     utillinux
     wget
     xh
+    xnldorker
 
     # Monitoring
     btop
