@@ -51,6 +51,13 @@
     waf-tester
     wafw00f
 
+    # Post-quantum
+    tlsanalyser
+    cryptoscan
+    mini-pqc
+    pqc-bench
+    pqcscan
+
     # CI
     oshka
     trajan
