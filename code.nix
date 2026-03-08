@@ -22,6 +22,7 @@
     packj
     pip-audit
     python310Packages.safety
+    qbom
     search-vulns
     secretscanner
     skjold
