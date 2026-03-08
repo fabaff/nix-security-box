@@ -53,6 +53,7 @@
 
     # CI
     oshka
+    trajan
 
     # Terraform
     terrascan
