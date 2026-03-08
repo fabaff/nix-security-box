@@ -11,6 +11,7 @@
     keepwn
     metasploit
     nbutools
+    nerva
     nuclei
     nuclei-templates
     openrisk
