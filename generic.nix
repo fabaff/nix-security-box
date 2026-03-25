@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    certinfo-go
     chrony
     clamav
     curl
