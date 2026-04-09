@@ -25,6 +25,7 @@
     python310Packages.safety
     qbom
     search-vulns
+    secrethound
     secretscanner
     skjold
     tell-me-your-secrets
