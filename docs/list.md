@@ -67,6 +67,7 @@ cdncheck
 cero
 certi
 certinfo-go
+certinfo-go
 certipy
 certsync
 cf-hero
@@ -103,6 +104,7 @@ credential-detector
 creds
 crlfsuite
 crunch
+cryptoscan
 curl
 cutter
 cve-prioritizer
@@ -302,6 +304,7 @@ metabigor
 metasploit
 mfcuk
 mfoc
+mini-pqc
 minicom
 mitm6
 mitmproxy
@@ -323,6 +326,7 @@ nbtscanner
 nbutools
 ncftp
 ncrack
+nerva
 net-snmp
 netcat-gnu
 netdiscover
@@ -381,6 +385,8 @@ plecost
 popeye
 poutine
 powerview
+pqc-bench
+pqcscan
 pre2k
 prowler
 proxify
@@ -411,6 +417,7 @@ python3Packages.r2pipe
 python3Packages.scapy
 python3Packages.unicorn
 pywhisker
+qbom
 raccoon-scanner
 radamsa
 radare2
@@ -459,7 +466,7 @@ sn0int
 snallygaster
 sngrep
 sniffglue
-snmpcheck
+snmpen
 snscrape
 socat
 socialscan
@@ -510,11 +517,13 @@ testssl
 tfsec
 thc-hydra
 theharvester
+tlsanalyser
 tlsinfo
 tlsx
 tmux
 tracee
 traitor
+trajan
 trivy
 troubadix
 truecrack
@@ -570,6 +579,7 @@ wuzz
 xcrawl3r
 xeol
 xh
+xnldorker
 xnlinkfinder
 xorex
 xortool

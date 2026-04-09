@@ -68,6 +68,7 @@ mkShell {
     cero
     certi
     certinfo-go
+    certinfo-go
     certipy
     certsync
     cf-hero
@@ -104,6 +105,7 @@ mkShell {
     creds
     crlfsuite
     crunch
+    cryptoscan
     curl
     cutter
     cve-prioritizer
@@ -303,6 +305,7 @@ mkShell {
     metasploit
     mfcuk
     mfoc
+    mini-pqc
     minicom
     mitm6
     mitmproxy
@@ -324,6 +327,7 @@ mkShell {
     nbutools
     ncftp
     ncrack
+    nerva
     net-snmp
     netcat-gnu
     netdiscover
@@ -382,6 +386,8 @@ mkShell {
     popeye
     poutine
     powerview
+    pqc-bench
+    pqcscan
     pre2k
     prowler
     proxify
@@ -412,6 +418,7 @@ mkShell {
     python3Packages.scapy
     python3Packages.unicorn
     pywhisker
+    qbom
     raccoon-scanner
     radamsa
     radare2
@@ -460,7 +467,7 @@ mkShell {
     snallygaster
     sngrep
     sniffglue
-    snmpcheck
+    snmpen
     snscrape
     socat
     socialscan
@@ -511,11 +518,13 @@ mkShell {
     tfsec
     thc-hydra
     theharvester
+    tlsanalyser
     tlsinfo
     tlsx
     tmux
     tracee
     traitor
+    trajan
     trivy
     troubadix
     truecrack
@@ -571,6 +580,7 @@ mkShell {
     xcrawl3r
     xeol
     xh
+    xnldorker
     xnlinkfinder
     xorex
     xortool
