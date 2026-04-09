@@ -40,6 +40,7 @@
     braa
     onesixtyone
     snmpcheck
+    snmpen
 
     # SSH
     baboossh
