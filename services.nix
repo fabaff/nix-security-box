@@ -39,7 +39,6 @@
     # SNMP
     braa
     onesixtyone
-    snmpcheck
     snmpen
 
     # SSH
