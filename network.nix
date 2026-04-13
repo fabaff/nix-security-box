@@ -34,7 +34,7 @@
     sshping
     sslh
     tcping-rs
-    tunnelgraf
+    # tunnelgraf
     wbox
     whois
     whosthere
