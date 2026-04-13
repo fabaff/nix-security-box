@@ -508,7 +508,9 @@ mkShell {
     taskhound
     tcpdump
     tcpflow
+    tcping-rs
     tcpreplay
+    tcptraceroute
     teensy-loader-cli
     teler
     tell-me-your-secrets
@@ -534,7 +536,6 @@ mkShell {
     trufflehog
     trustymail
     tsung
-    tunnelgraf
     tytools
     ubertooth
     uddup

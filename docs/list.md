@@ -507,7 +507,9 @@ sx-go
 taskhound
 tcpdump
 tcpflow
+tcping-rs
 tcpreplay
+tcptraceroute
 teensy-loader-cli
 teler
 tell-me-your-secrets
@@ -533,7 +535,6 @@ trueseeing
 trufflehog
 trustymail
 tsung
-tunnelgraf
 tytools
 ubertooth
 uddup
