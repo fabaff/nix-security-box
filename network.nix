@@ -33,6 +33,7 @@
     rustcat
     sshping
     sslh
+    tcping-rs
     tunnelgraf
     wbox
     whois
