@@ -34,6 +34,7 @@
     sshping
     sslh
     tcping-rs
+    tcptraceroute
     # tunnelgraf
     wbox
     whois
