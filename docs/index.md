@@ -97,6 +97,7 @@ Tool overview
 
 # Code
 
+- [betterleaks](https://search.nixos.org/packages?channel=unstable&show=betterleaks&type=packages&query=betterleaks)
 - [bomber-go](https://search.nixos.org/packages?channel=unstable&show=bomber-go&type=packages&query=bomber-go)
 - [cargo-audit](https://search.nixos.org/packages?channel=unstable&show=cargo-audit&type=packages&query=cargo-audit)
 - [credential-detector](https://search.nixos.org/packages?channel=unstable&show=credential-detector&type=packages&query=credential-detector)
@@ -116,6 +117,7 @@ Tool overview
 - [python310Packages.safety](https://search.nixos.org/packages?channel=unstable&show=python310Packages.safety&type=packages&query=python310Packages.safety)
 - [qbom](https://search.nixos.org/packages?channel=unstable&show=qbom&type=packages&query=qbom)
 - [search-vulns](https://search.nixos.org/packages?channel=unstable&show=search-vulns&type=packages&query=search-vulns)
+- [secrethound](https://search.nixos.org/packages?channel=unstable&show=secrethound&type=packages&query=secrethound)
 - [secretscanner](https://search.nixos.org/packages?channel=unstable&show=secretscanner&type=packages&query=secretscanner)
 - [skjold](https://search.nixos.org/packages?channel=unstable&show=skjold&type=packages&query=skjold)
 - [tell-me-your-secrets](https://search.nixos.org/packages?channel=unstable&show=tell-me-your-secrets&type=packages&query=tell-me-your-secrets)
@@ -473,6 +475,7 @@ Tool overview
 - [fwanalyzer](https://search.nixos.org/packages?channel=unstable&show=fwanalyzer&type=packages&query=fwanalyzer)
 - [grype](https://search.nixos.org/packages?channel=unstable&show=grype&type=packages&query=grype)
 - [trivy](https://search.nixos.org/packages?channel=unstable&show=trivy&type=packages&query=trivy)
+- [unblob](https://search.nixos.org/packages?channel=unstable&show=unblob&type=packages&query=unblob)
 - [varunastra](https://search.nixos.org/packages?channel=unstable&show=varunastra&type=packages&query=varunastra)
 
 # Bluetooth

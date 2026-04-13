@@ -39,6 +39,7 @@ mkShell {
     badchars
     bandwhich
     bettercap
+    betterleaks
     bind
     bingrep
     bloodhound-py
@@ -446,6 +447,7 @@ mkShell {
     scraper
     scrcpy
     search-vulns
+    secrethound
     secrets-extractor
     secretscanner
     sh4d0wup
@@ -538,6 +540,7 @@ mkShell {
     uddup
     udptunnel
     udpx
+    unblob
     uncover
     unicorn
     unicorn-emu

@@ -39,6 +39,7 @@
     badchars
     bandwhich
     bettercap
+    betterleaks
     bind
     bingrep
     bloodhound-py
@@ -446,6 +447,7 @@
     scraper
     scrcpy
     search-vulns
+    secrethound
     secrets-extractor
     secretscanner
     sh4d0wup
@@ -538,6 +540,7 @@
     uddup
     udptunnel
     udpx
+    unblob
     uncover
     unicorn
     unicorn-emu
