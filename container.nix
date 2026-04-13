@@ -13,6 +13,7 @@
     fwanalyzer
     grype
     trivy
+    unblob
     varunastra
   ];
 }
