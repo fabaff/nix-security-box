@@ -39,6 +39,7 @@
     wbox
     whois
     whosthere
+    wtcat
     yersinia
   ];
 }
