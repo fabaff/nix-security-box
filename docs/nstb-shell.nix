@@ -579,6 +579,7 @@ mkShell {
     wpscan
     wsrepl
     wstunnel
+    wtcat
     wtfis
     wuzz
     xcrawl3r

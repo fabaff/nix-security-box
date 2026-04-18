@@ -669,6 +669,7 @@ Tool overview
 - [wbox](https://search.nixos.org/packages?channel=unstable&show=wbox&type=packages&query=wbox)
 - [whois](https://search.nixos.org/packages?channel=unstable&show=whois&type=packages&query=whois)
 - [whosthere](https://search.nixos.org/packages?channel=unstable&show=whosthere&type=packages&query=whosthere)
+- [wtcat](https://search.nixos.org/packages?channel=unstable&show=wtcat&type=packages&query=wtcat)
 - [yersinia](https://search.nixos.org/packages?channel=unstable&show=yersinia&type=packages&query=yersinia)
 
 # Malware
