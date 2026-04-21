@@ -226,6 +226,7 @@ Tool overview
 - [uddup](https://search.nixos.org/packages?channel=unstable&show=uddup&type=packages&query=uddup)
 - [urlfinder](https://search.nixos.org/packages?channel=unstable&show=urlfinder&type=packages&query=urlfinder)
 - [wad](https://search.nixos.org/packages?channel=unstable&show=wad&type=packages&query=wad)
+- [wappalyzergo](https://search.nixos.org/packages?channel=unstable&show=wappalyzergo&type=packages&query=wappalyzergo)
 - [webanalyze](https://search.nixos.org/packages?channel=unstable&show=webanalyze&type=packages&query=webanalyze)
 - [websecprobe](https://search.nixos.org/packages?channel=unstable&show=websecprobe&type=packages&query=websecprobe)
 - [whatweb](https://search.nixos.org/packages?channel=unstable&show=whatweb&type=packages&query=whatweb)

@@ -558,6 +558,7 @@ mkShell {
     wad
     waf-tester
     wafw00f
+    wappalyzergo
     wavemon
     wbox
     webanalyze
