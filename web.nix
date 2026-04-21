@@ -62,6 +62,7 @@
     uddup
     urlfinder
     wad
+    wappalyzergo
     webanalyze
     websecprobe
     whatweb
