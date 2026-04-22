@@ -61,6 +61,7 @@
     swaggerhole
     uddup
     urlfinder
+    urx
     wad
     wappalyzergo
     webanalyze
