@@ -8,6 +8,7 @@
     clair
     cliam
     cloudlist
+    copacetic
     dive
     dockle
     fwanalyzer
