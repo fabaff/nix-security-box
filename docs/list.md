@@ -98,6 +98,7 @@ cmospwd
 coercer
 commix
 conpass
+copacetic
 corkscrew
 cowpatty
 crackql
@@ -228,6 +229,7 @@ hcxdumptool
 hcxtools
 hekatomb
 hey
+hfinger
 hivex
 holehe
 honeytrap
@@ -548,6 +550,7 @@ unrar
 unzip
 urlfinder
 urlhunter
+urx
 utillinux
 varunastra
 vegeta

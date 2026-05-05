@@ -99,6 +99,7 @@
     coercer
     commix
     conpass
+    copacetic
     corkscrew
     cowpatty
     crackql
@@ -229,6 +230,7 @@
     hcxtools
     hekatomb
     hey
+    hfinger
     hivex
     holehe
     honeytrap
@@ -549,6 +551,7 @@
     unzip
     urlfinder
     urlhunter
+    urx
     utillinux
     varunastra
     vegeta

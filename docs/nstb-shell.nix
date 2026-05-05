@@ -99,6 +99,7 @@ mkShell {
     coercer
     commix
     conpass
+    copacetic
     corkscrew
     cowpatty
     crackql
@@ -229,6 +230,7 @@ mkShell {
     hcxtools
     hekatomb
     hey
+    hfinger
     hivex
     holehe
     honeytrap
@@ -549,6 +551,7 @@ mkShell {
     unzip
     urlfinder
     urlhunter
+    urx
     utillinux
     varunastra
     vegeta
