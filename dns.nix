@@ -21,6 +21,7 @@
     findomain
     knockpy
     massdns
+    mhost
     subcat
     subfinder
     subprober
