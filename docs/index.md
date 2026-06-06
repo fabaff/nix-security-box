@@ -26,6 +26,7 @@ Tool overview
 - [cantoolz](https://search.nixos.org/packages?channel=unstable&show=cantoolz&type=packages&query=cantoolz)
 - [chipsec](https://search.nixos.org/packages?channel=unstable&show=chipsec&type=packages&query=chipsec)
 - [cmospwd](https://search.nixos.org/packages?channel=unstable&show=cmospwd&type=packages&query=cmospwd)
+- [embedxpl](https://search.nixos.org/packages?channel=unstable&show=embedxpl&type=packages&query=embedxpl)
 - [esptool](https://search.nixos.org/packages?channel=unstable&show=esptool&type=packages&query=esptool)
 - [extrude](https://search.nixos.org/packages?channel=unstable&show=extrude&type=packages&query=extrude)
 - [gallia](https://search.nixos.org/packages?channel=unstable&show=gallia&type=packages&query=gallia)
@@ -160,6 +161,7 @@ Tool overview
 - [ipscan](https://search.nixos.org/packages?channel=unstable&show=ipscan&type=packages&query=ipscan)
 - [masscan](https://search.nixos.org/packages?channel=unstable&show=masscan&type=packages&query=masscan)
 - [naabu](https://search.nixos.org/packages?channel=unstable&show=naabu&type=packages&query=naabu)
+- [netscan](https://search.nixos.org/packages?channel=unstable&show=netscan&type=packages&query=netscan)
 - [nmap](https://search.nixos.org/packages?channel=unstable&show=nmap&type=packages&query=nmap)
 - [udpx](https://search.nixos.org/packages?channel=unstable&show=udpx&type=packages&query=udpx)
 - [smap](https://search.nixos.org/packages?channel=unstable&show=smap&type=packages&query=smap)
@@ -586,6 +588,7 @@ Tool overview
 - [findomain](https://search.nixos.org/packages?channel=unstable&show=findomain&type=packages&query=findomain)
 - [knockpy](https://search.nixos.org/packages?channel=unstable&show=knockpy&type=packages&query=knockpy)
 - [massdns](https://search.nixos.org/packages?channel=unstable&show=massdns&type=packages&query=massdns)
+- [mhost](https://search.nixos.org/packages?channel=unstable&show=mhost&type=packages&query=mhost)
 - [subcat](https://search.nixos.org/packages?channel=unstable&show=subcat&type=packages&query=subcat)
 - [subfinder](https://search.nixos.org/packages?channel=unstable&show=subfinder&type=packages&query=subfinder)
 - [subprober](https://search.nixos.org/packages?channel=unstable&show=subprober&type=packages&query=subprober)
@@ -678,6 +681,7 @@ Tool overview
 # Malware
 
 - [bingrep](https://search.nixos.org/packages?channel=unstable&show=bingrep&type=packages&query=bingrep)
+- [capa](https://search.nixos.org/packages?channel=unstable&show=capa&type=packages&query=capa)
 - [cutter](https://search.nixos.org/packages?channel=unstable&show=cutter&type=packages&query=cutter)
 - [flare-floss](https://search.nixos.org/packages?channel=unstable&show=flare-floss&type=packages&query=flare-floss)
 - [gdb](https://search.nixos.org/packages?channel=unstable&show=gdb&type=packages&query=gdb)

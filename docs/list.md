@@ -59,6 +59,7 @@ cabextract
 cameradar
 cansina
 cantoolz
+capa
 cardpeek
 cargo-audit
 cariddi
@@ -148,6 +149,7 @@ drill
 dsniff
 easyeasm
 ec2stepshell
+embedxpl
 enum4linux
 enum4linux-ng
 enumerepo
@@ -307,6 +309,7 @@ metabigor
 metasploit
 mfcuk
 mfoc
+mhost
 mini-pqc
 minicom
 mitm6
@@ -335,6 +338,7 @@ netcat-gnu
 netdiscover
 netexec
 netmask
+netscan
 netscanner
 netsniff-ng
 nfs-utils
