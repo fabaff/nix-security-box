@@ -9,6 +9,7 @@
     ipscan
     masscan
     naabu
+    netscan
     nmap
     udpx
     smap
