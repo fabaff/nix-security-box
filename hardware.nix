@@ -7,6 +7,7 @@
     cantoolz
     chipsec
     cmospwd
+    embedxpl
     esptool
     extrude
     gallia
