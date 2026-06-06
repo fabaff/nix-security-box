@@ -15,6 +15,7 @@
     evillimiter
     iperf2
     iputils
+    jwhois
     lftp
     mdns-scanner
     mitm6
