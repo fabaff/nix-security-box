@@ -28,6 +28,7 @@
     pingu
     putty
     pwnat
+    rdap
     responder
     route-graph
     rustcat
