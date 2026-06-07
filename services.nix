@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     acltoolkit
     checkip
+    cert-x-gen
     ghunt
     ike-scan
     keepwn
