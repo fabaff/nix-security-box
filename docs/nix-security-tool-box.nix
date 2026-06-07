@@ -68,6 +68,7 @@
     cdk-go
     cdncheck
     cero
+    cert-x-gen
     certi
     certinfo-go
     certinfo-go
@@ -141,6 +142,7 @@
     dnsvalidator
     dnsx
     dockle
+    domain-check
     donpapi
     dontgo403
     doona
@@ -266,6 +268,7 @@
     john
     joincap
     jsubfinder
+    jwhois
     jwt-cli
     jwt-hack
     katana
@@ -302,6 +305,7 @@
     lynx
     macchanger
     maigret
+    malwoverview
     mantra
     masscan
     massdns
@@ -422,6 +426,7 @@
     python3Packages.pyspiflash
     python3Packages.pytenable
     python3Packages.r2pipe
+    python3Packages.scalib
     python3Packages.scapy
     python3Packages.unicorn
     pywhisker
@@ -430,6 +435,7 @@
     radamsa
     radare2
     radare2-cutter
+    rdap
     rdwatool
     reaverwps
     recoverjpeg

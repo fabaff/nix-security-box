@@ -373,6 +373,7 @@ Tool overview
 
 - [acltoolkit](https://search.nixos.org/packages?channel=unstable&show=acltoolkit&type=packages&query=acltoolkit)
 - [checkip](https://search.nixos.org/packages?channel=unstable&show=checkip&type=packages&query=checkip)
+- [cert-x-gen](https://search.nixos.org/packages?channel=unstable&show=cert-x-gen&type=packages&query=cert-x-gen)
 - [ghunt](https://search.nixos.org/packages?channel=unstable&show=ghunt&type=packages&query=ghunt)
 - [ike-scan](https://search.nixos.org/packages?channel=unstable&show=ike-scan&type=packages&query=ike-scan)
 - [keepwn](https://search.nixos.org/packages?channel=unstable&show=keepwn&type=packages&query=keepwn)
@@ -533,6 +534,7 @@ Tool overview
 - [sploitscan](https://search.nixos.org/packages?channel=unstable&show=sploitscan&type=packages&query=sploitscan)
 - [lmp](https://search.nixos.org/packages?channel=unstable&show=lmp&type=packages&query=lmp)
 - [logmap](https://search.nixos.org/packages?channel=unstable&show=logmap&type=packages&query=logmap)
+- [python3Packages.scalib](https://search.nixos.org/packages?channel=unstable&show=python3Packages.scalib&type=packages&query=python3Packages.scalib)
 
 # Information gathering
 
@@ -584,6 +586,7 @@ Tool overview
 - [dnspeep](https://search.nixos.org/packages?channel=unstable&show=dnspeep&type=packages&query=dnspeep)
 - [dnsvalidator](https://search.nixos.org/packages?channel=unstable&show=dnsvalidator&type=packages&query=dnsvalidator)
 - [dnsx](https://search.nixos.org/packages?channel=unstable&show=dnsx&type=packages&query=dnsx)
+- [domain-check](https://search.nixos.org/packages?channel=unstable&show=domain-check&type=packages&query=domain-check)
 - [fierce](https://search.nixos.org/packages?channel=unstable&show=fierce&type=packages&query=fierce)
 - [findomain](https://search.nixos.org/packages?channel=unstable&show=findomain&type=packages&query=findomain)
 - [knockpy](https://search.nixos.org/packages?channel=unstable&show=knockpy&type=packages&query=knockpy)
@@ -652,6 +655,7 @@ Tool overview
 - [evillimiter](https://search.nixos.org/packages?channel=unstable&show=evillimiter&type=packages&query=evillimiter)
 - [iperf2](https://search.nixos.org/packages?channel=unstable&show=iperf2&type=packages&query=iperf2)
 - [iputils](https://search.nixos.org/packages?channel=unstable&show=iputils&type=packages&query=iputils)
+- [jwhois](https://search.nixos.org/packages?channel=unstable&show=jwhois&type=packages&query=jwhois)
 - [lftp](https://search.nixos.org/packages?channel=unstable&show=lftp&type=packages&query=lftp)
 - [mdns-scanner](https://search.nixos.org/packages?channel=unstable&show=mdns-scanner&type=packages&query=mdns-scanner)
 - [mitm6](https://search.nixos.org/packages?channel=unstable&show=mitm6&type=packages&query=mitm6)
@@ -665,6 +669,7 @@ Tool overview
 - [pingu](https://search.nixos.org/packages?channel=unstable&show=pingu&type=packages&query=pingu)
 - [putty](https://search.nixos.org/packages?channel=unstable&show=putty&type=packages&query=putty)
 - [pwnat](https://search.nixos.org/packages?channel=unstable&show=pwnat&type=packages&query=pwnat)
+- [rdap](https://search.nixos.org/packages?channel=unstable&show=rdap&type=packages&query=rdap)
 - [responder](https://search.nixos.org/packages?channel=unstable&show=responder&type=packages&query=responder)
 - [route-graph](https://search.nixos.org/packages?channel=unstable&show=route-graph&type=packages&query=route-graph)
 - [rustcat](https://search.nixos.org/packages?channel=unstable&show=rustcat&type=packages&query=rustcat)
@@ -689,6 +694,7 @@ Tool overview
 - [hfinger](https://search.nixos.org/packages?channel=unstable&show=hfinger&type=packages&query=hfinger)
 - [imhex](https://search.nixos.org/packages?channel=unstable&show=imhex&type=packages&query=imhex)
 - [ioc-scan](https://search.nixos.org/packages?channel=unstable&show=ioc-scan&type=packages&query=ioc-scan)
+- [malwoverview](https://search.nixos.org/packages?channel=unstable&show=malwoverview&type=packages&query=malwoverview)
 - [pev](https://search.nixos.org/packages?channel=unstable&show=pev&type=packages&query=pev)
 - [pwndbg](https://search.nixos.org/packages?channel=unstable&show=pwndbg&type=packages&query=pwndbg)
 - [python3Packages.binwalk](https://search.nixos.org/packages?channel=unstable&show=python3Packages.binwalk&type=packages&query=python3Packages.binwalk)
