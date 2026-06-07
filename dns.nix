@@ -17,6 +17,7 @@
     dnspeep
     dnsvalidator
     dnsx
+    domain-check
     fierce
     findomain
     knockpy
