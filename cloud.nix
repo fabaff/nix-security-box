@@ -14,6 +14,7 @@
     grimoire
     imdshift
     pacu
+    peirates
     poutine
     prowler
     yatas
