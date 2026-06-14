@@ -174,6 +174,7 @@ fierce
 findomain
 flare-floss
 flashrom
+flawz
 forbidden
 foremost
 fping
@@ -384,6 +385,7 @@ pacu
 padre
 parted
 payload-dumper-go
+peirates
 penelope
 pev
 photon

@@ -175,6 +175,7 @@
     findomain
     flare-floss
     flashrom
+    flawz
     forbidden
     foremost
     fping
@@ -385,6 +386,7 @@
     padre
     parted
     payload-dumper-go
+    peirates
     penelope
     pev
     photon
