@@ -11,6 +11,7 @@
     cve-prioritizer
     doona
     exposor
+    flawz
     galleta
     honeytrap
     jwt-cli
