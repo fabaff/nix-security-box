@@ -464,6 +464,7 @@ secrethound
 secrets-extractor
 secretscanner
 sh4d0wup
+sharefinder
 shellz
 sherlock
 silenthound

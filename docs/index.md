@@ -633,6 +633,7 @@ Tool overview
 - [rdwatool](https://search.nixos.org/packages?channel=unstable&show=rdwatool&type=packages&query=rdwatool)
 - [samba](https://search.nixos.org/packages?channel=unstable&show=samba&type=packages&query=samba)
 - [sccmhunter](https://search.nixos.org/packages?channel=unstable&show=sccmhunter&type=packages&query=sccmhunter)
+- [sharefinder](https://search.nixos.org/packages?channel=unstable&show=sharefinder&type=packages&query=sharefinder)
 - [smbmap](https://search.nixos.org/packages?channel=unstable&show=smbmap&type=packages&query=smbmap)
 - [smbscan](https://search.nixos.org/packages?channel=unstable&show=smbscan&type=packages&query=smbscan)
 - [taskhound](https://search.nixos.org/packages?channel=unstable&show=taskhound&type=packages&query=taskhound)
