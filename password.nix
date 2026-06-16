@@ -7,6 +7,7 @@
     authoscope
     bruteforce-luks
     # brutespray
+    cewl
     conpass
     crunch
     h8mail
