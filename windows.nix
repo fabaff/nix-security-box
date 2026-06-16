@@ -36,6 +36,7 @@
     rdwatool
     samba
     sccmhunter
+    sharefinder
     smbmap
     smbscan
     taskhound
