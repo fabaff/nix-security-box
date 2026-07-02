@@ -12,6 +12,7 @@
     metabigor
     # p0f
     raccoon-scanner
+    recon-ng
     sherlock
     sn0int
     socialscan
