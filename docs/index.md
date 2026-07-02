@@ -428,6 +428,7 @@ Tool overview
 
 - [authoscope](https://search.nixos.org/packages?channel=unstable&show=authoscope&type=packages&query=authoscope)
 - [bruteforce-luks](https://search.nixos.org/packages?channel=unstable&show=bruteforce-luks&type=packages&query=bruteforce-luks)
+- [cewl](https://search.nixos.org/packages?channel=unstable&show=cewl&type=packages&query=cewl)
 - [conpass](https://search.nixos.org/packages?channel=unstable&show=conpass&type=packages&query=conpass)
 - [crunch](https://search.nixos.org/packages?channel=unstable&show=crunch&type=packages&query=crunch)
 - [h8mail](https://search.nixos.org/packages?channel=unstable&show=h8mail&type=packages&query=h8mail)
@@ -547,6 +548,7 @@ Tool overview
 - [maigret](https://search.nixos.org/packages?channel=unstable&show=maigret&type=packages&query=maigret)
 - [metabigor](https://search.nixos.org/packages?channel=unstable&show=metabigor&type=packages&query=metabigor)
 - [raccoon-scanner](https://search.nixos.org/packages?channel=unstable&show=raccoon-scanner&type=packages&query=raccoon-scanner)
+- [recon-ng](https://search.nixos.org/packages?channel=unstable&show=recon-ng&type=packages&query=recon-ng)
 - [sherlock](https://search.nixos.org/packages?channel=unstable&show=sherlock&type=packages&query=sherlock)
 - [sn0int](https://search.nixos.org/packages?channel=unstable&show=sn0int&type=packages&query=sn0int)
 - [socialscan](https://search.nixos.org/packages?channel=unstable&show=socialscan&type=packages&query=socialscan)

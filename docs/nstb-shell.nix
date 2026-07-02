@@ -74,6 +74,7 @@ mkShell {
     certinfo-go
     certipy
     certsync
+    cewl
     cf-hero
     cfripper
     chain-bench
@@ -440,6 +441,7 @@ mkShell {
     rdap
     rdwatool
     reaverwps
+    recon-ng
     recoverjpeg
     redfang
     redsocks

@@ -73,6 +73,7 @@ certinfo-go
 certinfo-go
 certipy
 certsync
+cewl
 cf-hero
 cfripper
 chain-bench
@@ -439,6 +440,7 @@ radare2-cutter
 rdap
 rdwatool
 reaverwps
+recon-ng
 recoverjpeg
 redfang
 redsocks
