@@ -23,6 +23,7 @@
     knockpy
     massdns
     mhost
+    puredns
     subcat
     subfinder
     subprober
