@@ -18,6 +18,7 @@
     gitls
     gitxray
     gokart
+    kingfisher
     legitify
     osv-detector
     packj
