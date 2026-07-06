@@ -37,6 +37,7 @@
     samba
     sccmhunter
     sharefinder
+    skewrun
     smbmap
     smbscan
     taskhound
