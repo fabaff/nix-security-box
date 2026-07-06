@@ -27,6 +27,7 @@
     subfinder
     subprober
     subzerod
+    tldfinder
     wtfis
   ];
 }
