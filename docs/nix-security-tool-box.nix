@@ -226,6 +226,7 @@
     h2spec
     h8mail
     hachoir
+    hacksguard
     hakrawler
     hans
     hashcat
@@ -280,6 +281,7 @@
     kepler
     kerbrute
     killerbee
+    kingfisher
     kismet
     kiterunner
     knockpy
@@ -406,6 +408,7 @@
     prowler
     proxify
     proxychains
+    puredns
     putty
     pwgen
     pwnat
@@ -476,6 +479,7 @@
     sipsak
     sipvicious
     sish
+    skewrun
     skjold
     sleuthkit
     slowlorust
@@ -539,6 +543,7 @@
     tfsec
     thc-hydra
     theharvester
+    tldfinder
     tlsanalyser
     tlsinfo
     tlsx
