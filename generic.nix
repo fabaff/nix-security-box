@@ -27,6 +27,7 @@
     macchanger
     nano
     parted
+    pspy
     pwgen
     ronin
     spyre
