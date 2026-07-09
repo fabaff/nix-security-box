@@ -64,6 +64,9 @@
     oshka
     trajan
 
+    # Messaging
+    mqattack
+
     # Terraform
     terrascan
     tfsec
