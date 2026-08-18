@@ -328,6 +328,7 @@
     monsoon
     morf
     mosh
+    mqattack
     msldapdump
     mtr
     mubeng
@@ -408,6 +409,7 @@
     prowler
     proxify
     proxychains
+    pspy
     puredns
     putty
     pwgen
@@ -544,6 +546,7 @@
     thc-hydra
     theharvester
     tldfinder
+    tldx
     tlsanalyser
     tlsinfo
     tlsx

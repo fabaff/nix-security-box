@@ -327,6 +327,7 @@ mongoaudit
 monsoon
 morf
 mosh
+mqattack
 msldapdump
 mtr
 mubeng
@@ -407,6 +408,7 @@ pre2k
 prowler
 proxify
 proxychains
+pspy
 puredns
 putty
 pwgen
@@ -543,6 +545,7 @@ tfsec
 thc-hydra
 theharvester
 tldfinder
+tldx
 tlsanalyser
 tlsinfo
 tlsx

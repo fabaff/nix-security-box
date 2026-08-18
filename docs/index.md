@@ -313,6 +313,7 @@ Tool overview
 - [macchanger](https://search.nixos.org/packages?channel=unstable&show=macchanger&type=packages&query=macchanger)
 - [nano](https://search.nixos.org/packages?channel=unstable&show=nano&type=packages&query=nano)
 - [parted](https://search.nixos.org/packages?channel=unstable&show=parted&type=packages&query=parted)
+- [pspy](https://search.nixos.org/packages?channel=unstable&show=pspy&type=packages&query=pspy)
 - [pwgen](https://search.nixos.org/packages?channel=unstable&show=pwgen&type=packages&query=pwgen)
 - [ronin](https://search.nixos.org/packages?channel=unstable&show=ronin&type=packages&query=ronin)
 - [spyre](https://search.nixos.org/packages?channel=unstable&show=spyre&type=packages&query=spyre)
@@ -419,6 +420,7 @@ Tool overview
 - [pqcscan](https://search.nixos.org/packages?channel=unstable&show=pqcscan&type=packages&query=pqcscan)
 - [oshka](https://search.nixos.org/packages?channel=unstable&show=oshka&type=packages&query=oshka)
 - [trajan](https://search.nixos.org/packages?channel=unstable&show=trajan&type=packages&query=trajan)
+- [mqattack](https://search.nixos.org/packages?channel=unstable&show=mqattack&type=packages&query=mqattack)
 - [terrascan](https://search.nixos.org/packages?channel=unstable&show=terrascan&type=packages&query=terrascan)
 - [tfsec](https://search.nixos.org/packages?channel=unstable&show=tfsec&type=packages&query=tfsec)
 - [chain-bench](https://search.nixos.org/packages?channel=unstable&show=chain-bench&type=packages&query=chain-bench)
@@ -554,6 +556,7 @@ Tool overview
 - [sn0int](https://search.nixos.org/packages?channel=unstable&show=sn0int&type=packages&query=sn0int)
 - [socialscan](https://search.nixos.org/packages?channel=unstable&show=socialscan&type=packages&query=socialscan)
 - [theharvester](https://search.nixos.org/packages?channel=unstable&show=theharvester&type=packages&query=theharvester)
+- [tldx](https://search.nixos.org/packages?channel=unstable&show=tldx&type=packages&query=tldx)
 - [urlhunter](https://search.nixos.org/packages?channel=unstable&show=urlhunter&type=packages&query=urlhunter)
 
 # Fuzzers

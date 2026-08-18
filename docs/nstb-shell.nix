@@ -328,6 +328,7 @@ mkShell {
     monsoon
     morf
     mosh
+    mqattack
     msldapdump
     mtr
     mubeng
@@ -408,6 +409,7 @@ mkShell {
     prowler
     proxify
     proxychains
+    pspy
     puredns
     putty
     pwgen
@@ -544,6 +546,7 @@ mkShell {
     thc-hydra
     theharvester
     tldfinder
+    tldx
     tlsanalyser
     tlsinfo
     tlsx
