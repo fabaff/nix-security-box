@@ -17,6 +17,7 @@
     sn0int
     socialscan
     theharvester
+    tldx
     urlhunter
   ];
 }
