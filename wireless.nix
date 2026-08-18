@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     aircrack-ng
     airgeddon
+    airgorah
     bully
     cowpatty
     dbmonster
