@@ -17,6 +17,7 @@
     aiodnsbrute
     aircrack-ng
     airgeddon
+    airgorah
     albedo
     ali
     amass
@@ -475,6 +476,7 @@
     sharefinder
     shellz
     sherlock
+    siege
     silenthound
     simg2img
     sipp
@@ -617,6 +619,7 @@
     xorex
     xortool
     xrdp
+    xsstrike
     xsubfind3r
     yara
     yara-x

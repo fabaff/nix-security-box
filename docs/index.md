@@ -6,6 +6,7 @@ Tool overview
 
 - [aircrack-ng](https://search.nixos.org/packages?channel=unstable&show=aircrack-ng&type=packages&query=aircrack-ng)
 - [airgeddon](https://search.nixos.org/packages?channel=unstable&show=airgeddon&type=packages&query=airgeddon)
+- [airgorah](https://search.nixos.org/packages?channel=unstable&show=airgorah&type=packages&query=airgorah)
 - [bully](https://search.nixos.org/packages?channel=unstable&show=bully&type=packages&query=bully)
 - [cowpatty](https://search.nixos.org/packages?channel=unstable&show=cowpatty&type=packages&query=cowpatty)
 - [dbmonster](https://search.nixos.org/packages?channel=unstable&show=dbmonster&type=packages&query=dbmonster)
@@ -143,6 +144,7 @@ Tool overview
 - [cassowary](https://search.nixos.org/packages?channel=unstable&show=cassowary&type=packages&query=cassowary)
 - [ddosify](https://search.nixos.org/packages?channel=unstable&show=ddosify&type=packages&query=ddosify)
 - [oha](https://search.nixos.org/packages?channel=unstable&show=oha&type=packages&query=oha)
+- [siege](https://search.nixos.org/packages?channel=unstable&show=siege&type=packages&query=siege)
 - [tsung](https://search.nixos.org/packages?channel=unstable&show=tsung&type=packages&query=tsung)
 - [vegeta](https://search.nixos.org/packages?channel=unstable&show=vegeta&type=packages&query=vegeta)
 
@@ -241,6 +243,7 @@ Tool overview
 - [wuzz](https://search.nixos.org/packages?channel=unstable&show=wuzz&type=packages&query=wuzz)
 - [xcrawl3r](https://search.nixos.org/packages?channel=unstable&show=xcrawl3r&type=packages&query=xcrawl3r)
 - [xnlinkfinder](https://search.nixos.org/packages?channel=unstable&show=xnlinkfinder&type=packages&query=xnlinkfinder)
+- [xsstrike](https://search.nixos.org/packages?channel=unstable&show=xsstrike&type=packages&query=xsstrike)
 - [xsubfind3r](https://search.nixos.org/packages?channel=unstable&show=xsubfind3r&type=packages&query=xsubfind3r)
 
 # Kubernetes
