@@ -73,6 +73,7 @@
     wuzz
     xcrawl3r
     xnlinkfinder
+    xsstrike
     xsubfind3r
   ];
 }
