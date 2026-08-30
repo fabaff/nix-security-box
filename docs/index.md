@@ -103,6 +103,7 @@ Tool overview
 - [betterleaks](https://search.nixos.org/packages?channel=unstable&show=betterleaks&type=packages&query=betterleaks)
 - [bomber-go](https://search.nixos.org/packages?channel=unstable&show=bomber-go&type=packages&query=bomber-go)
 - [cargo-audit](https://search.nixos.org/packages?channel=unstable&show=cargo-audit&type=packages&query=cargo-audit)
+- [corrode-scanner](https://search.nixos.org/packages?channel=unstable&show=corrode-scanner&type=packages&query=corrode-scanner)
 - [credential-detector](https://search.nixos.org/packages?channel=unstable&show=credential-detector&type=packages&query=credential-detector)
 - [deepsecrets](https://search.nixos.org/packages?channel=unstable&show=deepsecrets&type=packages&query=deepsecrets)
 - [detect-secrets](https://search.nixos.org/packages?channel=unstable&show=detect-secrets&type=packages&query=detect-secrets)
@@ -243,6 +244,7 @@ Tool overview
 - [wuzz](https://search.nixos.org/packages?channel=unstable&show=wuzz&type=packages&query=wuzz)
 - [xcrawl3r](https://search.nixos.org/packages?channel=unstable&show=xcrawl3r&type=packages&query=xcrawl3r)
 - [xnlinkfinder](https://search.nixos.org/packages?channel=unstable&show=xnlinkfinder&type=packages&query=xnlinkfinder)
+- [xssearch](https://search.nixos.org/packages?channel=unstable&show=xssearch&type=packages&query=xssearch)
 - [xsstrike](https://search.nixos.org/packages?channel=unstable&show=xsstrike&type=packages&query=xsstrike)
 - [xsubfind3r](https://search.nixos.org/packages?channel=unstable&show=xsubfind3r&type=packages&query=xsubfind3r)
 

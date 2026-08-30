@@ -104,6 +104,7 @@ commix
 conpass
 copacetic
 corkscrew
+corrode-scanner
 cowpatty
 crackql
 credential-detector
@@ -618,6 +619,7 @@ xnlinkfinder
 xorex
 xortool
 xrdp
+xssearch
 xsstrike
 xsubfind3r
 yara

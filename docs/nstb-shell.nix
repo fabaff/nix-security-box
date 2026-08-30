@@ -105,6 +105,7 @@ mkShell {
     conpass
     copacetic
     corkscrew
+    corrode-scanner
     cowpatty
     crackql
     credential-detector
@@ -619,6 +620,7 @@ mkShell {
     xorex
     xortool
     xrdp
+    xssearch
     xsstrike
     xsubfind3r
     yara
