@@ -7,6 +7,7 @@
     betterleaks
     bomber-go
     cargo-audit
+    corrode-scanner
     credential-detector
     deepsecrets
     detect-secrets
