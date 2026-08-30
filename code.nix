@@ -24,7 +24,7 @@
     osv-detector
     packj
     pip-audit
-    python310Packages.safety
+    python3Packages.safety
     qbom
     search-vulns
     secrethound
