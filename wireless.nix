@@ -21,6 +21,7 @@
     wavemon
     wepwolf
     wifite2
+    wpawolf
     zigpy-cli
   ];
 }
