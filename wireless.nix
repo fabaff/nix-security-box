@@ -19,6 +19,7 @@
     pixiewps
     reaverwps
     wavemon
+    wepwolf
     wifite2
     zigpy-cli
   ];
