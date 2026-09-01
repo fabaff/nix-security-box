@@ -18,6 +18,7 @@
     openrisk
     osv-scanner
     uncover
+    stave
     traitor
     vuls
 
