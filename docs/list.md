@@ -109,6 +109,7 @@ cowpatty
 crackql
 credential-detector
 creds
+credwolf
 crlfsuite
 crunch
 cryptoscan
@@ -256,6 +257,7 @@ ike-scan
 imdshift
 imhex
 inetutils
+introspectre
 inxi
 ioc-scan
 ioccheck
@@ -281,6 +283,7 @@ keedump
 keepwn
 kepler
 kerbrute
+kerbwolf
 killerbee
 kingfisher
 kismet
@@ -353,6 +356,7 @@ netscan
 netscanner
 netsniff-ng
 nfs-utils
+nfswolf
 ngrep
 nikto
 nload
@@ -363,6 +367,7 @@ nomore403
 noseyparker
 nosqli
 nrfutil
+ntdswolf
 ntfs3g
 ntfsprogs
 nth
@@ -418,7 +423,6 @@ pwnat
 pwndbg
 pwntools
 pysqlrecon
-python310Packages.safety
 python3Packages.angr
 python3Packages.angrop
 python3Packages.binwalk
@@ -435,6 +439,7 @@ python3Packages.pypykatz
 python3Packages.pyspiflash
 python3Packages.pytenable
 python3Packages.r2pipe
+python3Packages.safety
 python3Packages.scalib
 python3Packages.scapy
 python3Packages.unicorn
@@ -518,6 +523,7 @@ sslscan
 sslsplit
 sslstrip
 stacs
+stave
 stegseek
 step-cli
 sttr
@@ -591,6 +597,7 @@ wavemon
 wbox
 webanalyze
 websecprobe
+wepwolf
 wfuzz
 wget
 whatweb
@@ -604,6 +611,7 @@ wireguard-tools
 wireshark
 wireshark-cli
 witness
+wpawolf
 wprecon
 wpscan
 wsrepl
