@@ -51,6 +51,7 @@
     cifs-utils
     freerdp
     net-snmp
+    nfswolf
     nfs-utils
     ntp
     openssh
