@@ -9,6 +9,7 @@
     cargo-audit
     corrode-scanner
     credential-detector
+    credwolf
     deepsecrets
     detect-secrets
     freeze
