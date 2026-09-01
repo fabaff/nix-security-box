@@ -24,6 +24,7 @@
     go365
     gomapenum
     kerbrute
+    kerbwolf
     knowsmore
     lil-pwny
     nbtscan
