@@ -20,6 +20,7 @@
     crlfsuite
     dalfox
     dismap
+    # dirsearch currently broken
     dirstalk
     dontgo403
     forbidden
