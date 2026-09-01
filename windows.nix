@@ -29,6 +29,7 @@
     lil-pwny
     nbtscan
     nbtscanner
+    ntdswolf
     offensive-azure
     powerview
     pre2k
