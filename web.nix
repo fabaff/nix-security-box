@@ -41,6 +41,7 @@
     http-server
     httpx
     nodePackages.hyperpotamus
+    introspectre
     jaeles
     jsubfinder
     jwt-hack
