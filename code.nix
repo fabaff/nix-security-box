@@ -12,6 +12,7 @@
     credwolf
     deepsecrets
     detect-secrets
+    errcheck
     freeze
     # garble
     git-secret
