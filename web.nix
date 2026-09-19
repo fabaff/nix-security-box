@@ -15,6 +15,7 @@
     cf-hero
     chopchop
     clairvoyance
+    cogitator
     commix
     crackql
     crlfsuite
