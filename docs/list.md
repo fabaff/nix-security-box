@@ -160,6 +160,7 @@ enum4linux
 enum4linux-ng
 enumerepo
 erosmb
+errcheck
 esptool
 eternal-terminal
 ettercap
@@ -325,12 +326,15 @@ mfoc
 mhost
 mini-pqc
 minicom
+mithril
 mitm6
 mitmproxy
 mitmproxy2swagger
+mobsf
 mongoaudit
 monsoon
 morf
+moria
 mosh
 mqattack
 msldapdump
