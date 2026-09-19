@@ -13,6 +13,7 @@
     netscan
     nmap
     udpx
+    portwave
     smap
     sniffcrack
     sx-go
