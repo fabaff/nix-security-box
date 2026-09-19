@@ -13,6 +13,7 @@
     gallia
     hachoir
     mithril
+    moria
     nrfutil
     packetry
     teensy-loader-cli
