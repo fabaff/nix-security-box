@@ -12,6 +12,7 @@
     extrude
     gallia
     hachoir
+    mithril
     nrfutil
     packetry
     teensy-loader-cli
