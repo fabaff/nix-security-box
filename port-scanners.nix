@@ -12,12 +12,12 @@
     naabu
     netscan
     nmap
-    udpx
     portwave
+    rustscan
     smap
     sniffcrack
     sx-go
-    rustscan
+    udpx
     zmap
   ];
 }
