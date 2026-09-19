@@ -9,6 +9,7 @@
     # brutespray
     cewl
     conpass
+    crack-hash
     crunch
     h8mail
     hashcat
