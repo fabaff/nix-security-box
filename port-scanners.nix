@@ -14,6 +14,7 @@
     nmap
     udpx
     smap
+    sniffcrack
     sx-go
     rustscan
     zmap
