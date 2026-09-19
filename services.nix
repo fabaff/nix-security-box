@@ -25,6 +25,7 @@
     # E-Mail
     mx-takeover
     ruler
+    smtpeek
     swaks
     trustymail
 
