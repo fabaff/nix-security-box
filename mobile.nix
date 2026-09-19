@@ -12,6 +12,7 @@
     dex2jar
     genymotion
     ghost
+    mobsf
     morf
     otadump
     payload-dumper-go
