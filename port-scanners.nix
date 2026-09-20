@@ -8,6 +8,7 @@
     das
     havn
     ipscan
+    lazynmap
     masscan
     naabu
     netscan
