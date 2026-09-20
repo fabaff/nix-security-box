@@ -8,7 +8,6 @@
     checkip
     cert-x-gen
     ghunt
-    ike-scan
     keepwn
     metasploit
     nbutools
@@ -76,7 +75,11 @@
     # Supply chain
     chain-bench
     witness
-    
+
+    # VPN
+    ike-scan
+    ikebuster
+
     # WebDAV
     davtest
   ];
