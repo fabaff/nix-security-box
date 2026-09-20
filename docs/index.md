@@ -167,6 +167,7 @@ Tool overview
 
 # Port scanners
 
+- [asphyxia](https://search.nixos.org/packages?channel=unstable&show=asphyxia&type=packages&query=asphyxia)
 - [das](https://search.nixos.org/packages?channel=unstable&show=das&type=packages&query=das)
 - [havn](https://search.nixos.org/packages?channel=unstable&show=havn&type=packages&query=havn)
 - [ipscan](https://search.nixos.org/packages?channel=unstable&show=ipscan&type=packages&query=ipscan)
@@ -174,10 +175,12 @@ Tool overview
 - [naabu](https://search.nixos.org/packages?channel=unstable&show=naabu&type=packages&query=naabu)
 - [netscan](https://search.nixos.org/packages?channel=unstable&show=netscan&type=packages&query=netscan)
 - [nmap](https://search.nixos.org/packages?channel=unstable&show=nmap&type=packages&query=nmap)
-- [udpx](https://search.nixos.org/packages?channel=unstable&show=udpx&type=packages&query=udpx)
-- [smap](https://search.nixos.org/packages?channel=unstable&show=smap&type=packages&query=smap)
-- [sx-go](https://search.nixos.org/packages?channel=unstable&show=sx-go&type=packages&query=sx-go)
+- [portwave](https://search.nixos.org/packages?channel=unstable&show=portwave&type=packages&query=portwave)
 - [rustscan](https://search.nixos.org/packages?channel=unstable&show=rustscan&type=packages&query=rustscan)
+- [smap](https://search.nixos.org/packages?channel=unstable&show=smap&type=packages&query=smap)
+- [sniffcrack](https://search.nixos.org/packages?channel=unstable&show=sniffcrack&type=packages&query=sniffcrack)
+- [sx-go](https://search.nixos.org/packages?channel=unstable&show=sx-go&type=packages&query=sx-go)
+- [udpx](https://search.nixos.org/packages?channel=unstable&show=udpx&type=packages&query=udpx)
 - [zmap](https://search.nixos.org/packages?channel=unstable&show=zmap&type=packages&query=zmap)
 
 # Web
@@ -192,6 +195,7 @@ Tool overview
 - [cf-hero](https://search.nixos.org/packages?channel=unstable&show=cf-hero&type=packages&query=cf-hero)
 - [chopchop](https://search.nixos.org/packages?channel=unstable&show=chopchop&type=packages&query=chopchop)
 - [clairvoyance](https://search.nixos.org/packages?channel=unstable&show=clairvoyance&type=packages&query=clairvoyance)
+- [cogitator](https://search.nixos.org/packages?channel=unstable&show=cogitator&type=packages&query=cogitator)
 - [commix](https://search.nixos.org/packages?channel=unstable&show=commix&type=packages&query=commix)
 - [crackql](https://search.nixos.org/packages?channel=unstable&show=crackql&type=packages&query=crackql)
 - [crlfsuite](https://search.nixos.org/packages?channel=unstable&show=crlfsuite&type=packages&query=crlfsuite)
@@ -408,6 +412,7 @@ Tool overview
 - [vuls](https://search.nixos.org/packages?channel=unstable&show=vuls&type=packages&query=vuls)
 - [mx-takeover](https://search.nixos.org/packages?channel=unstable&show=mx-takeover&type=packages&query=mx-takeover)
 - [ruler](https://search.nixos.org/packages?channel=unstable&show=ruler&type=packages&query=ruler)
+- [smtpeek](https://search.nixos.org/packages?channel=unstable&show=smtpeek&type=packages&query=smtpeek)
 - [swaks](https://search.nixos.org/packages?channel=unstable&show=swaks&type=packages&query=swaks)
 - [trustymail](https://search.nixos.org/packages?channel=unstable&show=trustymail&type=packages&query=trustymail)
 - [agneyastra](https://search.nixos.org/packages?channel=unstable&show=agneyastra&type=packages&query=agneyastra)
@@ -448,6 +453,7 @@ Tool overview
 - [bruteforce-luks](https://search.nixos.org/packages?channel=unstable&show=bruteforce-luks&type=packages&query=bruteforce-luks)
 - [cewl](https://search.nixos.org/packages?channel=unstable&show=cewl&type=packages&query=cewl)
 - [conpass](https://search.nixos.org/packages?channel=unstable&show=conpass&type=packages&query=conpass)
+- [crack-hash](https://search.nixos.org/packages?channel=unstable&show=crack-hash&type=packages&query=crack-hash)
 - [crunch](https://search.nixos.org/packages?channel=unstable&show=crunch&type=packages&query=crunch)
 - [h8mail](https://search.nixos.org/packages?channel=unstable&show=h8mail&type=packages&query=h8mail)
 - [hashcat](https://search.nixos.org/packages?channel=unstable&show=hashcat&type=packages&query=hashcat)
@@ -695,6 +701,7 @@ Tool overview
 - [netexec](https://search.nixos.org/packages?channel=unstable&show=netexec&type=packages&query=netexec)
 - [nload](https://search.nixos.org/packages?channel=unstable&show=nload&type=packages&query=nload)
 - [nuttcp](https://search.nixos.org/packages?channel=unstable&show=nuttcp&type=packages&query=nuttcp)
+- [nxc-rs](https://search.nixos.org/packages?channel=unstable&show=nxc-rs&type=packages&query=nxc-rs)
 - [pingu](https://search.nixos.org/packages?channel=unstable&show=pingu&type=packages&query=pingu)
 - [putty](https://search.nixos.org/packages?channel=unstable&show=putty&type=packages&query=putty)
 - [pwnat](https://search.nixos.org/packages?channel=unstable&show=pwnat&type=packages&query=pwnat)

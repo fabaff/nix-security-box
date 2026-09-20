@@ -31,6 +31,7 @@
     arp-scan-rs
     arping
     arpoison
+    asphyxia
     atac
     atftp
     authoscope
@@ -101,12 +102,14 @@
     cloudlist
     cmospwd
     coercer
+    cogitator
     commix
     conpass
     copacetic
     corkscrew
     corrode-scanner
     cowpatty
+    crack-hash
     crackql
     credential-detector
     creds
@@ -382,6 +385,7 @@
     nuclei-templates
     nuttcp
     nwipe
+    nxc-rs
     offat
     offensive-azure
     oha
@@ -412,6 +416,7 @@
     pktgen
     plecost
     popeye
+    portwave
     poutine
     powerview
     pqc-bench
@@ -500,9 +505,11 @@
     smap
     smbmap
     smbscan
+    smtpeek
     sn0int
     snallygaster
     sngrep
+    sniffcrack
     sniffglue
     snmpen
     snscrape
