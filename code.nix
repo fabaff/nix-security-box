@@ -36,5 +36,6 @@
     trufflehog
     whispers
     xeol
+    zentra
   ];
 }
