@@ -62,6 +62,7 @@
     snallygaster
     subjs
     swaggerhole
+    terminus-rs
     uddup
     urlfinder
     urx
