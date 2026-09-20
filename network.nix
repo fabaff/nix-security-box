@@ -26,6 +26,7 @@
     netexec
     nload
     nuttcp
+    nxc-rs
     pingu
     putty
     pwnat
