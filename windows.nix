@@ -21,6 +21,7 @@
     erosmb
     # evil-winrm
     evil-winrm-py
+    ghosthound
     go365
     gomapenum
     kerbrute
