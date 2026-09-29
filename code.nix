@@ -21,6 +21,7 @@
     gitls
     gitxray
     gokart
+    hexora
     kingfisher
     legitify
     osv-detector
