@@ -9,6 +9,7 @@
     dnstop
     driftnet
     dsniff
+    fluere
     goreplay
     joincap
     # junkie
