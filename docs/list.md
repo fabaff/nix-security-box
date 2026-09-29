@@ -53,6 +53,7 @@ bore-cli
 braa
 brakeman
 breads-ad
+brutecraber
 bruteforce-luks
 btop
 bully
@@ -183,6 +184,7 @@ findomain
 flare-floss
 flashrom
 flawz
+fluere
 forbidden
 foremost
 fping
@@ -239,9 +241,11 @@ hashcat
 hashcat-utils
 hashdeep
 havn
+hayabusa-sec
 hcxdumptool
 hcxtools
 hekatomb
+hexora
 hey
 hfinger
 hivex
@@ -258,6 +262,7 @@ httpx
 hurl
 iftop
 ike-scan
+ikebuster
 imdshift
 imhex
 inetutils
@@ -300,6 +305,7 @@ kubeaudit
 kubescape
 kubestroyer
 laudanum
+lazynmap
 ldapdomaindump
 ldapmonitor
 ldapnomnom
@@ -466,6 +472,7 @@ recoverjpeg
 redfang
 redsocks
 regexploit
+reknife
 responder
 rizin
 ronin
@@ -557,6 +564,7 @@ teensy-loader-cli
 teler
 tell-me-your-secrets
 termineter
+terminus-rs
 termshark
 terrascan
 testdisk
@@ -648,6 +656,7 @@ yersinia
 zap
 zeek
 zellij
+zentra
 zigpy-cli
 zkar
 zmap

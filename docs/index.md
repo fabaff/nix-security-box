@@ -120,6 +120,7 @@ Tool overview
 - [gitls](https://search.nixos.org/packages?channel=unstable&show=gitls&type=packages&query=gitls)
 - [gitxray](https://search.nixos.org/packages?channel=unstable&show=gitxray&type=packages&query=gitxray)
 - [gokart](https://search.nixos.org/packages?channel=unstable&show=gokart&type=packages&query=gokart)
+- [hexora](https://search.nixos.org/packages?channel=unstable&show=hexora&type=packages&query=hexora)
 - [kingfisher](https://search.nixos.org/packages?channel=unstable&show=kingfisher&type=packages&query=kingfisher)
 - [legitify](https://search.nixos.org/packages?channel=unstable&show=legitify&type=packages&query=legitify)
 - [osv-detector](https://search.nixos.org/packages?channel=unstable&show=osv-detector&type=packages&query=osv-detector)
@@ -135,6 +136,7 @@ Tool overview
 - [trufflehog](https://search.nixos.org/packages?channel=unstable&show=trufflehog&type=packages&query=trufflehog)
 - [whispers](https://search.nixos.org/packages?channel=unstable&show=whispers&type=packages&query=whispers)
 - [xeol](https://search.nixos.org/packages?channel=unstable&show=xeol&type=packages&query=xeol)
+- [zentra](https://search.nixos.org/packages?channel=unstable&show=zentra&type=packages&query=zentra)
 
 # Smartcards
 
@@ -159,6 +161,7 @@ Tool overview
 
 - [checksec](https://search.nixos.org/packages?channel=unstable&show=checksec&type=packages&query=checksec)
 - [chkrootkit](https://search.nixos.org/packages?channel=unstable&show=chkrootkit&type=packages&query=chkrootkit)
+- [hayabusa-sec](https://search.nixos.org/packages?channel=unstable&show=hayabusa-sec&type=packages&query=hayabusa-sec)
 - [linux-exploit-suggester](https://search.nixos.org/packages?channel=unstable&show=linux-exploit-suggester&type=packages&query=linux-exploit-suggester)
 - [lynis](https://search.nixos.org/packages?channel=unstable&show=lynis&type=packages&query=lynis)
 - [safety-cli](https://search.nixos.org/packages?channel=unstable&show=safety-cli&type=packages&query=safety-cli)
@@ -171,6 +174,7 @@ Tool overview
 - [das](https://search.nixos.org/packages?channel=unstable&show=das&type=packages&query=das)
 - [havn](https://search.nixos.org/packages?channel=unstable&show=havn&type=packages&query=havn)
 - [ipscan](https://search.nixos.org/packages?channel=unstable&show=ipscan&type=packages&query=ipscan)
+- [lazynmap](https://search.nixos.org/packages?channel=unstable&show=lazynmap&type=packages&query=lazynmap)
 - [masscan](https://search.nixos.org/packages?channel=unstable&show=masscan&type=packages&query=masscan)
 - [naabu](https://search.nixos.org/packages?channel=unstable&show=naabu&type=packages&query=naabu)
 - [netscan](https://search.nixos.org/packages?channel=unstable&show=netscan&type=packages&query=netscan)
@@ -241,6 +245,7 @@ Tool overview
 - [snallygaster](https://search.nixos.org/packages?channel=unstable&show=snallygaster&type=packages&query=snallygaster)
 - [subjs](https://search.nixos.org/packages?channel=unstable&show=subjs&type=packages&query=subjs)
 - [swaggerhole](https://search.nixos.org/packages?channel=unstable&show=swaggerhole&type=packages&query=swaggerhole)
+- [terminus-rs](https://search.nixos.org/packages?channel=unstable&show=terminus-rs&type=packages&query=terminus-rs)
 - [uddup](https://search.nixos.org/packages?channel=unstable&show=uddup&type=packages&query=uddup)
 - [urlfinder](https://search.nixos.org/packages?channel=unstable&show=urlfinder&type=packages&query=urlfinder)
 - [urx](https://search.nixos.org/packages?channel=unstable&show=urx&type=packages&query=urx)
@@ -397,7 +402,6 @@ Tool overview
 - [checkip](https://search.nixos.org/packages?channel=unstable&show=checkip&type=packages&query=checkip)
 - [cert-x-gen](https://search.nixos.org/packages?channel=unstable&show=cert-x-gen&type=packages&query=cert-x-gen)
 - [ghunt](https://search.nixos.org/packages?channel=unstable&show=ghunt&type=packages&query=ghunt)
-- [ike-scan](https://search.nixos.org/packages?channel=unstable&show=ike-scan&type=packages&query=ike-scan)
 - [keepwn](https://search.nixos.org/packages?channel=unstable&show=keepwn&type=packages&query=keepwn)
 - [metasploit](https://search.nixos.org/packages?channel=unstable&show=metasploit&type=packages&query=metasploit)
 - [nbutools](https://search.nixos.org/packages?channel=unstable&show=nbutools&type=packages&query=nbutools)
@@ -445,11 +449,14 @@ Tool overview
 - [tfsec](https://search.nixos.org/packages?channel=unstable&show=tfsec&type=packages&query=tfsec)
 - [chain-bench](https://search.nixos.org/packages?channel=unstable&show=chain-bench&type=packages&query=chain-bench)
 - [witness](https://search.nixos.org/packages?channel=unstable&show=witness&type=packages&query=witness)
+- [ike-scan](https://search.nixos.org/packages?channel=unstable&show=ike-scan&type=packages&query=ike-scan)
+- [ikebuster](https://search.nixos.org/packages?channel=unstable&show=ikebuster&type=packages&query=ikebuster)
 - [davtest](https://search.nixos.org/packages?channel=unstable&show=davtest&type=packages&query=davtest)
 
 # Password
 
 - [authoscope](https://search.nixos.org/packages?channel=unstable&show=authoscope&type=packages&query=authoscope)
+- [brutecraber](https://search.nixos.org/packages?channel=unstable&show=brutecraber&type=packages&query=brutecraber)
 - [bruteforce-luks](https://search.nixos.org/packages?channel=unstable&show=bruteforce-luks&type=packages&query=bruteforce-luks)
 - [cewl](https://search.nixos.org/packages?channel=unstable&show=cewl&type=packages&query=cewl)
 - [conpass](https://search.nixos.org/packages?channel=unstable&show=conpass&type=packages&query=conpass)
@@ -538,6 +545,7 @@ Tool overview
 - [dnstop](https://search.nixos.org/packages?channel=unstable&show=dnstop&type=packages&query=dnstop)
 - [driftnet](https://search.nixos.org/packages?channel=unstable&show=driftnet&type=packages&query=driftnet)
 - [dsniff](https://search.nixos.org/packages?channel=unstable&show=dsniff&type=packages&query=dsniff)
+- [fluere](https://search.nixos.org/packages?channel=unstable&show=fluere&type=packages&query=fluere)
 - [goreplay](https://search.nixos.org/packages?channel=unstable&show=goreplay&type=packages&query=goreplay)
 - [joincap](https://search.nixos.org/packages?channel=unstable&show=joincap&type=packages&query=joincap)
 - [netsniff-ng](https://search.nixos.org/packages?channel=unstable&show=netsniff-ng&type=packages&query=netsniff-ng)
@@ -743,6 +751,7 @@ Tool overview
 - [radare2-cutter](https://search.nixos.org/packages?channel=unstable&show=radare2-cutter&type=packages&query=radare2-cutter)
 - [rizin](https://search.nixos.org/packages?channel=unstable&show=rizin&type=packages&query=rizin)
 - [stacs](https://search.nixos.org/packages?channel=unstable&show=stacs&type=packages&query=stacs)
+- [reknife](https://search.nixos.org/packages?channel=unstable&show=reknife&type=packages&query=reknife)
 - [unicorn](https://search.nixos.org/packages?channel=unstable&show=unicorn&type=packages&query=unicorn)
 - [unicorn-emu](https://search.nixos.org/packages?channel=unstable&show=unicorn-emu&type=packages&query=unicorn-emu)
 - [xortool](https://search.nixos.org/packages?channel=unstable&show=xortool&type=packages&query=xortool)
