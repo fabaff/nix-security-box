@@ -8,7 +8,7 @@
     gsan
     sslscan
     ssldump
-    sslsplit
+    # sslsplit
     sslstrip
     testssl
     tlsinfo
