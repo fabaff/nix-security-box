@@ -9,6 +9,7 @@
     bruteforce-luks
     # brutespray
     cewl
+    ciphey
     conpass
     crack-hash
     crunch
