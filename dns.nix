@@ -8,7 +8,6 @@
     amass
     bind
     dnsenum
-    dnsmon-go
     dnsmonster
     dnsrecon
     dnstake
