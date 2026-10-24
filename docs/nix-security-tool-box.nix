@@ -34,6 +34,7 @@
     asphyxia
     atac
     atftp
+    augustus-go
     authoscope
     autobloody
     azurehound
@@ -92,6 +93,7 @@
     chopchop
     chrony
     cifs-utils
+    ciphey
     cirrusgo
     clair
     clairvoyance
@@ -139,7 +141,6 @@
     dismember
     dive
     dnsenum
-    dnsmon-go
     dnsmonster
     dnspeep
     dnsrecon
@@ -205,6 +206,7 @@
     ghauri
     ghidra-bin
     ghost
+    ghosthound
     ghunt
     girsh
     git-secret
@@ -539,7 +541,6 @@
     ssldump
     sslh
     sslscan
-    sslsplit
     sslstrip
     stacs
     stave

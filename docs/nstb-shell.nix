@@ -34,6 +34,7 @@ mkShell {
     asphyxia
     atac
     atftp
+    augustus-go
     authoscope
     autobloody
     azurehound
@@ -92,6 +93,7 @@ mkShell {
     chopchop
     chrony
     cifs-utils
+    ciphey
     cirrusgo
     clair
     clairvoyance
@@ -139,7 +141,6 @@ mkShell {
     dismember
     dive
     dnsenum
-    dnsmon-go
     dnsmonster
     dnspeep
     dnsrecon
@@ -205,6 +206,7 @@ mkShell {
     ghauri
     ghidra-bin
     ghost
+    ghosthound
     ghunt
     girsh
     git-secret
@@ -539,7 +541,6 @@ mkShell {
     ssldump
     sslh
     sslscan
-    sslsplit
     sslstrip
     stacs
     stave

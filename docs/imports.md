@@ -3,6 +3,7 @@ Imports
 =======
 
 ```text
+      ./ai.nix
       ./bluetooth.nix
       ./cloud.nix
       ./code.nix

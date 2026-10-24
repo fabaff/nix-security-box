@@ -459,6 +459,7 @@ Tool overview
 - [brutecraber](https://search.nixos.org/packages?channel=unstable&show=brutecraber&type=packages&query=brutecraber)
 - [bruteforce-luks](https://search.nixos.org/packages?channel=unstable&show=bruteforce-luks&type=packages&query=bruteforce-luks)
 - [cewl](https://search.nixos.org/packages?channel=unstable&show=cewl&type=packages&query=cewl)
+- [ciphey](https://search.nixos.org/packages?channel=unstable&show=ciphey&type=packages&query=ciphey)
 - [conpass](https://search.nixos.org/packages?channel=unstable&show=conpass&type=packages&query=conpass)
 - [crack-hash](https://search.nixos.org/packages?channel=unstable&show=crack-hash&type=packages&query=crack-hash)
 - [crunch](https://search.nixos.org/packages?channel=unstable&show=crunch&type=packages&query=crunch)
@@ -526,13 +527,16 @@ Tool overview
 - [redfang](https://search.nixos.org/packages?channel=unstable&show=redfang&type=packages&query=redfang)
 - [ubertooth](https://search.nixos.org/packages?channel=unstable&show=ubertooth&type=packages&query=ubertooth)
 
+# Ai
+
+- [augustus-go](https://search.nixos.org/packages?channel=unstable&show=augustus-go&type=packages&query=augustus-go)
+
 # Tls
 
 - [cero](https://search.nixos.org/packages?channel=unstable&show=cero&type=packages&query=cero)
 - [gsan](https://search.nixos.org/packages?channel=unstable&show=gsan&type=packages&query=gsan)
 - [sslscan](https://search.nixos.org/packages?channel=unstable&show=sslscan&type=packages&query=sslscan)
 - [ssldump](https://search.nixos.org/packages?channel=unstable&show=ssldump&type=packages&query=ssldump)
-- [sslsplit](https://search.nixos.org/packages?channel=unstable&show=sslsplit&type=packages&query=sslsplit)
 - [sslstrip](https://search.nixos.org/packages?channel=unstable&show=sslstrip&type=packages&query=sslstrip)
 - [testssl](https://search.nixos.org/packages?channel=unstable&show=testssl&type=packages&query=testssl)
 - [tlsinfo](https://search.nixos.org/packages?channel=unstable&show=tlsinfo&type=packages&query=tlsinfo)
@@ -614,7 +618,6 @@ Tool overview
 - [amass](https://search.nixos.org/packages?channel=unstable&show=amass&type=packages&query=amass)
 - [bind](https://search.nixos.org/packages?channel=unstable&show=bind&type=packages&query=bind)
 - [dnsenum](https://search.nixos.org/packages?channel=unstable&show=dnsenum&type=packages&query=dnsenum)
-- [dnsmon-go](https://search.nixos.org/packages?channel=unstable&show=dnsmon-go&type=packages&query=dnsmon-go)
 - [dnsmonster](https://search.nixos.org/packages?channel=unstable&show=dnsmonster&type=packages&query=dnsmonster)
 - [dnsrecon](https://search.nixos.org/packages?channel=unstable&show=dnsrecon&type=packages&query=dnsrecon)
 - [dnstake](https://search.nixos.org/packages?channel=unstable&show=dnstake&type=packages&query=dnstake)
@@ -655,6 +658,7 @@ Tool overview
 - [enum4linux-ng](https://search.nixos.org/packages?channel=unstable&show=enum4linux-ng&type=packages&query=enum4linux-ng)
 - [erosmb](https://search.nixos.org/packages?channel=unstable&show=erosmb&type=packages&query=erosmb)
 - [evil-winrm-py](https://search.nixos.org/packages?channel=unstable&show=evil-winrm-py&type=packages&query=evil-winrm-py)
+- [ghosthound](https://search.nixos.org/packages?channel=unstable&show=ghosthound&type=packages&query=ghosthound)
 - [go365](https://search.nixos.org/packages?channel=unstable&show=go365&type=packages&query=go365)
 - [gomapenum](https://search.nixos.org/packages?channel=unstable&show=gomapenum&type=packages&query=gomapenum)
 - [kerbrute](https://search.nixos.org/packages?channel=unstable&show=kerbrute&type=packages&query=kerbrute)
