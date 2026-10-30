@@ -41,6 +41,7 @@
     hey
     http-server
     httpx
+    hvt
     nodePackages.hyperpotamus
     introspectre
     jaeles
