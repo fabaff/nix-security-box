@@ -16,6 +16,7 @@
     morf
     otadump
     payload-dumper-go
+    rdx
     scrcpy
     simg2img
     trueseeing
