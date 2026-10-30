@@ -9,6 +9,7 @@
     apk-info
     apkeep
     # apkleaks
+    apksigner
     apktool
     dex2jar
     genymotion
