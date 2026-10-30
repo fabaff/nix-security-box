@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     abootimg
     androguard
+    apk-info
     apkeep
     # apkleaks
     apktool
