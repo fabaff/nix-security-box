@@ -23,7 +23,9 @@ mkShell {
     amass
     amoco
     androguard
+    apk-info
     apkeep
+    apksigner
     apktool
     ares-rs
     arjun
@@ -469,6 +471,7 @@ mkShell {
     radare2-cutter
     rdap
     rdwatool
+    rdx
     reaverwps
     recon-ng
     recoverjpeg

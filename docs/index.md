@@ -281,7 +281,9 @@ Tool overview
 
 - [abootimg](https://search.nixos.org/packages?channel=unstable&show=abootimg&type=packages&query=abootimg)
 - [androguard](https://search.nixos.org/packages?channel=unstable&show=androguard&type=packages&query=androguard)
+- [apk-info](https://search.nixos.org/packages?channel=unstable&show=apk-info&type=packages&query=apk-info)
 - [apkeep](https://search.nixos.org/packages?channel=unstable&show=apkeep&type=packages&query=apkeep)
+- [apksigner](https://search.nixos.org/packages?channel=unstable&show=apksigner&type=packages&query=apksigner)
 - [apktool](https://search.nixos.org/packages?channel=unstable&show=apktool&type=packages&query=apktool)
 - [dex2jar](https://search.nixos.org/packages?channel=unstable&show=dex2jar&type=packages&query=dex2jar)
 - [genymotion](https://search.nixos.org/packages?channel=unstable&show=genymotion&type=packages&query=genymotion)
@@ -290,6 +292,7 @@ Tool overview
 - [morf](https://search.nixos.org/packages?channel=unstable&show=morf&type=packages&query=morf)
 - [otadump](https://search.nixos.org/packages?channel=unstable&show=otadump&type=packages&query=otadump)
 - [payload-dumper-go](https://search.nixos.org/packages?channel=unstable&show=payload-dumper-go&type=packages&query=payload-dumper-go)
+- [rdx](https://search.nixos.org/packages?channel=unstable&show=rdx&type=packages&query=rdx)
 - [scrcpy](https://search.nixos.org/packages?channel=unstable&show=scrcpy&type=packages&query=scrcpy)
 - [simg2img](https://search.nixos.org/packages?channel=unstable&show=simg2img&type=packages&query=simg2img)
 - [trueseeing](https://search.nixos.org/packages?channel=unstable&show=trueseeing&type=packages&query=trueseeing)
