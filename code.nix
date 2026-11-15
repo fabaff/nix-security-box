@@ -21,6 +21,7 @@
     gitls
     gitxray
     gokart
+    graudit
     hexora
     kingfisher
     legitify
