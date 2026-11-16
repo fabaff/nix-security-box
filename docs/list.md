@@ -230,6 +230,7 @@ graphpython
 graphqlmaker
 graphqlmap
 graphw00f
+graudit
 grimoire
 grype
 gsan
@@ -264,6 +265,7 @@ httpie
 httptunnel
 httpx
 hurl
+hvt
 iftop
 ike-scan
 ikebuster
@@ -412,6 +414,7 @@ packetry
 packj
 pacu
 padre
+paranoia
 parted
 payload-dumper-go
 peirates

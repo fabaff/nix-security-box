@@ -231,6 +231,7 @@
     graphqlmaker
     graphqlmap
     graphw00f
+    graudit
     grimoire
     grype
     gsan
@@ -265,6 +266,7 @@
     httptunnel
     httpx
     hurl
+    hvt
     iftop
     ike-scan
     ikebuster
@@ -413,6 +415,7 @@
     packj
     pacu
     padre
+    paranoia
     parted
     payload-dumper-go
     peirates

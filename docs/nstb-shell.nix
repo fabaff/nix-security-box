@@ -231,6 +231,7 @@ mkShell {
     graphqlmaker
     graphqlmap
     graphw00f
+    graudit
     grimoire
     grype
     gsan
@@ -265,6 +266,7 @@ mkShell {
     httptunnel
     httpx
     hurl
+    hvt
     iftop
     ike-scan
     ikebuster
@@ -413,6 +415,7 @@ mkShell {
     packj
     pacu
     padre
+    paranoia
     parted
     payload-dumper-go
     peirates
