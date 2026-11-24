@@ -25,5 +25,6 @@
     sr2t
     sttr
     troubadix
+    yardstick
   ];
 }
