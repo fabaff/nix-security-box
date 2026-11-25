@@ -101,6 +101,7 @@ Tool overview
 - [sr2t](https://search.nixos.org/packages?channel=unstable&show=sr2t&type=packages&query=sr2t)
 - [sttr](https://search.nixos.org/packages?channel=unstable&show=sttr&type=packages&query=sttr)
 - [troubadix](https://search.nixos.org/packages?channel=unstable&show=troubadix&type=packages&query=troubadix)
+- [yardstick](https://search.nixos.org/packages?channel=unstable&show=yardstick&type=packages&query=yardstick)
 
 # Code
 
@@ -535,6 +536,7 @@ Tool overview
 # Ai
 
 - [augustus-go](https://search.nixos.org/packages?channel=unstable&show=augustus-go&type=packages&query=augustus-go)
+- [julius-go](https://search.nixos.org/packages?channel=unstable&show=julius-go&type=packages&query=julius-go)
 
 # Tls
 

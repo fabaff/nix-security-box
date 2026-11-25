@@ -290,6 +290,7 @@ mkShell {
     john
     joincap
     jsubfinder
+    julius-go
     jwhois
     jwt-cli
     jwt-hack
@@ -659,6 +660,7 @@ mkShell {
     xsubfind3r
     yara
     yara-x
+    yardstick
     yatas
     yersinia
     zap

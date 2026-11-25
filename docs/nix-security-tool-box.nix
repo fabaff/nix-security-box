@@ -290,6 +290,7 @@
     john
     joincap
     jsubfinder
+    julius-go
     jwhois
     jwt-cli
     jwt-hack
@@ -659,6 +660,7 @@
     xsubfind3r
     yara
     yara-x
+    yardstick
     yatas
     yersinia
     zap
