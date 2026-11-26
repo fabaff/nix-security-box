@@ -4,6 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
+    agentic-radar
     augustus-go
     julius-go
   ];
