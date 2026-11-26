@@ -9,6 +9,7 @@
     apk-info
     apkeep
     # apkleaks
+    apkscope
     apksigner
     apktool
     dex2jar
